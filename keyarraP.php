@@ -15,8 +15,9 @@
   <img src="LegalOwnership/Snapchat-326844518.jpg" alt="key3">
 
   <img src="LegalOwnership/Snapchat-834282903.jpg" alt="key5">
-  <img src="LegalOwnership/Snapchat-851951769.jpg" alt="key6">
   <p>Hey!!! Everyone come check out my new swimsuit! ;)</p>
+  <img src="LegalOwnership/Snapchat-851951769.jpg" alt="key6">
+
   <img src="LegalOwnership/Snapchat-1668984211.jpg" alt="key7">
   <p>Feelin sexy today... so mooth</p>
   <img src="LegalOwnership/Snapchat-1852124383.jpg" alt="key8">
