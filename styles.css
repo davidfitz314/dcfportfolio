@@ -1,5 +1,9 @@
+header{
+    padding: 250px 250px 250px 250px;
+}
+
 body {
   margin: auto;
-  width: 80%;
+  width: 70%;
   background-color: blue;
 }
