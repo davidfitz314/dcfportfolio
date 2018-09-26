@@ -8,7 +8,7 @@
 <body>
   <p>Since you traded your photos legally for cash, I wanted to show you a preview of what your website can look like.</p>
   <p>But in the event you wish to regain your photos rights, you can finish the deal we made.<p>
-    <p>Now in the event you don't want to finish the deal, well this website will be updated into the key blog. with a daily update, until you can keep your word.</p>
+    <p>Now in the event you don't want to finish the deal, well this website will be updated into the key blog with its own unique keyarrablog.com url, and each day i will upload one of my photos, with extra interesting information.</p>
   <img src="LegalOwnership/Snapchat-210759784.jpg" alt="key1">
   <img src="LegalOwnership/Snapchat-227986906.jpg" alt="key2">
   <img src="LegalOwnership/Snapchat-326844518.jpg" alt="key3">
