@@ -15,11 +15,10 @@ body {
 
 footer {
   padding: 150px 150px 150px 150px;
-  align: center;
-  background-color: white;
+  text-align: center;
 }
 
-footer img:hover {
-  border-style: double;
-  border-color: blue;
+footer img {
+  padding-left: 100px;
+  padding-right: 100px;
 }
