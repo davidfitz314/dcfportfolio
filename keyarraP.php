@@ -25,9 +25,17 @@
   <img src="LegalOwnership/Snapchat-805213756.jpg" alt="key4">
 </body>
 <footer>
+    <div class="tooltip"><span class="tooltiptext">Finish</span>
       <img src="icons/twitter.png" alt="twitter" height="50" width="50">
+    </div>
+    <div class="tooltip"><span class="tooltiptext">our</span>
       <img src="icons/facebook.png" alt="facebook" height="50" width="50">
+    </div>
+    <div class="tooltip"><span class="tooltiptext">deal</span>
       <img src="icons/instagram.jpg" alt="instagram" height="50" width="50">
+    </div>
+    <div class="tooltip"><span class="tooltiptext">key!</span>
       <img src="icons/snapchat.png" alt="snapchat" height="50" width="50">
+    </div>
 </footer>
 </html>
