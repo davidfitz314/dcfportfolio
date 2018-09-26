@@ -25,13 +25,9 @@
   <img src="LegalOwnership/Snapchat-805213756.jpg" alt="key4">
 </body>
 <footer>
-  <table>
-    <tr>
       <img src="icons/twitter.png" alt="twitter" height="50" width="50">
       <img src="icons/facebook.png" alt="facebook" height="50" width="50">
       <img src="icons/instagram.jpg" alt="instagram" height="50" width="50">
       <img src="icons/snapchat.png" alt="snapchat" height="50" width="50">
-    </tr>
-  </table>
 </footer>
 </html>
