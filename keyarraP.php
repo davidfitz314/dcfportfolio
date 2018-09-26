@@ -17,6 +17,6 @@
   <img src="LegalOwnership/Snapchat-851951769.jpg" alt="key6">
   <img src="LegalOwnership/Snapchat-1668984211.jpg" alt="key7">
   <img src="LegalOwnership/Snapchat-1852124383.jpg" alt="key8">
-  <img src="LegalOwnership/Snapchat-2120334385" alt="key9">
+  <img src="LegalOwnership/Snapchat-2120334385.jpg" alt="key9">
 </body>
 </html>
