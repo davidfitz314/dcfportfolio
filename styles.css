@@ -1,9 +1,10 @@
 header{
     padding: 250px 250px 250px 250px;
+    text-align: center;
 }
 
 body {
   margin: auto;
   width: 70%;
-  background-color: blue;
+  background-color: pink;
 }
