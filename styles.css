@@ -1,27 +1,19 @@
 header{
-    padding: 250px 250px 250px 250px;
-    text-align: center;
-  
-    background-color: white;
-    background-repeat: repeat-x;
-    color: #FF1493;
+
 }
 
 body {
   margin: auto;
-  width: 70%;
-  background-color: blue;
-}
-
-footer {
-  padding: 150px 150px 150px 150px;
+  width: 700px;
+  background-color: blue
   text-align: center;
 }
 
-footer img {
-  padding-left: 50px;
-  padding-right: 50px;
+footer {
+
 }
+
+
 
 ///////////////////
 /* Tooltip container */
