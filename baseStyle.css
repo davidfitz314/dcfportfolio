@@ -7,12 +7,11 @@
 }
 
 .headerMenu {
-  height: 100px;
   background-color: orange;
   margin: 0;
   padding: 0;
   overflow: auto;
-  
+
 }
 
 body {
