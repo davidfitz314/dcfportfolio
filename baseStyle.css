@@ -1,13 +1,14 @@
 .topBanner {
   background-color: red;
-  height: 500px;
+  height: 300px;
 }
 
 .headerMenu {
-  height: 150px;
+  height: 100px;
   background-color: orange;
 }
 
 body {
+  background-color: blue;
   text-align: center;
 }
