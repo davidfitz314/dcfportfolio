@@ -6,11 +6,11 @@
 </head>
 <body>
   <div class="headerMenu">
-    <button>Home</button>
+    <button class="goLeft">Home</button>
     <button>About</button>
     <button>Projects</button>
     <button>Education</button>
-    <button>Contact</button>
+    <button class="goRight">Contact</button>
   </div>
   <div class="topBanner">
     <header>

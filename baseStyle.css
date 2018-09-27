@@ -39,3 +39,11 @@ footer {
   overflow: auto;
   background-color: #00ffff;
 }
+
+.goLeft {
+  text-align: left;
+}
+
+.goRight {
+  text-align: Right;
+}
