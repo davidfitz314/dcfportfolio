@@ -23,7 +23,7 @@ body {
 
 .centeredWrapper {
   padding: 0;
-  margin-top: 0 auto;
+  margin: 0 auto;
   overflow: auto;
   width: 70%;
   text-align: left;
