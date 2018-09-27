@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
-<body>
-<p> test 4 </p>
 
-</body>
+<p> test 7 </p>
+
+
 <?php include 'footer.php'; ?>
