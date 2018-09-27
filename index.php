@@ -3,4 +3,4 @@
 <body>
 <p> test 1 </p>
 </body>
-</html>
+<?php include 'footer.php' ?>
