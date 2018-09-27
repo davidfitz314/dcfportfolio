@@ -6,7 +6,11 @@
 </head>
 <body>
   <div class="headerMenu">
-    <p>***menubar goes here***</p>
+    <button>Home</button>
+    <button>About</button>
+    <button>Projects</button>
+    <button>Education</button>
+    <button>Contact</button>
   </div>
   <div class="topBanner">
     <header>
