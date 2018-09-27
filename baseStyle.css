@@ -26,4 +26,5 @@ body {
   width: 70%;
   text-align: left;
   font-family: "Times New Roman", Times, serif;
+  word-wrap: break-word;
 }
