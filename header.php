@@ -6,7 +6,9 @@
 </head>
 <body>
   <div class="headerMenu">
-    <button class="goLeft">Home</button>
+    <div class="goLeft">
+      <button>Home</button>
+    </div>
     <button>About</button>
     <button>Projects</button>
     <button>Education</button>
