@@ -1,6 +1,7 @@
 .topBanner {
   background-color: red;
   height: 300px;
+  margin: 0 auto;
 }
 
 .headerMenu {
@@ -9,6 +10,6 @@
 }
 
 body {
-  background-color: blue;
+  background-color: #f5f5f5;
   text-align: center;
 }
