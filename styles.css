@@ -1,7 +1,7 @@
 header{
     padding: 250px 250px 250px 250px;
     text-align: center;
-    background-image: url("LegalOwnership/Snapchat-2087248607.jpg");
+    background-image: url("icons/transparent-heart-5.png");
     background-color: white;
     background-repeat: repeat-x;
     color: #FF1493;
@@ -10,7 +10,7 @@ header{
 body {
   margin: auto;
   width: 70%;
-  background-color: pink;
+  background-color: blue;
 }
 
 footer {
