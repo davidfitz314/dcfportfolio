@@ -1,3 +1,4 @@
+/*naigation menu*/
 .headerMenu {
   background-color: orange;
   margin: 0;
@@ -5,10 +6,7 @@
   overflow: auto;
 }
 
-.headerMenu button{
-  display: inline;
-}
-
+/*nav menu button special alignments*/
 .goLeft {
   float: left;
 }
@@ -17,6 +15,7 @@
   float: Right;
 }
 
+/*header and banner links to about section*/
 .topBanner {
   background-color: red;
   height: 300px;
@@ -25,6 +24,7 @@
   overflow: auto;
 }
 
+/*default background and margins for site*/
 body {
   background-color: #f5f5f5;
   text-align: center;
@@ -32,6 +32,7 @@ body {
   padding: 0;
 }
 
+/*added margins to allow more whitespace and cleaner look overall*/
 .centeredWrapper {
   padding: 0;
   margin: 0 auto;
@@ -43,6 +44,7 @@ body {
   background-color: #f5f5dc;
 }
 
+/*Links to professional resources facebook, github, linkedin. Can include copyright for website.*/
 footer {
   height: 200px;
   margin: 0;
