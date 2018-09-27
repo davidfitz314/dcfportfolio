@@ -10,11 +10,11 @@
 }
 
 .goLeft {
-  text-align: left;
+  float: left;
 }
 
 .goRight {
-  text-align: Right;
+  float: Right;
 }
 
 .topBanner {
