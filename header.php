@@ -12,7 +12,9 @@
     <button>About</button>
     <button>Projects</button>
     <button>Education</button>
-    <button class="goRight">Contact</button>
+    <div class="goRight">
+      <button>Contact</button>
+    </div>
   </div>
   <div class="topBanner">
     <header>
