@@ -1,17 +1,25 @@
-.topBanner {
-  background-color: red;
-  height: 300px;
-  margin: 0;
-  padding: 0;
-  overflow: auto;
-}
-
 .headerMenu {
   background-color: orange;
   margin: 0;
   padding: 0;
   overflow: auto;
 
+}
+
+.goLeft {
+  text-align: left;
+}
+
+.goRight {
+  text-align: Right;
+}
+
+.topBanner {
+  background-color: red;
+  height: 300px;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
 }
 
 body {
@@ -38,12 +46,4 @@ footer {
   padding: 0;
   overflow: auto;
   background-color: #00ffff;
-}
-
-.goLeft {
-  text-align: left;
-}
-
-.goRight {
-  text-align: Right;
 }
