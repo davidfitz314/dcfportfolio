@@ -1,7 +1,6 @@
-<html>
+
+<?php include 'header.php' ?>
 <body>
-<p>Test</p><br>
-  <p>Test2</p>
-  <a href="brokenLink">broken link</a>
+<p> test 1 </p>
 </body>
 </html>
