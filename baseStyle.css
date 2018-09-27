@@ -3,7 +3,10 @@
   margin: 0;
   padding: 0;
   overflow: auto;
+}
 
+.headerMenu button{
+  display: inline;
 }
 
 .goLeft {
