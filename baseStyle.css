@@ -23,6 +23,7 @@
   padding: 0;
   overflow: auto;
   background-image: url('images/hacker-green.jpg');
+  background-repeat: x;
 }
 
 /*default background and margins for site*/
