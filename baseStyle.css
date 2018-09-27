@@ -23,7 +23,8 @@ body {
 
 .centeredWrapper {
   padding: 0;
-  margin: 0;
+  margin-top: 0 auto;
+  overflow: auto;
   width: 70%;
   text-align: left;
   font-family: "Times New Roman", Times, serif;
