@@ -9,7 +9,6 @@
   margin: 0;
   padding: 5px;
   overflow: auto;
-  /*background-color: white;*/
 }
 
 /*nav menu button special alignments*/
@@ -23,9 +22,11 @@
 
 .goCenter {
   text-align: center;
-  background-color: white;
 }
 
+h2 {
+  color: blue;
+}
 /*default background and margins for site*/
 body {
   background-color: #f5f5f5;
