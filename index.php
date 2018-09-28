@@ -12,7 +12,7 @@
     <p>I've graduated from DSU with a BS in CIT emphasis CS </p>
     <p>lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, </p>
   </div>
-  
+
   <div class="projectsBanner">
     <p>here are my projects</p>
     <button>empty</button>
@@ -20,8 +20,8 @@
     <button>empty</button>
   </div>
 
-
-  <p> test 8 .7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777</p>
-
+  <div class="contactFormBanner">
+    <p> click here to contact me for projects?</p>
+  </div>
 </div>
 <?php include 'footer.php'; ?>

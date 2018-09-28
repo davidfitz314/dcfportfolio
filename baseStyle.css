@@ -73,6 +73,15 @@ body {
   color: black;
 }
 
+/*contact form section banner*/
+.contactFormBanner {
+  height: 300px;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  color: black;
+}
+
 /*Links to professional resources facebook, github, linkedin. Can include copyright for website.*/
 footer {
   height: 200px;
