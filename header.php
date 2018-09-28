@@ -9,7 +9,7 @@
     <div class="centeredWrapper">
       <div class="goCenter">
         <div class="goLeft">
-          <button>Home</button>
+          <button><h1>DCFPortfolio</h1></button>
         </div>
 
         <button>About</button>
