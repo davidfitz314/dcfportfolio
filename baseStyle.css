@@ -55,18 +55,18 @@ body {
 }
 
 .AboutMeWrapperGoLeft {
-  width: 50%;
+  width: 70%;
   float: left;
 }
 
 .AboutMeWrapperGoRight {
-  width: 50%;
+  width: 30%;
   float: Right;
   text-align: center;
 }
 
 .AboutMeWrapperGoRight img{
-  margin-top: 20px;
+  margin-top: 25px;
 }
 
 /*education section banner*/
