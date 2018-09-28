@@ -98,3 +98,8 @@ footer {
   padding: 5px 0px 0px 0px;
   overflow: auto;
 }
+
+.connectIcons img{
+  width: 100px;
+  height: 100px;
+}
