@@ -49,22 +49,13 @@ body {
 }
 
 /*Banner links styling*/
-.bannerLinks a {
+.bannerLinks a, img {
   text-decoration: none;
   color: rgba(0,0,0,1);
   opacity: 1;
 }
 
-.bannerLinks img {
-  opacity: 1;
-}
-
-.bannerLinks img:hover {
-  opacity: 0.5;
-  filter: alpha(opacity=50);
-}
-
-.bannerLinks a:hover {
+.bannerLinks a:hover, img {
   color: rgba(0,0,0,0.5);
   opacity: 0.5;
   filter: alpha(opacity=50);
