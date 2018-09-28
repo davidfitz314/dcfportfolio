@@ -48,20 +48,17 @@ body {
 
 /*about section banner*/
 .aboutBanner {
-  background-color: red;
+  background-color: #ffffe0;
   height: 300px;
   margin: 0;
   padding: 0;
   overflow: auto;
-  background-image: url('images/hacker-green.jpg');
-  background-size: contain;
-  background-repeat: x;
-  color: gold;
+
 }
 
 /*education section banner*/
 .educationBanner {
-  background-color: yellow;
+  background-color: #B0E0E6;
   height: 300px;
   margin: 0;
   padding: 0;
@@ -71,7 +68,7 @@ body {
 
 /*projects section banner*/
 .projectsBanner {
-  background-color: green;
+  background-color: #E6E6FA;
   height: 300px;
   margin: 0;
   padding: 0;
@@ -90,9 +87,15 @@ body {
 
 /*Links to professional resources facebook, github, linkedin. Can include copyright for website.*/
 footer {
+  border-bottom-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: groove;
+  border-width: 10px;
+  border-color: blue;
   height: 200px;
   margin: 0;
-  padding: 0;
+  padding: 5 0 0 0;
   overflow: auto;
   background-color: #00ffff;
   background-image: url('images/good-bye.jpg');
