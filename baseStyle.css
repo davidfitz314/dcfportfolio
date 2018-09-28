@@ -60,13 +60,13 @@ body {
 }
 
 .AboutMeWrapperGoRight {
-  width: 45%;
+  width: 44%;
   float: Right;
   text-align: center;
 }
 
 .AboutMeWrapperGoRight img{
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 /*education section banner*/
