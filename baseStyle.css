@@ -104,7 +104,7 @@ footer {
   height: 100px;
 }
 
-.noLinkEffects a, a:hover, a:visited, a:active, a:link{
+.noLinkEffects a, a:visited, a:active, a:link{
   margin-top:5px;
   color: black;
   text-decoration: none;
