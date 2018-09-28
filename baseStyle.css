@@ -45,6 +45,15 @@ body {
   word-wrap: normal;
 
 }
+.CenteredWrapperGoLeft {
+  width: 49%;
+  float: left;
+}
+
+.CenteredWrapperGoRight {
+  width: 49%;
+  float: Right;
+}
 
 /*about section banner*/
 .aboutBanner {
