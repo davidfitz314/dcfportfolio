@@ -57,6 +57,8 @@ body {
 .bannerLinks a:hover {
   text-decoration: none;
   color: rgba(0,0,0,0.5);
+  opacity: 0.5;
+  filter: alpha(opacity=50);
 
 }
 
