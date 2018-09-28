@@ -56,10 +56,13 @@ body {
   text-align: center;
 }
 
+.CenteredWrapperGoRight img{
+  margin-top: 10px;
+}
+
 /*about section banner*/
 .aboutBanner {
   background-color: #ffffe0;
-  height: 300px;
   margin: 0;
   padding: 0;
   overflow: auto;
