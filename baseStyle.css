@@ -55,4 +55,7 @@ footer {
   padding: 0;
   overflow: auto;
   background-color: #00ffff;
+  background-image: url('images/good-bye.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
