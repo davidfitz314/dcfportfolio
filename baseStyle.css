@@ -70,13 +70,13 @@ body {
 }
 
 .AboutMeWrapperGoLeft {
-  width: 75%;
+  width: 70%;
   float: left;
   margin-right: 2%;
 }
 
 .AboutMeWrapperGoRight {
-  width: 22%;
+  width: 27%;
   float: Right;
   text-align: center;
   margin-left: 1%;
