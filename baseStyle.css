@@ -56,7 +56,7 @@ body {
   overflow: auto;
 }
 
-.AboutMeWrapperGoRight img {
+.AboutMeWrapperGoRight {
   position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: none 0s ease 0s;
 }
 /*.AboutMeWrapperGoLeft {
