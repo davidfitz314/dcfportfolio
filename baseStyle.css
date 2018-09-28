@@ -51,20 +51,20 @@ body {
 /*Banner links styling*/
 .bannerLinks a {
   text-decoration: none;
-  color: rgba(0,0,0,0.5);
+  color: rgba(0,0,0,1);
 }
 
 .bannerLinks img {
-  opacity: 0.5;
+  opacity: 1;
 }
 
 .bannerLinks img:hover {
-  opacity: 1;
+  opacity: 0.5;
   filter: alpha(opacity=50);
 }
 
 .bannerLinks a:hover {
-  color: rgba(0,0,0,0.0);
+  color: rgba(0,0,0,0.5);
   opacity: 0.5;
   filter: alpha(opacity=50);
 }
