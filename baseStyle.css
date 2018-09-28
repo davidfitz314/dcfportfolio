@@ -46,13 +46,14 @@ body {
 
 }
 .CenteredWrapperGoLeft {
-  width: 49%;
+  width: 55%;
   float: left;
 }
 
 .CenteredWrapperGoRight {
-  width: 49%;
+  width: 45%;
   float: Right;
+  text-align: center;
 }
 
 /*about section banner*/
