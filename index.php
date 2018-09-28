@@ -3,8 +3,8 @@
   <!-- links to about section -->
   <div class="aboutBanner">
     <div class="AboutMeWrapperGoLeft">
-      <h2>About</h2>
-      <h3>Welcome, My name is David ChenFitzgerald and I am a Software Developer and IT technician.</h3>
+      <h2>Welcome</h2>
+      <h3>My name is David ChenFitzgerald and I am a Software Developer and IT technician.</h3>
       <p>I love Computer Programming and Information Technology;
         I have a Bachelors in CIT emphasizing CS.
         I am an accomplishment oriented person, it’s similar to goal oriented,
