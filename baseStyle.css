@@ -55,11 +55,11 @@ body {
 }
 
 .bannerLinks img {
-  opacity: 1;
+  opacity: 0.5;
 }
 
 .bannerLinks img:hover {
-  opacity: 0.5;
+  opacity: 1;
   filter: alpha(opacity=50);
 }
 
