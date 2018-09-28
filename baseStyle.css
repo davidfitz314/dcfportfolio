@@ -54,7 +54,7 @@ body {
   color: inherit;
 }
 
-.bannerLinks a:hover {
+.bannerLinks a:hover, img:hover {
   text-decoration: none;
   color: rgba(0,0,0,0.5);
   opacity: 0.5;
