@@ -51,7 +51,7 @@ body {
 /*Banner links styling*/
 .bannerLinks a {
   text-decoration: none;
-  color: inherit;
+  color: rgba(0,0,0,0.5);
 }
 
 .bannerLinks img {
@@ -64,8 +64,8 @@ body {
 }
 
 .bannerLinks a:hover {
-  color: rgba(0,0,0,0.5);
-  opacity: 1;
+  color: rgba(0,0,0,0.0);
+  opacity: 0.5;
   filter: alpha(opacity=50);
 }
 
