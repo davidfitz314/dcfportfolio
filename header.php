@@ -13,8 +13,8 @@
         </div>
 
         <button>About</button>
-        <button>Projects</button>
         <button>Education</button>
+        <button>Projects</button>
 
         <div class="goRight">
           <button>Contact</button>

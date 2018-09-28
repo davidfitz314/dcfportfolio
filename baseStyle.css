@@ -20,19 +20,6 @@
   background-color: gold;
 }
 
-/*header and banner links to about section*/
-.topBanner {
-  background-color: red;
-  height: 300px;
-  margin: 0;
-  padding: 0;
-  overflow: auto;
-  background-image: url('images/hacker-green.jpg');
-  background-size: contain;
-  background-repeat: x;
-  color: gold;
-}
-
 /*default background and margins for site*/
 body {
   background-color: #f5f5f5;
@@ -51,6 +38,39 @@ body {
   font-family: "Times New Roman", Times, serif;
   word-wrap: break-word;
   background-color: #f5f5dc;
+}
+
+/*about section banner*/
+.aboutBanner {
+  background-color: red;
+  height: 300px;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  background-image: url('images/hacker-green.jpg');
+  background-size: contain;
+  background-repeat: x;
+  color: gold;
+}
+
+/*education section banner*/
+.educationBanner {
+  background-color: yellow;
+  height: 300px;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  color: black;
+}
+
+/*projects section banner*/
+.projectsBanner {
+  background-color: green;
+  height: 300px;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  color: black;
 }
 
 /*Links to professional resources facebook, github, linkedin. Can include copyright for website.*/
