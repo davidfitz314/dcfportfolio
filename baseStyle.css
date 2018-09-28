@@ -4,7 +4,7 @@
   border-left-style: none;
   border-right-style: none;
   border-top-style: none;
-  border-width: 3px;
+  border-width: 5px;
   margin: 0;
   padding: 5px;
   overflow: auto;
@@ -22,7 +22,7 @@
 
 .goCenter {
   text-align: center;
-  background-color: orange;
+  background-color: white;
 }
 
 /*default background and margins for site*/
