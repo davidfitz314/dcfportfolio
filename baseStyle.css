@@ -48,8 +48,8 @@ body {
 
 /*about section banner*/
 .aboutBanner {
-  background-color: #ffffe0;
-  margin: 0;
+  /*background-color: #ffffe0;*/
+  margin: 20px;
   padding: 0;
   overflow: auto;
 }
