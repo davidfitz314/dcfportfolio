@@ -55,12 +55,12 @@ body {
 }
 
 .AboutMeWrapperGoLeft {
-  width: 55%;
+  width: 50%;
   float: left;
 }
 
 .AboutMeWrapperGoRight {
-  width: 45%;
+  width: 50%;
   float: Right;
   text-align: center;
 }
