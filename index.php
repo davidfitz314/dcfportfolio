@@ -3,9 +3,12 @@
   <!-- links to about section -->
   <div class="aboutBanner">
     <h1>DCFPortfolio</h1>
-    <p>welcome to my portfolio, my name is David ChenFitzgerald. blah blah blah.</p>
-    <p>Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, </p>
-    <p>Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum,</p>
+    <h4>welcome to my portfolio, my name is David ChenFitzgerald.</h4>
+    <h5>Quick About Me</h5>
+    <p>I love computer programming and science;
+      my dreams are to one day make electronics usually only seen in superhero movies.
+      My favorite technology from childhood was the Hobgoblins hoverboard in Spiderman;
+      I’ve always wanted to make that hoverboard and growing up I did attempt to a few times.</p>
   </div>
 
   <div class="educationBanner">
