@@ -33,7 +33,7 @@ body {
   text-align: center;
   margin: 0;
   padding: 0;
-  line-height: 1.5;
+  line-height: 2.0;
 }
 
 /*added margins to allow more whitespace and cleaner look overall*/
@@ -57,14 +57,16 @@ body {
 }
 
 .AboutMeWrapperGoLeft {
-  width: 70%;
+  width: 69%;
   float: left;
+  margin-right: 1%;
 }
 
 .AboutMeWrapperGoRight {
-  width: 30%;
+  width: 29%;
   float: Right;
-  text-align: right;
+  text-align: center;
+  margin-left: 1%;
 }
 
 .AboutMeWrapperGoRight img{
