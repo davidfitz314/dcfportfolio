@@ -18,7 +18,7 @@
         <p>continue reading...</p>
       </div>
       <div class="AboutMeWrapperGoRight">
-        <img src="images/davidNormal1.jpg" alt="Everyday Dave" width="250px" height="250px">
+        <img src="images/davidsuit1.jpg" alt="Everyday Dave" width="250px" height="250px">
       </div>
     </a>
     </div>
