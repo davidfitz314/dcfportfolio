@@ -3,13 +3,13 @@
   <!-- links to about section -->
   <div class="aboutBanner">
     <div class="AboutMeWrapperGoLeft">
-      <h2>Welcome,</h2>
+      <h2>Welcome to my Portfolio,</h2>
       <h3>My name is David ChenFitzgerald and I am a Software Developer and IT technician.</h3>
-      <p>I love Computer Programming and Information Technology;
-        I have a Bachelors in CIT emphasizing CS.
+      <p>I love Computer Programming and Information Technology.<br />
+        I have a Bachelors in CIT emphasizing CS.<br />
         I am an accomplishment oriented person, it’s similar to goal oriented,
-        but instead, I try to see the big picture alongside of each smaller goal.
-        I am great at working in teams, and I enjoy communicating and getting to know about my project partners.
+        but instead, I try to see the big picture alongside of each smaller goal.<br />
+        I am great at working in teams, and I enjoy communicating and getting to know about my project partners.<br />
         I have been in customer service for quite some time and I have learned to excel at it,
         by giving customers great support. I am also a relaxed person who knows how to get tasks done on time.</p>
       <p>continue reading...</p>
