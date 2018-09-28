@@ -48,6 +48,20 @@ body {
 
 }
 
+/*Banner links styling*/
+.bannerLinks a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.bannerLinks a:hover {
+  text-decoration: none;
+  color: inherit;
+  border: solid;
+  border-width: 1px;
+  border-color: rgba(0,0,225,0.5);
+}
+
 /*about section banner*/
 .aboutBanner {
   /*background-color: #ffffe0;*/
