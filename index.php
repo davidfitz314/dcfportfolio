@@ -15,7 +15,7 @@
       <p>continue reading...</p>
     </div>
     <div class="goRight">
-      <img src="images/filler-immage.jpg" alt="Filler Image" width="200px" height="250px">
+      <img src="images/filler-image.jpg" alt="Filler Image" width="200px" height="250px">
     </div>
   </div>
 
