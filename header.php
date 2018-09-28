@@ -10,9 +10,11 @@
       <div class="goLeft">
         <button>Home</button>
       </div>
-      <button>About</button>
-      <button>Projects</button>
-      <button>Education</button>
+      <div class="goCenter">
+        <button>About</button>
+        <button>Projects</button>
+        <button>Education</button>
+      </div>
       <div class="goRight">
         <button>Contact</button>
       </div>
