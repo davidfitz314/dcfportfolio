@@ -100,11 +100,13 @@ footer {
 }
 
 .connectIcons img{
+  margin: 5px;
   width: 100px;
   height: 100px;
 }
 
 .noLinkEffects a, a:hover, a:visited, a:active, a:link{
+  margin-top:5px;
   color: black;
   text-decoration: none;
 
