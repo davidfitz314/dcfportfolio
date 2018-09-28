@@ -63,7 +63,7 @@ body {
 .AboutMeWrapperGoRight {
   width: 30%;
   float: Right;
-  text-align: center;
+  text-align: right;
 }
 
 .AboutMeWrapperGoRight img{
