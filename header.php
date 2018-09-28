@@ -7,16 +7,18 @@
 <body>
   <div class="headerMenu">
     <div class="centeredWrapper">
-      <div class="goLeft">
-        <button>Home</button>
-      </div>
       <div class="goCenter">
+        <div class="goLeft">
+          <button>Home</button>
+        </div>
+
         <button>About</button>
         <button>Projects</button>
         <button>Education</button>
-      </div>
-      <div class="goRight">
-        <button>Contact</button>
+
+        <div class="goRight">
+          <button>Contact</button>
+        </div>
       </div>
     </div>
   </div>
