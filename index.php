@@ -2,16 +2,21 @@
 <div class="centeredWrapper">
   <!-- links to about section -->
   <div class="aboutBanner">
-    <h2>About Me</h2>
-    <h3>Welcome, My name is David ChenFitzgerald and I am a Software Developer and IT technician.</h3>
-    <p>I love Computer Programming and Information Technology;
-      I have a Bachelors in CIT emphasizing CS.
-      I am an accomplishment oriented person, it’s similar to goal oriented,
-      but instead, I try to see the big picture alongside of each smaller goal.
-      I am great at working in teams, and I enjoy communicating and getting to know about my project partners.
-      I have been in customer service for quite some time and I have learned to excel at it,
-      by giving customers great support. I am also a relaxed person who knows how to get tasks done on time.</p>
+    <div class="goLeft">
+      <h2>About Me</h2>
+      <h3>Welcome, My name is David ChenFitzgerald and I am a Software Developer and IT technician.</h3>
+      <p>I love Computer Programming and Information Technology;
+        I have a Bachelors in CIT emphasizing CS.
+        I am an accomplishment oriented person, it’s similar to goal oriented,
+        but instead, I try to see the big picture alongside of each smaller goal.
+        I am great at working in teams, and I enjoy communicating and getting to know about my project partners.
+        I have been in customer service for quite some time and I have learned to excel at it,
+        by giving customers great support. I am also a relaxed person who knows how to get tasks done on time.</p>
       <p>continue reading...</p>
+    </div>
+    <div class="goRight">
+      <img src="broken" alt="brokenImage">
+    </div>
   </div>
 
   <div class="educationBanner">
