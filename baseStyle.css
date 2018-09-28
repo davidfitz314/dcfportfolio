@@ -84,6 +84,7 @@ body {
 
 .AboutMeWrapperGoRight img{
   margin-top: 25px;
+  border-radius: 25%;
 }
 
 /*education section banner*/
