@@ -5,10 +5,13 @@
     <h1>DCFPortfolio</h1>
     <h4>welcome to my portfolio, my name is David ChenFitzgerald.</h4>
     <h5>Quick About Me</h5>
-    <p>I love computer programming and science;
-      my dreams are to one day make electronics usually only seen in superhero movies.
-      My favorite technology from childhood was the Hobgoblins hoverboard in Spiderman;
-      I’ve always wanted to make that hoverboard and growing up I did attempt to a few times.</p>
+    <p>I love Computer Programming and Information Technology;
+      I am an accomplishment oriented person, it’s similar to goal oriented,
+      but instead, I try to see the big picture alongside of each smaller goal.
+      I am great at working in teams, and I enjoy communicating
+      and getting to know about my project partners.
+      I have been in customer service for quite some time and I have learned to excel at it,
+      by giving customers great support. I am also a relaxed person who knows how to get tasks done on time.</p>
   </div>
 
   <div class="educationBanner">
