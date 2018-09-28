@@ -51,13 +51,20 @@ body {
 /*Banner links styling*/
 .bannerLinks a {
   text-decoration: none;
+  color: inherit;
+}
+
+.bannerLinks img {
   opacity: 1;
 }
 
-.bannerLinks a:hover {
+.bannerLinks img:hover {
   opacity: 0.5;
   filter: alpha(opacity=50);
+}
 
+.bannerLinks a:hover {
+  color: rgba(0,0,0,0.5);
 }
 
 /*about section banner*/
