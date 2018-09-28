@@ -15,7 +15,7 @@
       <p>continue reading...</p>
     </div>
     <div class="goRight">
-      <img src="broken" alt="brokenImage">
+      <img src="broken" alt="brokenImage" width="250px" height="250px">
     </div>
   </div>
 
