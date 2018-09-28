@@ -3,8 +3,8 @@
   <!-- links to about section -->
   <div class="aboutBanner">
     <h1>DCFPortfolio</h1>
-    <h4>welcome to my portfolio, my name is David ChenFitzgerald.</h4>
-    <h5>Quick About Me</h5>
+    <h3>welcome to my portfolio, my name is David ChenFitzgerald.</h3>
+    <h4>Quick About Me</h4>
     <p>I love Computer Programming and Information Technology;
       I am an accomplishment oriented person, it’s similar to goal oriented,
       but instead, I try to see the big picture alongside of each smaller goal.
