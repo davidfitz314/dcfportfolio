@@ -2,7 +2,7 @@
 <div class="centeredWrapper">
   <!-- links to about section -->
   <div class="aboutBanner">
-    <div class="CenteredWrapperGoLeft">
+    <div class="AboutMeGoLeft">
       <h2>About Me</h2>
       <h3>Welcome, My name is David ChenFitzgerald and I am a Software Developer and IT technician.</h3>
       <p>I love Computer Programming and Information Technology;
@@ -14,7 +14,7 @@
         by giving customers great support. I am also a relaxed person who knows how to get tasks done on time.</p>
       <p>continue reading...</p>
     </div>
-    <div class="CenteredWrapperGoRight">
+    <div class="AboutMeGoRight">
       <img src="images/filler-image.jpg" alt="Filler Image" width="200px" height="250px">
     </div>
   </div>
