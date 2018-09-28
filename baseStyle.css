@@ -65,6 +65,8 @@ body {
 
 .bannerLinks a:hover {
   color: rgba(0,0,0,0.5);
+  opacity: 1;
+  filter: alpha(opacity=50);
 }
 
 /*about section banner*/
