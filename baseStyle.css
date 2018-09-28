@@ -52,11 +52,10 @@ body {
 .bannerLinks a {
   text-decoration: none;
   color: inherit;
-  border: none;
+  opacity: 1;
 }
 
 .bannerLinks a:hover {
-  border: solid;
   opacity: 0.5;
   filter: alpha(opacity=50);
 
