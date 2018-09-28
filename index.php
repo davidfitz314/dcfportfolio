@@ -14,7 +14,7 @@
         by giving customers great support. I am also a relaxed person who knows how to get tasks done on time.</p>
       <p>continue reading...</p>
     </div>
-    <div class="AboutMWrappereGoRight">
+    <div class="AboutMeWrapperGoRight">
       <img src="images/filler-image.jpg" alt="Filler Image" width="200px" height="250px">
     </div>
   </div>
