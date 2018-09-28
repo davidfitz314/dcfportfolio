@@ -55,7 +55,7 @@ body {
 }
 
 .bannerLinks img {
-  opacity: 1;
+  opacity: 0;
 }
 
 .bannerLinks img:hover {
