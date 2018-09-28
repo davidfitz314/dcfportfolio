@@ -1,10 +1,14 @@
 /*naigation menu*/
 .headerMenu {
   border-bottom-style: groove;
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
   border-width: 3px;
   margin: 0;
   padding: 0;
   overflow: auto;
+  background-color: white;
 }
 
 /*nav menu button special alignments*/
