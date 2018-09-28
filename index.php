@@ -2,15 +2,16 @@
 <div class="centeredWrapper">
   <!-- links to about section -->
   <div class="aboutBanner">
-    <h2>A Quick About Me</h2>
-    <h3>welcome to my portfolio, my name is David ChenFitzgerald and I am a software developer.</h3>
+    <h2>About Me</h2>
+    <h3>My name is David ChenFitzgerald and I am a software developer and IT technician.</h3>
     <p>I love Computer Programming and Information Technology;
+      I have a Bachelors in CIT emphasizing CS.
       I am an accomplishment oriented person, it’s similar to goal oriented,
       but instead, I try to see the big picture alongside of each smaller goal.
-      I am great at working in teams, and I enjoy communicating
-      and getting to know about my project partners.
+      I am great at working in teams, and I enjoy communicating and getting to know about my project partners.
       I have been in customer service for quite some time and I have learned to excel at it,
       by giving customers great support. I am also a relaxed person who knows how to get tasks done on time.</p>
+      <p>keep reading...</p>
   </div>
 
   <div class="educationBanner">
