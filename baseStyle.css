@@ -4,7 +4,8 @@
   border-left-style: none;
   border-right-style: none;
   border-top-style: none;
-  border-width: 5px;
+  border-width: 10px;
+  border-color: blue;
   margin: 0;
   padding: 5px;
   overflow: auto;
