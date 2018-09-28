@@ -16,7 +16,7 @@
 }
 
 .goCenter {
-  float: center;
+  text-align: center;
 }
 
 /*header and banner links to about section*/
