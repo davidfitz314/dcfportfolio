@@ -9,12 +9,12 @@
     <div class="centeredWrapper">
       <div class="goCenter">
         <div class="goLeft">
-          <button><h1><a nav="index">DCFPortfolio</a></h1></button>
+          <h1><a nav="index">DCFPortfolio</a></h1>
         </div>
 
-        <button><a nav="aboutMe">About</a></button>
-        <button><a nav="educationAndExperience">Education</a></button>
-        <button><a nav="projects">Projects</a></button>
+        <a nav="aboutMe">About</a>
+        <a nav="educationAndExperience">Education</a>
+        <a nav="projects">Projects</a>
 
         <div class="goRight">
           <button>Contact</button>
