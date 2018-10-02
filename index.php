@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
   <!-- links to about section -->
   <div class="aboutBanner">
@@ -40,4 +40,4 @@
     <p> click here to contact me for projects?</p>
   </div>
 </div>
-<?php include 'footer.php'; ?>
+<?php include 'defaultIncludes/footer.php'; ?>
