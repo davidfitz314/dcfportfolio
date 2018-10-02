@@ -5,16 +5,22 @@
 <button>filler</button>
 <button>filler</button>
 <button>filler</button>
+<br />
 <button>filler</button>
 <button>filler</button>
 <button>filler</button>
 <button>filler</button>
+<br />
 <button>filler</button>
 <button>filler</button>
 <button>filler</button>
 <button>filler</button>
+<br />
 <button>filler</button>
 <button>filler</button>
 <button>filler</button>
+<br />
+<p><i>insert pagination at base of each project page</i></p>
+
 </div>
 <?php include 'defaultIncludes/footer.php'; ?>
