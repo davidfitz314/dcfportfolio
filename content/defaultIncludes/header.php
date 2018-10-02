@@ -12,9 +12,9 @@
           <button><h1>DCFPortfolio</h1></button>
         </div>
 
-        <button>About</button>
-        <button>Education</button>
-        <button>Projects</button>
+        <button><a nav="aboutMe">About</a></button>
+        <button><a nav="educationAndExperience">Education</a></button>
+        <button><a nav="projects">Projects</a></button>
 
         <div class="goRight">
           <button>Contact</button>
