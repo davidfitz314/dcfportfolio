@@ -18,7 +18,7 @@
 
         <div class="goRight">
           <button><a href="/content/projects">Projects</a></button>
-          <img src="/content/images/menuButton.png" alt="menu-button" width="25px" height="auto">
+          <img src="/content/images/menuButton.png" alt="menu-button" width="25px" height="auto" padding-top="5px">
         </div>
       </div>
     </div>
