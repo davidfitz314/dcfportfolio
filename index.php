@@ -1,4 +1,4 @@
-<?php include '../content/defaultIncludes/header.php'; ?>
+<?php include '/content/defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
   <!-- links to about section -->
   <div class="aboutBanner">
@@ -18,7 +18,7 @@
         <p>continue reading...</p>
       </div>
       <div class="AboutMeWrapperGoRight">
-        <img src="../content/images/davidNormal1.jpg" alt="Everyday Dave" width="250px" height="250px">
+        <img src="/content/images/davidNormal1.jpg" alt="Everyday Dave" width="250px" height="250px">
       </div>
     </a>
     </div>
@@ -40,4 +40,4 @@
     <p> click here to contact me for projects?</p>
   </div>
 </div>
-<?php include '../content/defaultIncludes/footer.php'; ?>
+<?php include '/content/defaultIncludes/footer.php'; ?>
