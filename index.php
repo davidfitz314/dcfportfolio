@@ -1,4 +1,5 @@
 <?php include 'content/defaultIncludes/header.php'; ?>
+<!-- centerred wrapper div ends in the footer -->
 <div class="centeredWrapper">
   <!-- links to about section -->
   <div class="aboutBanner">
