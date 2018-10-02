@@ -1,4 +1,4 @@
-<?php include '/../content/defaultIncludes/header.php'; ?>
+<?php include '/dcfportfolio/content/defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
   <!-- links to about section -->
   <div class="aboutBanner">
