@@ -31,13 +31,11 @@
 
   <div class="projectsBanner">
     <p>here are my projects</p>
-    <button>empty</button>
+    <button><a href="content/projectFolder/test1">test1</a></button>
     <button>empty</button>
     <button>empty</button>
   </div>
 
-  <div class="contactFormBanner">
-    <p> click here to contact me for projects?</p>
-  </div>
+  
 </div>
 <?php include 'content/defaultIncludes/footer.php'; ?>

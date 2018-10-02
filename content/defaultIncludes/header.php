@@ -14,10 +14,10 @@
 
         <button><a href="/content/aboutMe">About</a></button>
         <button><a href="/content/educationAndExperience">Education</a></button>
-        <button><a href="/content/projects">Projects</a></button>
+
 
         <div class="goRight">
-          <button>Contact</button>
+          <button><a href="/content/projects">Projects</a></button>
         </div>
       </div>
     </div>
