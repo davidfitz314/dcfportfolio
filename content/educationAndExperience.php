@@ -1,5 +1,5 @@
-<?php include 'content/defaultIncludes/header.php'; ?>
+<?php include '/content/defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
 
 </div>
-<?php include 'content/defaultIncludes/footer.php'; ?>
+<?php include '/content/defaultIncludes/footer.php'; ?>
