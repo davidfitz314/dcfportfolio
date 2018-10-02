@@ -1,5 +1,5 @@
-<?php include '/content/defaultIncludes/header.php'; ?>
+<?php include 'defaultIncludes/header.php'; ?>
 <!-- centerred wrapper div ends in the footer -->
 <div class="centeredWrapper">
   <p>tesssssssssssssttttttttt</p>
-<?php include '/content/defaultIncludes/footer.php'; ?>
+<?php include 'defaultIncludes/footer.php'; ?>
