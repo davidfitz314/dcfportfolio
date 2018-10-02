@@ -34,8 +34,9 @@
     <button><a href="content/projectFolder/test1">test1</a></button>
     <button>empty</button>
     <button>empty</button>
+    <a href="content/projects">view all...</a>
   </div>
 
-  
+
 </div>
 <?php include 'content/defaultIncludes/footer.php'; ?>
