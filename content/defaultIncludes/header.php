@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="../views/baseStyle.css">
+  <link rel="stylesheet" type="text/css" href="/views/baseStyle.css">
   <title>DCFPortfolio</title>
 </head>
 <body>
