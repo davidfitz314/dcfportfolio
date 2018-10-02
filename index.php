@@ -40,4 +40,4 @@
     <p> click here to contact me for projects?</p>
   </div>
 </div>
-<?php include '/content/defaultIncludes/footer.php'; ?>
+<?php include 'content/defaultIncludes/footer.php'; ?>
