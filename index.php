@@ -15,7 +15,7 @@
           I have been in customer service for quite some time and I have learned to excel at it,
           by giving customers great support. <br />
           I am also an easy going person who knows how to get tasks done on time.</p>
-        <p>continue reading...</p>
+        <p>continue reading..*.</p>
       </div>
       <div class="AboutMeWrapperGoRight">
         <img src="/content/images/davidNormal1.jpg" alt="Everyday Dave" width="250px" height="250px">
