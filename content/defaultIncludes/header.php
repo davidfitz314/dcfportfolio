@@ -18,7 +18,7 @@
 
 
         <div class="goRight">
-          <img src="/content/images/menuButton.png" alt="menu-button" width="35px" height="auto">
+          <img src="/content/images/menuButton.png" alt="menu-button" width="43px" height="auto">
         </div>
       </div>
     </div>
