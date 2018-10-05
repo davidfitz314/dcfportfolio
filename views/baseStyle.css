@@ -42,6 +42,11 @@
   display: inline-block;
 }
 
+.extenddown {
+  position: absolute;
+  display: inline-block;
+}
+
 .dropdown-content {
   display: none;
   position: absolute;
@@ -74,11 +79,11 @@
   background-color: #ddd;
 }
 
-.dropdown:hover .dropdown-content, .dropdown:hover .extend-content {
+.dropdown:hover .dropdown-content, .extenddown:hover .extend-content {
   display: block;
 }
 
-.dropdown:hover .dropbtn, .dropdown:hover .extendbtn {
+.dropdown:hover .dropbtn, .extenddown:hover .extendbtn {
   background-color: #ddd;
 }
 
