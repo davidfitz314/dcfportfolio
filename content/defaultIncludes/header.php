@@ -31,8 +31,7 @@
                     <p>test2</p>
                   </div>
                 </div>
-              
-            </div>
+              </div>
               <a href="/content/educationAndExperience">Education</a>
             </div>
           </div>
