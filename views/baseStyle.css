@@ -17,7 +17,7 @@
 }
 
 .goRight {
-  /*float: Right*/text-align: right;
+  float: Right;
 }
 
 .goCenter {
@@ -31,7 +31,7 @@
 }
 
 .dropdown {
-  position: relative;
+  position: absolute;
   display: inline-block;
 }
 
