@@ -28,6 +28,7 @@
 .dropbtn {
   padding: 16px;
   border: none;
+  background-color: inherit;
 }
 
 .dropdown {
