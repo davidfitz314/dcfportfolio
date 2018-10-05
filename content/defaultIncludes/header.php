@@ -18,7 +18,15 @@
 
 
         <div class="goRight">
-          <img src="/content/images/menuButton.png" alt="menu-button" width="43px" height="auto">
+          //creating a dropdown menu
+          <div class="dropdown">
+            <button class="dropbtn"><img src="/content/images/menuButton.png" alt="menu-button" width="43px" height="auto"></button>
+            <div class="dropdown-content">
+              <a href="/content/aboutMe">About</a>
+              <a href="/content/projects">Projects</a>
+              <a href="/content/educationAndExperience">Education</a>
+            </div>
+          </div>
         </div>
       </div>
     </div>
