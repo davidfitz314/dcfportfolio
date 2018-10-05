@@ -18,7 +18,7 @@
 
 
         <div class="goRight">
-          //creating a dropdown menu
+          <!--creating a dropdown menu-->
           <div class="dropdown">
             <button class="dropbtn"><img src="/content/images/menuButton.png" alt="menu-button" width="43px" height="auto"></button>
             <div class="dropdown-content">
