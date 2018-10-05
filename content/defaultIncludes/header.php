@@ -24,13 +24,13 @@
             <div class="dropdown-content">
               <a href="/content/aboutMe">About</a>
               <div class="extenddown">
-                <div class="extendbtn">
+                <!--<div class="extendbtn">-->
                   <a href="/content/projects">Projects</a>
                   <div class="extend-content">
                     <p>test</p>
                     <p>test2</p>
                   </div>
-                </div>
+                <!--</div>-->
               </div>
               <a href="/content/educationAndExperience">Education</a>
             </div>
