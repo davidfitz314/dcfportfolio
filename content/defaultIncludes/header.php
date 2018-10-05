@@ -32,8 +32,9 @@
                   </div>
                 <!--</div>-->
               </div>
-              <a href="/content/educationAndExperience">Education</a>
             </div>
+            <a href="/content/educationAndExperience">Education</a>
+
           </div>
         </div>
       </div>
