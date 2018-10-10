@@ -181,6 +181,8 @@ footer ul{
 .threeSections {
   display: inline-block;
   text-align: center;
+  overflow: auto;
+  width: 80%;
 }
 
 .leftFooter {
@@ -189,7 +191,7 @@ footer ul{
 }
 
 .middleFooter {
-  
+
   width: 30%;
   text-align: left;
 }
