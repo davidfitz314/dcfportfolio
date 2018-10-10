@@ -4,7 +4,7 @@
 <button><a href="projectFolder/test1.php">test1</a></button>
 <button><a href="projectFolder/OWL-FlashCards.php">OWL-FlashCards</a></button>
 <button><a href="projectFolder/birdandb.php">BirdandB.com</a></button>
-<button>filler</button>
+<button><a href="projectFolder/music_encrypt_keyboard.php">Music Encryption Keyboard</a></button>
 <br />
 <button>filler</button>
 <button>filler</button>
