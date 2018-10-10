@@ -15,17 +15,24 @@
 
 <!-- create a small recent projects section here, with textual description and links -->
 <div class="middleFooter">
-  <a href="/content/projectFolder/index.php">The current website that you are on. ;)</a>
-  <a href="/content/projectFolder/OWL-Flashcards.php">Practice learning Chinese/English by using flashcards of English most common words.</a>
-  <a href="/content/projectFolder/birdandb.php">A website designed to help aid learning for biological and psyiological functions in a reporoductive context.</a>
+  <h4>Recent Projects</h4>
+  <ul>
+    <li><a href="/content/projectFolder/index.php">The current website that you are on. ;)</a></li>
+    <li><a href="/content/projectFolder/OWL-Flashcards.php">Practice learning Chinese/English by using flashcards of English most common words.</a></li>
+    <li><a href="/content/projectFolder/birdandb.php">A website designed to help aid learning for biological and psyiological functions in a reporoductive context.</a></li>
+  </ul>
 </div>
 
 <!-- create a second navigation menu -->
+
 <div class="rightFooter">
-  <a href="index.php">Home</a>
-  <a href="aboutMe.php">About Me</a>
-  <a href="projects.php">Projects</a>
-  <a href="education.php">Education</a>
+  <h4>Nav</h4>
+  <ul>
+    <li><a href="index.php">Home</a></li>
+    <li><a href="aboutMe.php">About Me</a></li>
+    <li><a href="projects.php">Projects</a></li>
+    <li><a href="education.php">Education</a></li>
+  </ul>
 </div>
 
 <!-- add in a sitemap after website completion -->

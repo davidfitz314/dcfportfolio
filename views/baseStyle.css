@@ -177,7 +177,7 @@ footer {
 
 .rightFooter {
   width: 30%;
-
+  list-style: none;
 }
 
 .connectIcons img{
