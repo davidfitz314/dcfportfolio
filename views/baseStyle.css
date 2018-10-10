@@ -166,9 +166,12 @@ footer {
   font-size: smaller;
 }
 
+footer h4 {
+  text-transform: capitalize;
+}
+
 .leftFooter {
   width: 30%;
-
 }
 
 .middleFooter {
@@ -177,6 +180,9 @@ footer {
 
 .rightFooter {
   width: 30%;
+}
+
+.rightFooter ul {
   list-style: none;
 }
 

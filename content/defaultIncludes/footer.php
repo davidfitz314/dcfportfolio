@@ -3,6 +3,7 @@
   </div>
 <!-- keywords for search optimization example: https://www.orbitmedia.com/blog/website-footer-design-best-practices/ -->
 <div class="leftFooter">
+  <h4>connect</h4>
   <p>What to say about this website to improve search optimization? I don't know yet but I can add it or a second logo.</p>
   <div class="connectIcons">
     <a href="https://www.facebook.com/david.fitzgerald.528" target="_blank"><img src="/content/images/facebook.png" alt="Facebook link"></a>
@@ -16,7 +17,7 @@
 
 <!-- create a small recent projects section here, with textual description and links -->
 <div class="middleFooter">
-  <h4>Recent Projects</h4>
+  <h4>recent projects</h4>
   <ul>
     <li><a href="/content/projectFolder/index.php">The current website that you are on. ;)</a></li>
     <li><a href="/content/projectFolder/OWL-Flashcards.php">Practice learning Chinese/English by using flashcards of English most common words.</a></li>
@@ -27,7 +28,7 @@
 <!-- create a second navigation menu -->
 
 <div class="rightFooter">
-  <h4>Nav</h4>
+  <h4>navigate</h4>
   <ul>
     <li><a href="index.php">Home</a></li>
     <li><a href="aboutMe.php">About Me</a></li>
