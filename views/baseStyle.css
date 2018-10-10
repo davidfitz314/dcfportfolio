@@ -168,6 +168,7 @@ footer {
 
 .leftFooter {
   width: 33%;
+  float: left;
 }
 
 .middleFooter {
@@ -176,6 +177,7 @@ footer {
 
 .rightFooter {
   width: 33%;
+  float: right;
 }
 
 .connectIcons img{
