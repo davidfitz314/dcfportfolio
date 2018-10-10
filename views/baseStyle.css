@@ -173,6 +173,9 @@ footer h4 {
 
 footer ul{
   text-align: left;
+  padding: 0;
+  margin: 0;
+  line-height: normal;
 }
 
 .threeSections {
@@ -202,6 +205,8 @@ footer ul{
 
 .rightFooter ul {
   list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 .connectIcons img{
