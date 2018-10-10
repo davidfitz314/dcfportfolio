@@ -18,8 +18,8 @@
   <div class="middleFooter">
     <h4>recent projects</h4>
     <ul>
-      <li><a href="/content/projectFolder/index.php">The current website that you are on. ;)</a></li>
-      <li><a href="/content/projectFolder/OWL-Flashcards.php">Practice learning Chinese/English by using flashcards of English's most common words.</a></li>
+      <li><a href="/index.php">The current website that you are on. ;)</a></li>
+      <li><a href="/content/projectFolder/OWL-FlashCards.php">Practice learning Chinese/English by using flashcards of English's most common words.</a></li>
       <li><a href="/content/projectFolder/birdandb.php">A website designed to help aid learning for biological and psyiological functions in a reporoductive context.</a></li>
     </ul>
   </div>
@@ -29,10 +29,10 @@
   <div class="rightFooter">
     <h4>navigate</h4>
     <ul>
-      <li><a href="index.php">Home</a></li>
-      <li><a href="aboutMe.php">About Me</a></li>
-      <li><a href="projects.php">Projects</a></li>
-      <li><a href="education.php">Education</a></li>
+      <li><a href="/index.php">Home</a></li>
+      <li><a href="/content/aboutMe.php">About Me</a></li>
+      <li><a href="/content/projects.php">Projects</a></li>
+      <li><a href="/content/education.php">Education</a></li>
     </ul>
   </div>
 <!-- end threesections-->
