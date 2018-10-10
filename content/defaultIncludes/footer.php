@@ -42,8 +42,8 @@
 <!-- copyright and year -->
 <table>
   <tr>
-    <a href="index.php">sitemap </a>
-    <p>&copy; 2018 David ChenFitzgerald</p>
+    <td><a href="index.php">sitemap </a></td>
+    <td>&copy; 2018 David ChenFitzgerald</td>
   </tr>
 </table>
 </footer>
