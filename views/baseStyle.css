@@ -139,6 +139,7 @@ body {
   padding: 0;
   color: black;
   display: block;
+  clear: both;
 }
 
 .educationBanner img {
