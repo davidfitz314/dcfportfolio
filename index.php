@@ -8,7 +8,6 @@
         <h2>Welcome to my Portfolio,</h2>
         <h3>My name is David ChenFitzgerald and I am a Software Developer and IT technician.</h3>
         <p>I love Computer Programming and Information Technology.<br />
-          I have a Bachelors in CIT emphasizing CS.<br />
           I am an accomplishment oriented person, it’s similar to goal oriented,
           but instead, I try to see the big picture alongside of each smaller goal.<br />
           I am great at working in teams, and I enjoy communicating and getting to know about my project partners.<br />
