@@ -164,6 +164,7 @@ footer {
   padding: 5px 0px 0px 0px;
   overflow: auto;
   font-size: smaller;
+  display: inline-block;
 }
 
 footer h4 {
@@ -175,19 +176,16 @@ footer ul{
 }
 
 .leftFooter {
-  display: inline-block;
   float: left;
   width: 30%;
 }
 
 .middleFooter {
-  display: inline-block;
   float: left;
   width: 30%;
 }
 
 .rightFooter {
-  display: inline-block;
   float: left;
   width: 30%;
 }
