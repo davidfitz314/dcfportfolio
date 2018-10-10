@@ -214,6 +214,10 @@ footer ul{
   margin: 0;
 }
 
+.footerBottom {
+  display: inline-block;
+}
+
 .connectIcons img{
   margin: 5px;
   width: 25px;
