@@ -135,10 +135,8 @@ body {
 /*education section banner*/
 .educationBanner {
   background-color: #B0E0E6;
-  height: 300px;
   margin: 0;
   padding: 0;
-  overflow: auto;
   color: black;
   display: inline-block;
 }
