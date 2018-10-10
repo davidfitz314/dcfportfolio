@@ -164,7 +164,6 @@ footer {
   padding: 5px 0px 0px 0px;
   overflow: auto;
   font-size: smaller;
-  display: inline-block;
 }
 
 footer h4 {
@@ -173,6 +172,10 @@ footer h4 {
 
 footer ul{
   text-align: left;
+}
+
+.threeSections {
+  display: inline-block;
 }
 
 .leftFooter {
