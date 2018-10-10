@@ -32,7 +32,7 @@
       <li><a href="/index.php">Home</a></li>
       <li><a href="/content/aboutMe.php">About Me</a></li>
       <li><a href="/content/projects.php">Projects</a></li>
-      <li><a href="/content/education.php">Education</a></li>
+      <li><a href="/content/educationAndExperience.php">Education</a></li>
     </ul>
   </div>
 <!-- end threesections-->
