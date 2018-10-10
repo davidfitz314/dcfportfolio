@@ -40,10 +40,12 @@
 <br />
 <!-- add in a sitemap after website completion -->
 <!-- copyright and year -->
-<div class="footerBottom">
-  <a href="index.php">sitemap </a>
-  <p>&copy; 2018 David ChenFitzgerald</p>
-</div>
+<table>
+  <tr>
+    <a href="index.php">sitemap </a>
+    <p>&copy; 2018 David ChenFitzgerald</p>
+  </tr>
+</table>
 </footer>
 </body>
 </html>
