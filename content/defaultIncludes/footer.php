@@ -9,12 +9,21 @@
       <div>Facebook, Github, and Linkedin Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> and <a href="https://www.flaticon.com/authors/dave-gandy" title="Dave Gandy">Dave Gandy</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC BY 3.0</a></div>
     </div>
 </div>
-<!-- copyright and year -->
+
 <!-- create a second navigation menu -->
+<a href="index.php">Home</a>
+<a href="aboutMe.php">About Me</a>
+<a href="projects.php">Projects</a>
+<a href="education.php">Education</a>
 <!-- add in a sitemap after website completion -->
 <!-- create a small recent projects section here, with textual description and links -->
+<a href="/content/projectFolder/index.php">The current website that you are on. ;)</a>
+<a href="/content/projectFolder/OWL-Flashcards.php">Practice learning Chinese/English by using flashcards of English most common words.</a>
+<a href="/content/projectFolder/birdandb.php">A website designed to help aid learning for biological and psyiological functions in a reporoductive context.</a>
+
 <!-- keywords for search optimization example: https://www.orbitmedia.com/blog/website-footer-design-best-practices/ -->
-<span><a href="index.php">sitemap </a> <p>&copy; 2018 David ChenFitzgerald</p></span>
+<!-- copyright and year -->
+<a href="index.php">sitemap </a> <p>&copy; 2018 David ChenFitzgerald</p>
 </footer>
 </body>
 </html>
