@@ -1,10 +1,10 @@
 <?php include 'defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
 <p>check out test1 project</p>
-<button><a href="projectFolder/test1.php">test1</a></button>
-<button><a href="projectFolder/OWL-FlashCards.php">OWL-FlashCards</a></button>
-<button><a href="projectFolder/birdandb.php">BirdandB.com</a></button>
-<button><a href="projectFolder/music_encrypt_keyboard.php">Music Encryption Keyboard</a></button>
+<button><a href="projectFolder/test1">test1</a></button>
+<button><a href="projectFolder/OWL-FlashCards">OWL-FlashCards</a></button>
+<button><a href="projectFolder/birdandb">BirdandB.com</a></button>
+<button><a href="projectFolder/music_encrypt_keyboard">Music Encryption Keyboard</a></button>
 <br />
 <button>filler</button>
 <button>filler</button>
