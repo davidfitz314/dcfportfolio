@@ -167,17 +167,17 @@ footer {
 }
 
 .leftFooter {
-  width: 33%;
-  float: left;
+  width: 30%;
+
 }
 
 .middleFooter {
-  width: 33%;
+  width: 30%;
 }
 
 .rightFooter {
-  width: 33%;
-  float: right;
+  width: 30%;
+
 }
 
 .connectIcons img{
