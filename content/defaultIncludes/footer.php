@@ -19,7 +19,7 @@
     <h4>recent projects</h4>
     <ul>
       <li><a href="/content/projectFolder/index.php">The current website that you are on. ;)</a></li>
-      <li><a href="/content/projectFolder/OWL-Flashcards.php">Practice learning Chinese/English by using flashcards of English most common words.</a></li>
+      <li><a href="/content/projectFolder/OWL-Flashcards.php">Practice learning Chinese/English by using flashcards of English's most common words.</a></li>
       <li><a href="/content/projectFolder/birdandb.php">A website designed to help aid learning for biological and psyiological functions in a reporoductive context.</a></li>
     </ul>
   </div>

@@ -33,10 +33,12 @@
     </div>
     <div class="educationMiddle">
       <h4>Freelance Experience</h4>
+      <p>filler</p>
       <img src="/content/images/filler_image.jpg" alt ="filler image">
     </div>
     <div class="educationRight">
       <h4>Volunteering+</h4>
+      <p>filler</p>
       <img src="/content/images/filler_image.jpg" alt ="filler image">
     </div>
   </div>

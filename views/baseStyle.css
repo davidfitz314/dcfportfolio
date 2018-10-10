@@ -148,18 +148,14 @@ body {
 }
 
 .educationLeft {
-  float: left;
   left: 25%;
 }
 
 .educationMiddle {
-  float: left;
-
 }
 
 .educationRight {
-  float: left;
-
+  
 }
 
 /*projects section banner*/
