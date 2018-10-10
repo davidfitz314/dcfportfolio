@@ -188,14 +188,14 @@ footer ul{
 .leftFooter {
   float: left;
   width: 30%;
-  margin-right: 10%;
+  margin-right: 8%;
 }
 
 .middleFooter {
   float: left;
   width: 30%;
   text-align: left;
-  margin-right: 10%;
+  margin-right: 8%;
 }
 
 .middleFooter ul {
