@@ -224,6 +224,10 @@ footer ul{
   height: 25px;
 }
 
+footer table {
+  text-align: center;
+}
+
 footer a:hover {
   text-decoration: underline;
   color: blue;
