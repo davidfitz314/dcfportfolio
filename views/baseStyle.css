@@ -170,6 +170,7 @@ body {
   padding: 0;
   overflow: auto;
   color: black;
+  clear: both;
 }
 
 /*Links to professional resources facebook, github, linkedin. Can include copyright for website.*/
