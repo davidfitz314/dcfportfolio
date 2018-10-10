@@ -191,13 +191,13 @@ footer ul{
 }
 
 .middleFooter {
-
+  float: left;
   width: 30%;
   text-align: left;
 }
 
 .rightFooter {
-  float: right;
+  float: left;
   width: 30%;
   text-align: left;
 }

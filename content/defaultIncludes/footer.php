@@ -37,7 +37,7 @@
   </div>
 <!-- end threesections-->
 </div>
-
+<br />
 <!-- add in a sitemap after website completion -->
 <!-- copyright and year -->
 <a href="index.php">sitemap </a>
