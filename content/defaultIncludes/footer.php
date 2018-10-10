@@ -14,7 +14,7 @@
 <!-- add in a sitemap after website completion -->
 <!-- create a small recent projects section here, with textual description and links -->
 <!-- keywords for search optimization example: https://www.orbitmedia.com/blog/website-footer-design-best-practices/ -->
-<a href="index.php">sitemap </a><span> <p>&copy; 2018 David ChenFitzgerald</p>
+<span><a href="index.php">sitemap </a> <p>&copy; 2018 David ChenFitzgerald</p></span>
 </footer>
 </body>
 </html>
