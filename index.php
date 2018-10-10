@@ -25,8 +25,19 @@
   </div>
 
   <div class="educationBanner">
-    <p>I've graduated from DSU with a BS in CIT emphasis CS </p>
-    <p>lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, </p>
+    <h3>My Work</h3>
+    <div class="educationLeft">
+      <h4>Graduated DSU 2018 BS CIT-CS</h4>
+      <img src="/content/images/filler_image.jpg" alt ="filler image">
+    </div>
+    <div class="educationMiddle">
+      <h4>Freelance Experience</h4>
+      <img src="/content/images/filler_image.jpg" alt ="filler image">
+    </div>
+    <div class="educationRight">
+      <h4>Volunteering+</h4>
+      <img src="/content/images/filler_image.jpg" alt ="filler image">
+    </div>
   </div>
 
   <div class="projectsBanner">
@@ -36,6 +47,10 @@
     <button>empty</button>
     <a href="content/projects">view all...</a>
   </div>
+
+
+
+
 
 
 </div>

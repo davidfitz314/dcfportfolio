@@ -140,6 +140,27 @@ body {
   padding: 0;
   overflow: auto;
   color: black;
+  display: inline-block;
+}
+
+.educationBanner img {
+  max-width: 200px;
+  height: auto;
+}
+
+.educationLeft {
+  float: left;
+  width: 30%
+}
+
+.educationMiddle {
+  float: left;
+  width: 30%
+}
+
+.educationRight {
+  float: left;
+  width: 30%
 }
 
 /*projects section banner*/
