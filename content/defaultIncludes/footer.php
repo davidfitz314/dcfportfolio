@@ -1,5 +1,6 @@
 <footer>
-
+  <!-- end centerred wrapper div?-->
+  </div>
 <!-- keywords for search optimization example: https://www.orbitmedia.com/blog/website-footer-design-best-practices/ -->
 <div class="leftFooter">
   <p>What to say about this website to improve search optimization? I don't know yet but I can add it or a second logo.</p>
@@ -39,8 +40,7 @@
 <!-- copyright and year -->
 <a href="index.php">sitemap </a>
 <p>&copy; 2018 David ChenFitzgerald</p>
-<!-- end centerred wrapper div?-->
-</div>
+
 </footer>
 </body>
 </html>
