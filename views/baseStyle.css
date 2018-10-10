@@ -168,6 +168,7 @@ footer {
 
 footer h4 {
   text-transform: capitalize;
+  text-align: left;
 }
 
 footer ul{
@@ -181,16 +182,22 @@ footer ul{
 .leftFooter {
   float: left;
   width: 30%;
+  padding-left: 2%;
+  padding-right: 1%;
 }
 
 .middleFooter {
   float: left;
   width: 30%;
+  padding-left: 2%;
+  padding-right: 1%;
 }
 
 .rightFooter {
   float: left;
   width: 30%;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 
 .rightFooter ul {
