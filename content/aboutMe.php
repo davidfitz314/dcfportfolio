@@ -9,9 +9,9 @@
   <p>I volunteer to help teach kids programming, because I believe the worlds technology will only grow greater with new minds coming to help.
   I am also a cellist, and truly enjoy incorporating music into my apps.
   I love encryption, number theory, and statistics. To figure out a new solution to a problem or just to make something better is astounding to me.</p>
-  <p>To see a more detailed layout of my experience and education please visit my <a href="/content/educationAndExperience">Experience Page</a>.</p>
+  <p>To see details regarding my experience and education, please visit my <a href="/content/educationAndExperience">Experience Page</a>.</p>
   <p>or</p>
-  <p>To see a more detailed layout of my projects please visit my <a href="/content/projects">Projects Page</a>.</p>
+  <p>To see details of projects i've worked on, please visit my <a href="/content/projects">Projects Page</a>.</p>
   <!-- <p>and</p> <p>don't forget to contact me for new projects.</p> -->
 </div>
 <?php include 'defaultIncludes/footer.php'; ?>
