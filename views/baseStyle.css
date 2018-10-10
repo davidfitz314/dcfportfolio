@@ -139,7 +139,6 @@ body {
   padding: 0;
   color: black;
   display: block;
-  transform: translate(-50%, 0%);
 }
 
 .educationBanner img {
@@ -149,17 +148,18 @@ body {
 
 .educationLeft {
   float: left;
-  width: 30%
+  width: 30%;
+  left: 25%;
 }
 
 .educationMiddle {
   float: left;
-  width: 30%
+  width: 30%;
 }
 
 .educationRight {
   float: left;
-  width: 30%
+  width: 30%;
 }
 
 /*projects section banner*/
