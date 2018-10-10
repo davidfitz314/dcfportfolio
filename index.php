@@ -27,7 +27,8 @@
   <div class="educationBanner">
     <h3>My Work</h3>
     <div class="educationLeft">
-      <h4>Graduated DSU 2018 BS CIT-CS</h4>
+      <h4>Education</h4>
+      <p>Graduated DSU 2018 BS CIT-CS</p>
       <img src="/content/images/filler_image.jpg" alt ="filler image">
     </div>
     <div class="educationMiddle">
