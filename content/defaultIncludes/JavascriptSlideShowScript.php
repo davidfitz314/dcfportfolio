@@ -1,12 +1,12 @@
 <script>
 // Open the Modal
 function openModal() {
-  document.getElementById('pSlideShow').style.display = "block";
+  document.getElementById('slideshow-content').style.display = "block";
 }
 
 // Close the Modal
 function closeModal() {
-  document.getElementById('pSlideShow').style.display = "none";
+  document.getElementById('slideshow-content').style.display = "none";
 }
 
 var slideIndex = 1;
