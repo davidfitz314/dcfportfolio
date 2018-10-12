@@ -33,17 +33,17 @@ example: presing the keys '1', '2', and then '3' would create the string "DEF". 
 <!--test section code courtesy of w3schools.com-->
     <!-- The Modal -->
     <!-- Images used to open the lightbox -->
-    <div class="row">
-      <div class="column">
+    <div class="trow">
+      <div class="tcolumn">
         <img src="/content/images/Music_Encryption_Images/EncryptKeyBoard.JPG" onclick="openModal();currentSlide(1)" class="hover-shadow">
       </div>
-      <div class="column">
+      <div class="tcolumn">
         <img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" onclick="openModal();currentSlide(2)" class="hover-shadow">
       </div>
-      <div class="column">
+      <div class="tcolumn">
         <img src="/content/images/Music_Encryption_Images/Encrypted_Text.JPG" onclick="openModal();currentSlide(3)" class="hover-shadow">
       </div>
-      <div class="column">
+      <div class="tcolumn">
         <img src="/content/images/Music_Encryption_Images/Decrypted_Text.JPG" onclick="openModal();currentSlide(4)" class="hover-shadow">
       </div>
     </div>
@@ -73,35 +73,35 @@ example: presing the keys '1', '2', and then '3' would create the string "DEF". 
           <img src="/content/images/Music_Encryption_Images/Decrypted_Text.JPG" style="width:100%">
         </div>
 
-        <!-- Next/previous controls -->
-        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        <!-- back/forward controls -->
+        <a class="back" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="forward" onclick="plusSlides(1)">&#10095;</a>
 
-        <!-- Caption text -->
-        <div class="caption-container">
-          <p id="caption"></p>
+        <!-- Caption/alt text -->
+        <div class="alt-container">
+          <p id="caption_alt"></p>
         </div>
 
         <!-- Thumbnail image controls -->
-        <div class="column">
-          <img class="demo" src="/content/images/Music_Encryption_Images/EncryptKeyBoard.JPG" onclick="currentSlide(1)" alt="Keyboard">
+        <div class="tcolumn">
+          <img class="preview" src="/content/images/Music_Encryption_Images/EncryptKeyBoard.JPG" onclick="currentSlide(1)" alt="Keyboard">
         </div>
 
-        <div class="column">
-          <img class="demo" src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" onclick="currentSlide(2)" alt="Keyboard Pressed">
+        <div class="tcolumn">
+          <img class="preview" src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" onclick="currentSlide(2)" alt="Keyboard Pressed">
         </div>
 
-        <div class="column">
-          <img class="demo" src="/content/images/Music_Encryption_Images/Encrypted_Text.JPG" onclick="currentSlide(3)" alt="Encrypted">
+        <div class="tcolumn">
+          <img class="preview" src="/content/images/Music_Encryption_Images/Encrypted_Text.JPG" onclick="currentSlide(3)" alt="Encrypted">
         </div>
 
-        <div class="column">
-          <img class="demo" src="/content/images/Music_Encryption_Images/Decrypted_Text.JPG" onclick="currentSlide(4)" alt="Decrypted">
+        <div class="tcolumn">
+          <img class="preview" src="/content/images/Music_Encryption_Images/Decrypted_Text.JPG" onclick="currentSlide(4)" alt="Decrypted">
         </div>
       </div>
     </div>
 
-<?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?> 
+<?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
 
     <p><i>insert pagination at base of each project page</i></p>
   </div>

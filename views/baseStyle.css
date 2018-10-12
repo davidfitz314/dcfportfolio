@@ -260,18 +260,18 @@ footer a:hover {
 }
 
 /*test section image popup*/
-.row > .column {
+.trow > .tcolumn {
   padding: 0 0px;
 }
 
-.row:after {
+.trow:after {
   content: "";
   display: table;
   clear: both;
 }
 
-/* Create four equal columns that floats next to eachother */
-.column {
+/* Float the columns, change width if more then four comlumns */
+.tcolumn {
   float: left;
   width: 25%;
 }
@@ -324,8 +324,8 @@ footer a:hover {
 }
 
 /* Next & previous buttons */
-.prev,
-.next {
+.back,
+.forward {
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -343,14 +343,14 @@ footer a:hover {
 }
 
 /* Position the "next button" to the right */
-.next {
+.forward {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.prev:hover,
-.next:hover {
+.back:hover,
+.forward:hover {
   background-color: rgba(0, 0, 0, 0.8);
 }
 
@@ -363,20 +363,20 @@ footer a:hover {
   top: 0;
 }
 
-/* Caption text */
-.caption-container {
+/* caption/alt text */
+.alt-container {
   text-align: center;
   background-color: black;
   padding: 2px 16px;
   color: white;
 }
 
-img.demo {
+img.preview {
   opacity: 0.6;
 }
 
 .active,
-.demo:hover {
+.preview:hover {
   opacity: 1;
 }
 
