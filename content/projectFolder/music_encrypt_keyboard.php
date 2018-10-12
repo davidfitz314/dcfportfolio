@@ -124,6 +124,29 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
+
+function modalClose() {
+    if (location.hash == 'myModal') {
+        location.hash = '';
+    }
+}
+
+// Handle ESC key (key code 27)
+document.addEventListener('keyup', function(e) {
+    if (e.keyCode == 27) {
+        modalClose();
+    }
+});
+
+var modal = document.querySelector('#openModal');
+
+// Handle click on the modal container
+modal.addEventListener('click', modalClose, false);
+
+// Prevent event bubbling if click occurred within modal content body
+modal.children[0].addEventListener('click', function(e) {
+    e.stopPropagation();
+}, false);
 </script>
 
     <p><i>insert pagination at base of each project page</i></p>
