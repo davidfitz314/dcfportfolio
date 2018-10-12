@@ -251,11 +251,11 @@ footer a:hover {
 
 /*Styling for Projects for unity amoung pages*/
 .basicProjecetLayout {
-
+  display: inline;
 }
 
 .basicProjecetLayout img {
-  width: 200px;
+  width: 175px;
   max-height: auto;
   /*margin-right: 1px;*/
 }
@@ -265,7 +265,7 @@ footer a:hover {
   background-color: #fefefe;
   margin: auto;
   padding: 0;
-  width: 70%;
+  width: 60%;
   max-width: 900px;
 }
 
@@ -306,7 +306,7 @@ footer a:hover {
   background-color: #fefefe;
   margin: auto;
   padding: 0;
-  width: 70%;
+  width: 60%;
   max-width: 900px;
 }
 
