@@ -35,22 +35,22 @@ example: presing the keys '1', '2', and then '3' would create the string "DEF". 
     <!-- Images used to open the slideshow -->
     <div class="trow">
       <div class="tcolumn">
-        <img src="/content/images/Music_Encryption_Images/EncryptKeyBoard.JPG" onclick="openModal();currentSlide(1)" class="hover-shadow">
+        <img src="/content/images/Music_Encryption_Images/EncryptKeyBoard.JPG" onclick="openSlideShow();currentSlide(1)" class="hover-shadow">
       </div>
       <div class="tcolumn">
-        <img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" onclick="openModal();currentSlide(2)" class="hover-shadow">
+        <img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" onclick="openSlideShow();currentSlide(2)" class="hover-shadow">
       </div>
       <div class="tcolumn">
-        <img src="/content/images/Music_Encryption_Images/Encrypted_Text.JPG" onclick="openModal();currentSlide(3)" class="hover-shadow">
+        <img src="/content/images/Music_Encryption_Images/Encrypted_Text.JPG" onclick="openSlideShow();currentSlide(3)" class="hover-shadow">
       </div>
       <div class="tcolumn">
-        <img src="/content/images/Music_Encryption_Images/Decrypted_Text.JPG" onclick="openModal();currentSlide(4)" class="hover-shadow">
+        <img src="/content/images/Music_Encryption_Images/Decrypted_Text.JPG" onclick="openSlideShow();currentSlide(4)" class="hover-shadow">
       </div>
     </div>
 
     <!-- The slideshow iteself -->
     <div id="pSlideShow" class="slideBG">
-      <span class="close cursor" onclick="closeModal()">&times;</span>
+      <span class="close cursor" onclick="closeSlideShow()">&times;</span>
       <div class="slideshow-content">
 
         <div class="eachSlides">
@@ -74,8 +74,8 @@ example: presing the keys '1', '2', and then '3' would create the string "DEF". 
         </div>
 
         <!-- back/forward controls -->
-        <a class="back" onclick="plusSlides(-1)">&#10094;</a>
-        <a class="forward" onclick="plusSlides(1)">&#10095;</a>
+        <a class="back" onclick="changeSlides(-1)">&#10094;</a>
+        <a class="forward" onclick="changeSlides(1)">&#10095;</a>
 
         <!-- Caption/alt text -->
         <div class="alt-container">

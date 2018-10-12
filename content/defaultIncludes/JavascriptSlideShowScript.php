@@ -1,11 +1,11 @@
 <script>
-// Open the Modal
-function openModal() {
+// Open the Slideshow
+function openSlideShow() {
   document.getElementById('pSlideShow').style.display = "block";
 }
 
-// Close the Modal
-function closeModal() {
+// Close the SlideShow
+function closeSlideShow() {
   document.getElementById('pSlideShow').style.display = "none";
 }
 
@@ -13,7 +13,7 @@ var slideIndex = 1;
 showSlides(slideIndex);
 
 // Next/previous controls
-function plusSlides(n) {
+function changeSlides(n) {
   showSlides(slideIndex += n);
 }
 
@@ -43,13 +43,13 @@ function showSlides(n) {
 // Handle ESC key (key code 27)
 document.addEventListener('keyup', function(e) {
     if (e.keyCode == 27) {
-        closeModal();
+        closeSlideShow();
     }
     if (e.keyCode == 39) {
-        plusSlides(1);
+        changeSlides(1);
     }
     if (e.keyCode == 37) {
-        plusSlides(-1);
+        changeSlides(-1);
     }
 });
 
