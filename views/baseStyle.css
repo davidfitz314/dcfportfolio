@@ -20,6 +20,7 @@
   float: Right;
 }
 
+/*Simplify the header later*/
 .goCenter {
   text-align: center;
 }
@@ -155,7 +156,7 @@ body {
 }
 
 .educationRight {
-  
+
 }
 
 /*projects section banner*/
@@ -199,7 +200,7 @@ footer ul{
   display: inline-block;
   text-align: center;
   overflow: auto;
-  width: 80%;
+  width: 70%;
 }
 
 .leftFooter {
