@@ -255,7 +255,7 @@ footer a:hover {
 }
 
 .basicProjecetLayout img {
-  width: 50%;
+  width: 75%;
   max-height: auto;
 }
 
@@ -270,7 +270,7 @@ footer a:hover {
 
 /*test section image popup*/
 .row > .column {
-  padding: 0 8px;
+  padding: 0 0px;
 }
 
 .row:after {
