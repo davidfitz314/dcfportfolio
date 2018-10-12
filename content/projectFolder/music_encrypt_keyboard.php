@@ -53,22 +53,22 @@ example: presing the keys '1', '2', and then '3' would create the string "DEF". 
       <span class="close cursor" onclick="closeModal()">&times;</span>
       <div class="slideshow-content">
 
-        <div class="mySlides">
+        <div class="eachSlides">
           <div class="numbertext">1 / 4</div>
           <img src="/content/images/Music_Encryption_Images/EncryptKeyBoard.JPG" style="width:100%">
         </div>
 
-        <div class="mySlides">
+        <div class="eachSlides">
           <div class="numbertext">2 / 4</div>
           <img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" style="width:100%">
         </div>
 
-        <div class="mySlides">
+        <div class="eachSlides">
           <div class="numbertext">3 / 4</div>
           <img src="/content/images/Music_Encryption_Images/Encrypted_Text.JPG" style="width:100%">
         </div>
 
-        <div class="mySlides">
+        <div class="eachSlides">
           <div class="numbertext">4 / 4</div>
           <img src="/content/images/Music_Encryption_Images/Decrypted_Text.JPG" style="width:100%">
         </div>

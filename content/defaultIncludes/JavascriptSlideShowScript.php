@@ -24,7 +24,7 @@ function currentSlide(n) {
 
 function showSlides(n) {
   var i;
-  var slides = document.getElementsByClassName("mySlides");
+  var slides = document.getElementsByClassName("eachSlides");
   var dots = document.getElementsByClassName("preview");
   var captionText = document.getElementById("caption_alt");
   if (n > slides.length) {slideIndex = 1}
