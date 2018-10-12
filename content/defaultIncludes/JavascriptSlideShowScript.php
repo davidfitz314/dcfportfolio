@@ -1,12 +1,12 @@
 <script>
 // Open the Modal
 function openModal() {
-  document.getElementById('myModal').style.display = "block";
+  document.getElementById('pSlideShow').style.display = "block";
 }
 
 // Close the Modal
 function closeModal() {
-  document.getElementById('myModal').style.display = "none";
+  document.getElementById('pSlideShow').style.display = "none";
 }
 
 var slideIndex = 1;
@@ -24,7 +24,7 @@ function currentSlide(n) {
 
 function showSlides(n) {
   var i;
-  var slides = document.getElementsByClassName("mySlides");
+  var slides = document.getElementsByClassName("pSlideShow");
   var dots = document.getElementsByClassName("preview");
   var captionText = document.getElementById("caption_alt");
   if (n > slides.length) {slideIndex = 1}

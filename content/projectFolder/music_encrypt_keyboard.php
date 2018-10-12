@@ -49,7 +49,7 @@ example: presing the keys '1', '2', and then '3' would create the string "DEF". 
     </div>
 
     <!-- The slideshow iteself -->
-    <div id="myModal" class="slideBG">
+    <div id="pSlideShow" class="slideBG">
       <span class="close cursor" onclick="closeModal()">&times;</span>
       <div class="slideshow-content">
 
