@@ -257,7 +257,7 @@ footer a:hover {
 .basicProjecetLayout img {
   width: 200px;
   max-height: auto;
-  margin-right: 1px;
+  /*margin-right: 1px;*/
 }
 
 .basicProjecetLayout .modal-content {
@@ -265,8 +265,8 @@ footer a:hover {
   background-color: #fefefe;
   margin: auto;
   padding: 0;
-  width: 80%;
-  max-width: 1200px;
+  width: 70%;
+  max-width: 900px;
 }
 
 /*test section image popup*/
