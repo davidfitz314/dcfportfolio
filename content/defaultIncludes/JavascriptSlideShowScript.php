@@ -41,6 +41,8 @@ function showSlides(n) {
 }
 
 // Handle ESC key (key code 27)
+// Handle Right Arrow Key (key code 39)
+// Handle Left Arrow Key (key code 37)
 document.addEventListener('keyup', function(e) {
     if (e.keyCode == 27) {
         closeSlideShow();
