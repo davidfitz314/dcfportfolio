@@ -132,6 +132,12 @@ document.addEventListener('keyup', function(e) {
     }
 });
 
+document.addEventListener('keyup', function(e) {
+    if (e.keyCode == 39) {
+        plusSlides(n);
+    }
+});
+
 </script>
 
     <p><i>insert pagination at base of each project page</i></p>
