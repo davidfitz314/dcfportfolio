@@ -254,11 +254,11 @@ footer a:hover {
   display: inline;
 }
 
-.basicProjecetLayout img {
+/*.basicProjecetLayout img {
   width: 25%;
   max-height: auto;
-  /*margin-right: 1px;*/
-}
+  margin-right: 1px;
+}*/
 
 .basicProjecetLayout .modal-content {
   position: relative;
