@@ -11,7 +11,7 @@
     <br />
 Special Libraries used for glut drawings and windows media.
 <br />
-Keys 1-7 are used for the piano and pressing them will play music and display a note on the screen. The notes will keep adding on to the screen until they reach the screen boundaries. Music uses a singular buffer style so only 1 note may be played at a time.
+Keys 1-7 are used for the piano and pressing them will play music and display a note on the screen. The notes will keep adding on to the screen until they reach the screen boundaries. Music uses a single method so only 1 note may be played at a time.
 <br />
 keys; 'e' and 'd' are the signals to begin encrypting or decrypting. After pressing 'e' or 'd' the string of text generated from the musical notes will be used to create the caesarean cipher.
 <br />
