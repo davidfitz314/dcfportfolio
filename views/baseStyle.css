@@ -260,6 +260,10 @@ footer a:hover {
   margin-right: 10px;
 }
 
+.basicProjecetLayout img:onclick {
+  max-width: 80%;
+}
+
 /*test section image popup*/
 .row > .column {
   padding: 0 8px;
