@@ -248,3 +248,13 @@ footer a:hover {
   text-decoration: underline;
   color: blue;
 }
+
+/*Styling for Projects for unity amoung pages*/
+.basicProjecetLayout {
+
+}
+
+.basicProjecetLayout img {
+  max-width: 500px;
+  max-height: auto;
+}
