@@ -276,8 +276,8 @@ footer a:hover {
   width: 25%;
 }
 
-/* The Modal (background) */
-.modal {
+/* The Slideshow Background */
+.slideBG {
   display: none;
   position: fixed;
   z-index: 1;

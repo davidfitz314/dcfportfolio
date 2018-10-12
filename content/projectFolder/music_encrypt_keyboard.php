@@ -31,8 +31,8 @@ example: presing the keys '1', '2', and then '3' would create the string "DEF". 
     <img id="myImg" src="/content/images/Music_Encryption_Images/Decrypted_Text.JPG" alt="Decrypted Text">
 -->
 <!--test section code courtesy of w3schools.com-->
-    <!-- The Modal -->
-    <!-- Images used to open the lightbox -->
+    <!-- The slide show  -->
+    <!-- Images used to open the slideshow -->
     <div class="trow">
       <div class="tcolumn">
         <img src="/content/images/Music_Encryption_Images/EncryptKeyBoard.JPG" onclick="openModal();currentSlide(1)" class="hover-shadow">
@@ -48,8 +48,8 @@ example: presing the keys '1', '2', and then '3' would create the string "DEF". 
       </div>
     </div>
 
-    <!-- The Modal/Lightbox -->
-    <div id="myModal" class="modal">
+    <!-- The slideshow iteself -->
+    <div id="myModal" class="slideBG">
       <span class="close cursor" onclick="closeModal()">&times;</span>
       <div class="modal-content">
 
