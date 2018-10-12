@@ -8,8 +8,8 @@
     <p>For Source Code of this project please <a href="https://github.com/davidfitz314/Music-Encryption" target="_blank">click here</a></p>
     <h4>Images</h4>
     <img id="myImg" src="/content/images/Music_Encryption_Images/EncryptKeyBoard.JPG" alt="Basic Keyboard With onscreen Notes">
-    <!--<img id="myImg" src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" alt="Basic Keyboard With onscreen Note 'E' pressed">
-    <img id="myImg" src="/content/images/Music_Encryption_Images/Encrypted_Text.JPG" alt="Encrypted Text">
+    <img id="myImg" src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" alt="Basic Keyboard With onscreen Note 'E' pressed">
+    <!--<img id="myImg" src="/content/images/Music_Encryption_Images/Encrypted_Text.JPG" alt="Encrypted Text">
     <img id="myImg" src="/content/images/Music_Encryption_Images/Decrypted_Text.JPG" alt="Decrypted Text">
 -->
 <!--test section-->
