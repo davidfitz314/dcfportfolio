@@ -30,7 +30,7 @@ example: presing the keys '1', '2', and then '3' would create the string "DEF". 
     <img id="myImg" src="/content/images/Music_Encryption_Images/Encrypted_Text.JPG" alt="Encrypted Text">
     <img id="myImg" src="/content/images/Music_Encryption_Images/Decrypted_Text.JPG" alt="Decrypted Text">
 -->
-<!--test section code courtesy of w3schools.com-->
+<!--test section code for slide show -->
     <!-- The slide show  -->
     <!-- Images used to open the slideshow -->
     <div class="trow">
