@@ -131,7 +131,10 @@ document.addEventListener('keyup', function(e) {
         closeModal();
     }
     if (e.keyCode == 39) {
-        plusSlides(n);
+        plusSlides(n+1);
+    }
+    if (e.keyCode == 37) {
+        plusSlides(n-1);
     }
 });
 
