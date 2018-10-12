@@ -207,7 +207,7 @@ footer ul{
   float: left;
   width: 30%;
   margin-right: 5%;
-  margin-left: 10%;
+  margin-left: 15%;
 }
 
 .middleFooter {
@@ -223,7 +223,7 @@ footer ul{
 
 .rightFooter {
   float: left;
-  width: 20%;
+  width: 15%;
   text-align: left;
 }
 
