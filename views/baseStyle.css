@@ -259,15 +259,6 @@ footer a:hover {
   max-height: auto;
 }
 
-.basicProjecetLayout .modal-content {
-  position: relative;
-  background-color: #fefefe;
-  margin: auto;
-  padding: 0;
-  width: 60%;
-  max-width: 800px;
-}
-
 /*test section image popup*/
 .row > .column {
   padding: 0 0px;
