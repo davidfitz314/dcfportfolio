@@ -51,7 +51,7 @@ example: presing the keys '1', '2', and then '3' would create the string "DEF". 
     <!-- The slideshow iteself -->
     <div id="myModal" class="slideBG">
       <span class="close cursor" onclick="closeModal()">&times;</span>
-      <div class="modal-content">
+      <div class="slideshow-content">
 
         <div class="mySlides">
           <div class="numbertext">1 / 4</div>
