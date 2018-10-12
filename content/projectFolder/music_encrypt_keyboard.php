@@ -130,13 +130,11 @@ document.addEventListener('keyup', function(e) {
     if (e.keyCode == 27) {
         closeModal();
     }
-});
-
-document.addEventListener('keyup', function(e) {
     if (e.keyCode == 39) {
         plusSlides(n);
     }
 });
+
 
 </script>
 
