@@ -254,10 +254,11 @@ footer a:hover {
 
 }
 
-/*.basicProjecetLayout img {
-  max-width: 500px;
+.basicProjecetLayout img {
+  max-width: 200px;
   max-height: auto;
-}*/
+  margin-right: 10px;
+}
 
 /*test section image popup*/
 .row > .column {

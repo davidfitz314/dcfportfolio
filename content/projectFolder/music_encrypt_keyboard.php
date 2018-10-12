@@ -37,22 +37,22 @@
 
         <div class="mySlides">
           <div class="numbertext">1 / 4</div>
-          <img src="/content/images/Music_Encryption_Images/EncryptKeyBoard_wide.JPG" style="width:100%">
+          <img src="/content/images/Music_Encryption_Images/EncryptKeyBoard.JPG" style="width:100%">
         </div>
 
         <div class="mySlides">
           <div class="numbertext">2 / 4</div>
-          <img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed_wide.JPG" style="width:100%">
+          <img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" style="width:100%">
         </div>
 
         <div class="mySlides">
           <div class="numbertext">3 / 4</div>
-          <img src="/content/images/Music_Encryption_Images/Encrypted_Text_wide.JPG" style="width:100%">
+          <img src="/content/images/Music_Encryption_Images/Encrypted_Text.JPG" style="width:100%">
         </div>
 
         <div class="mySlides">
           <div class="numbertext">4 / 4</div>
-          <img src="/content/images/Music_Encryption_Images/Decrypted_Text_wide.JPG" style="width:100%">
+          <img src="/content/images/Music_Encryption_Images/Decrypted_Text.JPG" style="width:100%">
         </div>
 
         <!-- Next/previous controls -->
@@ -66,19 +66,19 @@
 
         <!-- Thumbnail image controls -->
         <div class="column">
-          <img class="demo" src="/content/images/Music_Encryption_Images/EncryptKeyBoard_wide.JPG" onclick="currentSlide(1)" alt="Keyboard">
+          <img class="demo" src="/content/images/Music_Encryption_Images/EncryptKeyBoard.JPG" onclick="currentSlide(1)" alt="Keyboard">
         </div>
 
         <div class="column">
-          <img class="demo" src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed_wide.JPG" onclick="currentSlide(2)" alt="Keyboard Pressed">
+          <img class="demo" src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" onclick="currentSlide(2)" alt="Keyboard Pressed">
         </div>
 
         <div class="column">
-          <img class="demo" src="/content/images/Music_Encryption_Images/Encrypted_Text_wide.JPG" onclick="currentSlide(3)" alt="Encrypted">
+          <img class="demo" src="/content/images/Music_Encryption_Images/Encrypted_Text.JPG" onclick="currentSlide(3)" alt="Encrypted">
         </div>
 
         <div class="column">
-          <img class="demo" src="/content/images/Music_Encryption_Images/Decrypted_Text_wide.JPG" onclick="currentSlide(4)" alt="Decrypted">
+          <img class="demo" src="/content/images/Music_Encryption_Images/Decrypted_Text.JPG" onclick="currentSlide(4)" alt="Decrypted">
         </div>
       </div>
     </div>
