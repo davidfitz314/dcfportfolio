@@ -200,13 +200,14 @@ footer ul{
   display: inline-block;
   text-align: center;
   overflow: auto;
-  width: 70%;
+  width: 80%;
 }
 
 .leftFooter {
   float: left;
   width: 30%;
   margin-right: 5%;
+  margin-left: 5%;
 }
 
 .middleFooter {
