@@ -319,7 +319,7 @@ footer a:hover {
 }
 
 /* Hide the slides by default */
-.mySlides {
+.pSlideShow {
   display: none;
 }
 
