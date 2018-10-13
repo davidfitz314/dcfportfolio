@@ -15,6 +15,7 @@
 
         <button><a href="/content/aboutMe">About</a></button>
         <button><a href="/content/educationAndExperience">Education</a></button>
+        <button><a href="/content/educationAndExperience">Experience</a></button>
         <button><a href="/content/projects">Projects</a></button>
 
 
@@ -25,6 +26,7 @@
             <div class="dropdown-content">
               <a href="/content/aboutMe">About</a>
               <a href="/content/educationAndExperience">Education</a>
+              <a href="/content/educationAndExperience">Experience</a>
               <a href="/content/projects">Projects</a>
             </div>
           </div>
