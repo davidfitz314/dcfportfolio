@@ -6,4 +6,5 @@
 <p>place address</p>
 <p>Graduated in 2017 with a Bachelors in Computer information Technology Emphasizing Computer Science</p>
 <h3>Certificates?</h3>
+</div>
 <?php include 'defaultIncludes/footer.php'; ?>
