@@ -19,6 +19,12 @@
     </div>
   </div>
 
+
+<!-- page and section navigation example
+<a href="/content/aboutMe#extrasTest">Test1GoTo</a>
+<a id="extrasTest">Test1ArriveAt</a> 
+-->
+
   <div class="educationBanner">
     <h3>My Work</h3>
     <div class="educationLeft">
@@ -35,7 +41,7 @@
       <h4>Volunteering+</h4>
       <p>filler</p>
       <img src="/content/images/filler_image.jpg" alt ="filler image">
-      <a href="/content/aboutMe#extrasTest">test1</a>
+
     </div>
   </div>
 
