@@ -14,8 +14,8 @@
 
 
         <button><a href="/content/aboutMe">About</a></button>
-        <button><a href="/content/educationAndExperience">Education</a></button>
-        <button><a href="/content/educationAndExperience">Experience</a></button>
+        <button><a href="/content/education">Education</a></button>
+        <button><a href="/content/experience">Experience</a></button>
         <button><a href="/content/projects">Projects</a></button>
 
 
@@ -25,8 +25,8 @@
             <button class="dropbtn"><img src="/content/images/menuButton.png" alt="menu-button" width="43px" height="auto"></button>
             <div class="dropdown-content">
               <a href="/content/aboutMe">About</a>
-              <a href="/content/educationAndExperience">Education</a>
-              <a href="/content/educationAndExperience">Experience</a>
+              <a href="/content/education">Education</a>
+              <a href="/content/experience">Experience</a>
               <a href="/content/projects">Projects</a>
             </div>
           </div>
