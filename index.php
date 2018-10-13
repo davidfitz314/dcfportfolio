@@ -35,7 +35,7 @@
       <h4>Volunteering+</h4>
       <p>filler</p>
       <img src="/content/images/filler_image.jpg" alt ="filler image">
-      <a href="/content/aboutMe.php#extrasTest">test1</a>
+      <a href="/content/aboutMe#extrasTest">test1</a>
     </div>
   </div>
 
