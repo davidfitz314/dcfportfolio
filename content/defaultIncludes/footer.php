@@ -33,6 +33,7 @@
       <li><a href="/content/aboutMe">About Me</a></li>
       <li><a href="/content/projects">Projects</a></li>
       <li><a href="/content/educationAndExperience">Education</a></li>
+      <li><a href="/content/educationAndExperience">Experience</a></li>
     </ul>
   </div>
 <!-- end threesections-->
