@@ -22,7 +22,7 @@
 
 <!-- page and section navigation example
 <a href="/content/aboutMe#extrasTest">Test1GoTo</a>
-<a id="extrasTest">Test1ArriveAt</a> 
+<a id="extrasTest">Test1ArriveAt</a>
 -->
 
   <div class="educationBanner">
@@ -50,6 +50,7 @@
     <button><a href="content/projectFolder/test1">test1</a></button>
     <button>empty</button>
     <button>empty</button>
+    <p>not reloading test?</p>
     <a href="content/projects">view all...</a>
   </div>
 
