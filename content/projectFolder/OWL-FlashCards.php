@@ -5,6 +5,7 @@
 <p>OWL-FlashCards</p>
 <p>Our World Languages Flash Cards</p>
 <p>by DCFApps</p>
+<h4>...page currently under construction...</h4>
 <p><i>insert pagination at base of each project page</i></p>
 </div>
 <?php include '../defaultIncludes/footer.php'; ?>
