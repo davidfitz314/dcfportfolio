@@ -81,27 +81,27 @@
 
         <!-- Thumbnail image controls -->
         <div class="tcolumn">
-          <img class="preview" src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG" onclick="currentSlide(1)" alt="Keyboard">
+          <img class="preview" src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG" onclick="currentSlide(1)" alt="B&B Index Page">
         </div>
 
         <div class="tcolumn">
-          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap11screenshot.JPG" onclick="currentSlide(2)" alt="Keyboard Pressed">
+          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap11screenshot.JPG" onclick="currentSlide(2)" alt="B&B chapter 11">
         </div>
 
         <div class="tcolumn">
-          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap11chinasegmentscreenshot.JPG" onclick="currentSlide(3)" alt="Encrypted">
+          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap11chinasegmentscreenshot.JPG" onclick="currentSlide(3)" alt="B&B chapter 11 china segment">
         </div>
 
         <div class="tcolumn">
-          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap4screenshot.JPG" onclick="currentSlide(4)" alt="Decrypted">
+          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap4screenshot.JPG" onclick="currentSlide(4)" alt="B&B chapter 4">
         </div>
 
         <div class="tcolumn">
-          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap4tooltipscreenshot.JPG" onclick="currentSlide(5)" alt="Decrypted">
+          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap4tooltipscreenshot.JPG" onclick="currentSlide(5)" alt="B&B chapter 4 tooltip active">
         </div>
 
         <div class="tcolumn">
-          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap14workscitedscreenshot.JPG" onclick="currentSlide(6)" alt="Decrypted">
+          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap14workscitedscreenshot.JPG" onclick="currentSlide(6)" alt="B&B chapter 14 works cited">
         </div>
       </div>
     </div>
