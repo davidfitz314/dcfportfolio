@@ -152,6 +152,10 @@ body {
   left: 25%;
 }
 
+.educationLeft p, .educationLeft h4 {
+  text-align: center;
+}
+
 .educationMiddle {
   text-align: center;
 }
@@ -160,6 +164,9 @@ body {
   text-align: right;
 }
 
+.educationRight p, .educationRight h4 {
+  text-align: center;
+}
 /*projects section banner*/
 .projectsBanner {
   background-color: #E6E6FA;
