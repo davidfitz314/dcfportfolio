@@ -6,7 +6,7 @@
     <h3>BirdAndB.com</h3>
 
     <h4>OverView</h4>
-    <p>BirdAndB.com is a website I built alongside the Graphic Designer Jamie Chapman, made to help aid young adults in learning about psyiology and psychology of life in relation to a developing sexuality awareness.</p>
+    <p>BirdAndB.com is a website I built alongside the Graphic Designer Jamie Chapman, made to help aid young adults in learning about psyiology and psychology of life in relation to sex and sexuality.</p>
     <h4>External Links</h4>
     <a href="http://www.birdandb.com/" target="_blank"><b>Click Here to Visit birdandb.com</b></a>
     <br />
