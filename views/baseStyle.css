@@ -153,13 +153,11 @@ body {
 }
 
 .educationMiddle {
-  right: 0;
-  text-align: right;
+  text-align: center;
 }
 
 .educationRight {
-  text-align: center;
-
+  text-align: right;
 }
 
 /*projects section banner*/
