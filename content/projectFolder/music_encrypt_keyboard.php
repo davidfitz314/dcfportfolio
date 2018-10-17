@@ -1,7 +1,7 @@
 <?php include '../defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
   <a href="../projects">Return to projects directory</a>
-  <div class="basicProjecetLayout">
+  <div class="basicProjectLayout">
     <hr />
     <h3>Music Encrypting/Decrypting KeyBoard</h3>
     <h4>OverView</h4>

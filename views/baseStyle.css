@@ -251,11 +251,11 @@ footer a:hover {
 }
 
 /*Styling for Projects for unity amoung pages*/
-.basicProjecetLayout {
+.basicProjectLayout {
   display: inline;
 }
 
-.basicProjecetLayout img {
+.basicProjectLayout img {
   width: 90%;
   max-height: auto;
 }

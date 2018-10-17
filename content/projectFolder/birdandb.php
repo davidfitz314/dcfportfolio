@@ -1,6 +1,6 @@
 <?php include '../defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
-  <div class="basicProjecetLayout">
+  <div class="basicProjectLayout">
     <a href="../projects">Return to projects directory</a>
     <hr />
     <h3>BirdAndB.com</h3>
