@@ -8,7 +8,7 @@
 <br />
 <button><a href="projectFolder/powerball_statistics">Powerball Statistics</a></button>
 <button><a href="projectFolder/JSMaxPriorityQueue">JavaScript Max Priority Queue</a></button>
-<button>filler</button>
+<button><a href="projectFolder/Auto_Chess_Story">Automated Chess Story</a></button>
 <button>filler</button>
 <br />
 <button>filler</button>
