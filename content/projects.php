@@ -7,7 +7,7 @@
 <button><a href="projectFolder/music_encrypt_keyboard">Music Encryption Keyboard</a></button>
 <br />
 <button><a href="projectFolder/powerball_statistics">Powerball Statistics</a></button>
-<button>filler</button>
+<button><a href="projectFolder/JSMaxPriorityQueue">JavaScript Max Priority Queue</a></button>
 <button>filler</button>
 <button>filler</button>
 <br />
