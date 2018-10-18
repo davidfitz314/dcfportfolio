@@ -2,6 +2,7 @@
 <html>
 <head>
   <link rel="stylesheet" type="text/css" href="/views/baseStyle.css">
+  <link rel="shortcut icon" type="image/x-icon" href="/content/images/favicon.ico">
   <title>DCFPortfolio</title>
 </head>
 <body>
