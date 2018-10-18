@@ -7,10 +7,11 @@
 <body>
   <div class="headerMenu">
     <div class="centeredWrapper">
+      <div class="goLeft">
+        <a href="/index"><img src="/content/images/david_logo.png" alt="David CF Logo"></a>
+      </div>
       <div class="goCenter">
-        <div class="goLeft">
-          <a href="/index"><img src="/content/images/david_logo.png" alt="David CF Logo"></a>
-        </div>
+
 
 
         <button><a href="/content/aboutMe">About</a></button>
