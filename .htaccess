@@ -1,6 +1,10 @@
 RewriteEngine on
 
-RewriteCond %{HTTP_HOST} ^suncoastlaw\.com
+RewriteCond %{HTTP_HOST} ^dcfportfolio\.com
+RewriteCond %{HTTPS} =on
+RewriteRule .* https://www.%{SERVER_NAME}%{REQUEST_URI} [R,L]
+RewriteCond %{HTTP_HOST} ^dcfportfolio\.com
+RewriteCond %{HTTPS} !=on
 RewriteRule .* https://www.%{SERVER_NAME}%{REQUEST_URI} [R,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
