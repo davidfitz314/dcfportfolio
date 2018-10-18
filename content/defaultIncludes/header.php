@@ -9,7 +9,7 @@
     <div class="centeredWrapper">
       <div class="goCenter">
         <div class="goLeft">
-          <button><h1><a href="/index">DCFPortfolio</a></h1></button>
+          <button><h1><a href="/index"><img src="/content/images/david_logo.png" alt="David CF Logo"></a></h1></button>
         </div>
 
 
