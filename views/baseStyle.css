@@ -16,6 +16,12 @@
   float: left;
 }
 
+.goLeft img {
+  width: 30%;
+  height: auto;
+  min-width: 100px;
+}
+
 .goRight {
   float: Right;
 }
@@ -23,7 +29,7 @@
 /*Simplify the header later*/
 .goCenter {
   text-align: center;
-  
+
 }
 
 /*nav bar drop down menu*/
