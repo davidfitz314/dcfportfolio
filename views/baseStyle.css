@@ -27,11 +27,14 @@
 
 .goRight {
   float: Right;
+  width: 15%;
+  min-width: 15px;
 }
 
 /*Simplify the header later*/
 .goCenter {
   text-align: center;
+
 
 }
 
