@@ -15,12 +15,14 @@
 .goLeft {
   float: left;
   text-align: left;
+  width: 30%;
 }
 
 .goLeft img {
   height: auto;
   min-width: 100px;
-  width: 30%;
+  width: 100%;
+  padding: 1% 1% 1% 1%;
 }
 
 .goRight {
