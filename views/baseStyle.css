@@ -219,9 +219,10 @@ footer ul{
 
 .leftFooter {
   float: left;
-  width: 30%;
+  width: 25%;
   margin-right: 5%;
   margin-left: 12%;
+  text-align: left;
 }
 
 .middleFooter {
