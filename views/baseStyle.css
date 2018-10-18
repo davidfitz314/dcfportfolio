@@ -14,7 +14,7 @@
 /*nav menu button special alignments*/
 .goLeft {
   float: left;
-  
+  min-height: 25px;
 }
 
 .goRight {
