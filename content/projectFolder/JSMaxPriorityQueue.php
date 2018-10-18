@@ -6,7 +6,9 @@
     <h3>JavaScript Max Priority Queue</h3>
     <h4>OverView</h4>
     <p>
-      A priority queue for integers. All duplicate integers increment the initial integer priority by 1.
+      A priority queue for integers.
+      <br />
+      All duplicate integers increment the initial integer priority by 1.
     <br />
 Built using a heap data structure with a hash look up table to maintain an overall runtime of O(log n).
     </p>
