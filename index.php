@@ -47,9 +47,14 @@
 
   <div class="projectsBanner">
     <p>here are my projects</p>
-    <button><a href="content/projectFolder/test1">test1</a></button>
-    <button>empty</button>
-    <button>empty</button>
+    <button><a href="projectFolder/test1">test1</a></button>
+    <button><a href="projectFolder/OWL-FlashCards">OWL-FlashCards</a></button>
+    <button><a href="projectFolder/birdandb">BirdandB.com</a></button>
+    <button><a href="projectFolder/music_encrypt_keyboard">Music Encryption Keyboard</a></button>
+    <button><a href="projectFolder/powerball_statistics">Powerball Statistics</a></button>
+    <button><a href="projectFolder/JSMaxPriorityQueue">JavaScript Max Priority Queue</a></button>
+    <button><a href="projectFolder/Auto_Chess_Story">Automated Chess Story</a></button>
+    <button><a href="projectFolder/3d_rat_maze">3D Rat Maze</a></button>
     <p>not reloading test?</p>
     <a href="content/projects">view all...</a>
   </div>
