@@ -9,7 +9,7 @@
 <button><a href="projectFolder/powerball_statistics">Powerball Statistics</a></button>
 <button><a href="projectFolder/JSMaxPriorityQueue">JavaScript Max Priority Queue</a></button>
 <button><a href="projectFolder/Auto_Chess_Story">Automated Chess Story</a></button>
-<button>filler</button>
+<button><a href="projectFolder/3d_rat_maze">3D Rat Maze</a></button>
 <br />
 <button>filler</button>
 <button>filler</button>
