@@ -23,6 +23,7 @@
 /*Simplify the header later*/
 .goCenter {
   text-align: center;
+  display:none;
 }
 
 /*nav bar drop down menu*/
