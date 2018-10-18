@@ -15,10 +15,10 @@
 .goLeft {
   float: left;
   text-align: left;
+  max-width: 30%;
 }
 
 .goLeft img {
-  width: 30%;
   height: auto;
   min-width: 100px;
 }
