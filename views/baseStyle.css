@@ -270,7 +270,6 @@ footer a:hover {
 
 .basicProjectLayout img {
   width: 90%;
-  max-height: 90%;
 }
 
 /*test section image popup*/
@@ -313,7 +312,7 @@ footer a:hover {
   padding: 0;
   width: 60%;
   max-width: 800px;
-  max-height: 80%;
+  max-height: 70%;
 }
 
 /* The Close Button */
