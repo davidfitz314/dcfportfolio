@@ -225,6 +225,11 @@ footer ul{
   text-align: left;
 }
 
+.leftFooter img {
+  width: 85%;
+  min-width: 150px;
+}
+
 .middleFooter {
   float: left;
   width: 30%;
