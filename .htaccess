@@ -1,7 +1,7 @@
 RewriteEngine on
 
-RewriteCond %{HTTPS} !=on
-RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+RewriteCond %{HTTP_HOST} ^suncoastlaw\.com
+RewriteRule .* https://www.%{SERVER_NAME}%{REQUEST_URI} [R,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
