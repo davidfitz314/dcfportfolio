@@ -1,9 +1,8 @@
 RewriteEngine on
 
 #forcing http to https
-RewriteCond %{HTTPS} off
-RewriteCond %{HTTP_HOST} =www.dcfportfolio.com
-RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301]
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.dcfportfolio.com/$1 [R,L]
 
 #diplaying pages without php extension
 RewriteCond %{REQUEST_FILENAME} !-d
