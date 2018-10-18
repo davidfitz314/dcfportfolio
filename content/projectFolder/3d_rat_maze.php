@@ -37,7 +37,7 @@
         <img src="/content/images/3dRatMazeImg/3dRatMazeViewGoalView.JPG" onclick="openSlideShow();currentSlide(4)" class="hover-shadow">
       </div>
       <div class="tcolumn">
-        <img src="/content/images/3dRatMazeImg/3dMazeFilesOverView.JPG" onclick="openSlideShow();currentSlide(5)" class="hover-shadow">
+        <img src="/content/images/3dRatMazeImg/3dRatMazeFilesOverView.JPG" onclick="openSlideShow();currentSlide(5)" class="hover-shadow">
       </div>
       <div class="tcolumn">
         <img src="/content/images/3dRatMazeImg/3dRatMazeHeaderCode.JPG" onclick="openSlideShow();currentSlide(6)" class="hover-shadow">
@@ -74,7 +74,7 @@
 
         <div class="eachSlides">
           <div class="numbertext">5 / 7</div>
-          <img src="/content/images/3dRatMazeImg/3dMazeFilesOverView.JPG" style="width:100%">
+          <img src="/content/images/3dRatMazeImg/3dRatMazeFilesOverView.JPG" style="width:100%">
         </div>
 
         <div class="eachSlides">
@@ -114,7 +114,7 @@
         </div>
 
         <div class="tcolumn">
-          <img class="preview" src="/content/images/3dRatMazeImg/3dMazeFilesOverView.JPG" onclick="currentSlide(5)" alt="List of Files in 3d Rat Maze Repository">
+          <img class="preview" src="/content/images/3dRatMazeImg/3dRatMazeFilesOverView.JPG" onclick="currentSlide(5)" alt="List of Files in 3d Rat Maze Repository">
         </div>
 
         <div class="tcolumn">
