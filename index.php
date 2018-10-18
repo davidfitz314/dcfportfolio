@@ -55,7 +55,6 @@
     <button><a href="projectFolder/JSMaxPriorityQueue">JavaScript Max Priority Queue</a></button>
     <button><a href="projectFolder/Auto_Chess_Story">Automated Chess Story</a></button>
     <button><a href="projectFolder/3d_rat_maze">3D Rat Maze</a></button>
-    <p>not reloading test?</p>
     <a href="content/projects">view all...</a>
   </div>
 
