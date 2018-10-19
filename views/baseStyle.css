@@ -162,12 +162,12 @@ body {
 }
 
 .educationMiddle {
-  text-align: center;
+  text-align: left;
   width: 30%;
 }
 
 .educationRight {
-  text-align: right;
+  text-align: left;
   width: 30%;
 }
 
