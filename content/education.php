@@ -9,6 +9,7 @@
 </p>
 <p><strong>Degree Course Work Section?</strong></p>
 <h3>Certificates</h3>
+<p><i>insert certificate image here?</i></p>
 <p>Google App Developer Associate Certificate...<i> in progress</i>.</p>
 </div>
 <?php include 'defaultIncludes/footer.php'; ?>
