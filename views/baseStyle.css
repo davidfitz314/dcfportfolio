@@ -154,17 +154,13 @@ body {
   color: black;
   display: block;
   clear: both;
-  
-  background-image: url("/content/images/filler_image.jpg");
-}
 
-.educationBanner img {
-  max-width: 200px;
-  height: auto;
 }
 
 .educationLeft {
   left: 25%;
+  width: 30%;
+  background-image: url("/content/images/filler_image.jpg");
 }
 
 .educationMiddle {
