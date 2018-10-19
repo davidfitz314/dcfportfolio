@@ -13,7 +13,6 @@
 
 /*nav menu button special alignments*/
 .goLeft {
-  float: left;
   text-align: left;
   width: 30%;
 }
@@ -35,7 +34,7 @@
 .goCenter {
   text-align: left;
   display: block;
-  margin-top: 15%;
+  margin-top: 10%;
   margin-bottom: 1%;
   margin-left: 2%;
 }
@@ -99,7 +98,7 @@ body {
   padding: 0;
   margin: 0 auto;
   overflow: auto;
-  width: 70%;
+  width: 960px;
   text-align: left;
   word-wrap: normal;
 
