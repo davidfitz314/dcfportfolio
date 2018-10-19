@@ -148,7 +148,7 @@ body {
 
 /*education section banner*/
 .educationBanner {
-  background-color: #B0E0E6;
+  /*background-color: #B0E0E6;*/
   margin: 0;
   padding: 0;
   color: black;
@@ -173,7 +173,7 @@ body {
 
 /*projects section banner*/
 .projectsBanner {
-  background-color: #E6E6FA;
+/*  background-color: #E6E6FA;*/
   height: 300px;
   margin: 0;
   padding: 0;

@@ -19,6 +19,8 @@
     </div>
   </div>
 
+  <!-- line seperating next section, use until designed segment-->
+  <hr />
 
 <!-- page and section navigation example
 <a href="/content/aboutMe#extrasTest">Test1GoTo</a>
@@ -68,6 +70,9 @@
       <p>...</p>
     </div>
   </div>
+
+  <!-- line seperating next section, use until designed segment-->
+  <hr />
 
   <div class="projectsBanner">
     <p>here are my projects</p>
