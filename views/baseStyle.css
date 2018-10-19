@@ -155,6 +155,10 @@ body {
   clear: both;
 }
 
+.educationBanner a {
+  text-decoration: none;
+}
+
 .educationLeft {
   text-align: left;
 }
