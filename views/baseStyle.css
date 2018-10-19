@@ -1,8 +1,10 @@
+/*small screens 'phones' drop down menu */
 @media only screen and (max-width: 768px) {
   .goCenter {display: none}
   .goRight {display: inline-block;}
 }
 
+/*Bigger screens full top menu*/
 @media only screen and (min-width: 768px) {
   .goCenter {display: block;}
   .goRight {display: none;}
@@ -44,8 +46,7 @@
 /*Simplify the header later*/
 .goCenter {
   text-align: center;
-
-
+  display: block;
 }
 
 /*nav bar drop down menu*/
