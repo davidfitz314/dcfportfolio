@@ -14,7 +14,7 @@
 
 /*nav menu button special alignments*/
 .goLeft {
-  text-align: left;
+  float: left;
   width: 30%;
 }
 
@@ -26,16 +26,18 @@
 }
 
 .goRight {
+  float: left;
   width: 15%;
   min-width: 15px;
 }
 
 /*Simplify the header later*/
 .goCenter {
-  text-align: left;
+  float: left;
   display: block;
   margin-bottom: 1%;
   margin-left: 35%;
+  width: 50%;
 }
 
 /*nav bar drop down menu*/
