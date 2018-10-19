@@ -29,21 +29,44 @@
     <h3>My Work</h3>
     <div class="educationLeft">
       <h4>Education</h4>
-      <p>Dixie State University
+      <p>2017
+        <br />
+        Dixie State University
         <br />
         225 S. 700 E. St. George, UT. 84790
         <br />
         BS Computer Information Technology -Emphasis Computer Science
       </p>
+      <p>...</p>
     </div>
     <div class="educationMiddle">
       <h4>Experience</h4>
-      <p>filler</p>
+      <p><strong>DSU Disability Resource Center,</strong>
+        <br />
+        St. George, UT.
+        <br />
+        Visual Software Translator.
+        <br />
+        Translated visual software, written words, images, and code into a format that a vision impaired student could access for his Artificial Intelligence class.
+        </p>
+        <p><strong>Freelance</strong>
+        <br />St. George, UT.
+        <br />
+        2 Years networking, router and wiring installation, testing/debugging networks through the residential side of demarcation.
+      </p>
+      <p>...</p>
       <img src="/content/images/filler_image.jpg" alt ="filler image">
     </div>
     <div class="educationRight">
-      <h4>Volunteering+</h4>
-      <p>filler</p>
+      <h4>Volunteering</h4>
+        <p>2016 <br />
+        <strong>DSU 4H Club</strong>
+        <br />
+        St. George, UT.
+        <br />
+        Taught introductory programming courses to children aged 10 - 15 years old.
+      </p>
+      <p>...</p>
       <img src="/content/images/filler_image.jpg" alt ="filler image">
 
     </div>
