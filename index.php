@@ -55,7 +55,6 @@
         2 Years networking, router and wiring installation, testing/debugging networks through the residential side of demarcation.
       </p>
       <p>...</p>
-      <img src="/content/images/filler_image.jpg" alt ="filler image">
     </div>
     <div class="educationRight">
       <h4>Volunteering</h4>
@@ -67,8 +66,6 @@
         Taught introductory programming courses to children aged 10 - 15 years old.
       </p>
       <p>...</p>
-      <img src="/content/images/filler_image.jpg" alt ="filler image">
-
     </div>
   </div>
 
