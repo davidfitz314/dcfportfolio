@@ -29,8 +29,12 @@
     <h3>My Work</h3>
     <div class="educationLeft">
       <h4>Education</h4>
-      <p>Graduated DSU 2018 BS CIT-CS</p>
-      <img src="/content/images/filler_image.jpg" alt ="filler image">
+      <p>Dixie State University
+        <br />
+        225 S. 700 E. St. George, UT. 84790
+        <br />
+        BS Computer Information Technology -Emphasis Computer Science
+      </p>
     </div>
     <div class="educationMiddle">
       <h4>Experience</h4>
