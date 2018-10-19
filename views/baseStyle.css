@@ -157,18 +157,15 @@ body {
 }
 
 .educationLeft {
-  left: 25%;
-  width: 30%;
+  text-align: left;
 }
 
 .educationMiddle {
   text-align: left;
-  width: 30%;
 }
 
 .educationRight {
   text-align: left;
-  width: 30%;
 }
 
 /*projects section banner*/
