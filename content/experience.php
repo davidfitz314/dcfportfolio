@@ -2,19 +2,47 @@
 <div class="centeredWrapper">
 <p><i>insert cool experience pic here</i></p>
 <h3>Experience</h3>
-<p>customer service</p>
-<p>computer repairs and networking</p>
-<p>sales</p>
+<p><strong>DSU Disability Resource Center</strong>
+  <br />
+  St. George, UT
+  <br />
+  Title: <i>Visual Software Translator</i>
+  <br />
+  Translated visual software, written words, images, and code into a format that a vision impaired student could access for his Artificial Intelligence class.
+</p>
+<p><strong>Multiple Locations</strong>
+  <br />
+  10 years of software experience in regards to cash register systems, office docs, and online employee portals.
+  <br />
+  10+ years customer service and sales experience.
+</p>
+<p><strong>FreeLance Experience</strong>
+  <br />
+  2 years of networking, including setting up local routers, installing new wires, installing updates, and testing / debugging through the residentail demarcation.
+  <br />
+  1 year of installing operating systems for linux, windows, and mac os.
+  <br />
+  3 years of system administration (non server based) ; including installing software, cleaning up viruses and caches, setting up new devices, and upkeeping system performance.
+</p>
+
 <br />
 <p><i>insert cool skill pic here</i></p>
 <a id ="volunteering">
-<h3>Volunteering?</h3>
+<h3>Volunteering</h3>
 </a>
-<h3>Skills</h3>
-<p>best at _____ programming lanuages</p>
-<p>software experienced</p>
-<p>teamwork</p>
-<p>musician?</p>
-<p>other good skills</p>
+<p>2016
+  <br />
+  <strong>DSU 4H Club</strong>
+  <br />
+  225 south 700 east st george utah 84790 Smith Bldg.
+  <br />
+  Taught introductory programming courses to children aged 10 - 15 years
+</p>
+<h3>Skills Section?</h3>
+<p>skill 1</p>
+<p>skill 2</p>
+<p>skill 3</p>
+<p>skill 4</p>
+<p>skill 5</p>
 </div>
 <?php include 'defaultIncludes/footer.php'; ?>
