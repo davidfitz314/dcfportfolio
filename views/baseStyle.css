@@ -35,7 +35,9 @@
 .goCenter {
   text-align: left;
   display: block;
-  margin-top: 10%;
+  margin-top: 15%;
+  margin-bottom: 1%;
+  margin-left: 2%;
 }
 
 /*nav bar drop down menu*/
