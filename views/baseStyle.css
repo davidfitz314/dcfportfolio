@@ -33,8 +33,9 @@
 
 /*Simplify the header later*/
 .goCenter {
-  text-align: center;
+  text-align: left;
   display: block;
+  margin-top: 10%;
 }
 
 /*nav bar drop down menu*/
