@@ -28,11 +28,6 @@
 /*Simplify the header later*/
 .goCenter {
   float: right;
-  display: block;
-  margin-bottom: 1%;
-  margin-left: 35%;
-  width: 50%;
-  background-color: #414042;
   color: #ffffff;
 }
 
@@ -41,6 +36,7 @@
   color: #ffffff;
   padding: 0;
   margin: 0 auto;
+  background-color: #414042;
 }
 
 .goCenter a:hover {
