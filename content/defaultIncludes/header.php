@@ -17,10 +17,10 @@
 
 
 
-        <button><a href="/content/aboutMe">About</a></button>
-        <button><a href="/content/education">Education</a></button>
-        <button><a href="/content/experience">Experience</a></button>
-        <button><a href="/content/projects">Projects</a></button>
+        <a href="/content/aboutMe">About</a>
+        <a href="/content/education">Education</a>
+        <a href="/content/experience">Experience</a>
+        <a href="/content/projects">Projects</a>
 
       </div>
       <div class="goRight">

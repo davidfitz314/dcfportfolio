@@ -20,18 +20,20 @@
 }
 
 .goRight {
-  float: left;
+  float: right;
   width: 15%;
   min-width: 15px;
 }
 
 /*Simplify the header later*/
 .goCenter {
-  float: left;
+  float: right;
   display: block;
   margin-bottom: 1%;
   margin-left: 35%;
   width: 50%;
+  background-color: #414042;
+  color: #ffffff;
 }
 
 /*nav bar drop down menu*/
