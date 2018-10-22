@@ -3,7 +3,7 @@
   <!-- links to about section -->
   <div class="aboutBanner">
     <div class="bannerLinks">
-    <a href="content/aboutMe">
+    <a href="/content/aboutMe">
       <div class="AboutMeWrapperGoLeft">
         <h2>Welcome to my Portfolio,</h2>
         <!-- <h3>My name is David ChenFitzgerald and I am a Software Developer and IT technician.</h3>
