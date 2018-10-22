@@ -1,5 +1,5 @@
 <?php include 'content/defaultIncludes/header.php'; ?>
-<div class="centeredWrapper">
+
   <!-- links to about section -->
   <div class="aboutBanner">
     <div class="bannerLinks">
@@ -98,5 +98,5 @@
 
 
 
-</div>
+
 <?php include 'content/defaultIncludes/footer.php'; ?>

@@ -1,6 +1,5 @@
 <footer>
-  <!-- end centerred wrapper div?-->
-  </div>
+
 
 <div class="threeSections">
   <!-- keywords for search optimization example: https://www.orbitmedia.com/blog/website-footer-design-best-practices/ -->
