@@ -125,9 +125,10 @@ hr {
 .aboutBanner {
   /*background-color: #ffffe0;*/
   padding: 0;
-  overflow: 0 auto;
+  margin: 0 auto;
+  overflow: auto;
   width: 960px;
-  clear: float;
+  clear: both;
 }
 
 .AboutMeWrapperGoLeft {
@@ -160,9 +161,6 @@ hr {
   padding: 0;
   color: black;
   display: block;
-  border-top: solid;
-  border-bottom: solid;
-  border-width: 0.02in;
   text-align: center;
 }
 
