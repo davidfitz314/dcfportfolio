@@ -167,6 +167,7 @@ body {
 }
 
 .educationLeft {
+  opacity: 1;
   margin: 0 auto;
   padding: 0;
   width: 960px;
@@ -174,6 +175,7 @@ body {
 }
 
 .educationMiddle {
+  opacity: 1;
   margin: 0 auto;
   padding: 0;
   width: 960px;
@@ -181,6 +183,7 @@ body {
 }
 
 .educationRight {
+  opacity: 1;
   margin: 0 auto;
   padding: 0;
   width: 960px;
