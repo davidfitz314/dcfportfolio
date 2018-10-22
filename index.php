@@ -40,7 +40,7 @@
           <br />
           BS Computer Information Technology -Emphasis Computer Science
         </p>
-        <p>...</p>
+        <p>read more...</p>
       </a>
     </div>
     <div class="educationMiddle">
@@ -59,7 +59,7 @@
           <br />
           2 Years networking, router and wiring installation, testing/debugging networks through the residential side of demarcation.
         </p>
-        <p>...</p>
+        <p>read more...</p>
       </a>
     </div>
     <div class="educationRight">
@@ -72,7 +72,7 @@
           <br />
           Taught introductory programming courses to children aged 10 - 15 years old.
         </p>
-        <p>...</p>
+        <p>read more...</p>
       </a>
     </div>
   </div>
