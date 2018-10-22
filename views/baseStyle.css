@@ -29,14 +29,14 @@
 .goCenter {
   float: right;
   color: #ffffff;
+  background-color: #414042;
 }
 
 .goCenter a {
   text-decoration: none;
   color: #ffffff;
-  padding: 0;
+  padding: 10px;
   background-color: #414042;
-  margin: 5 5 5 5px;
 }
 
 .goCenter a:hover {
