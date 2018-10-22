@@ -30,6 +30,9 @@
   float: right;
   color: #ffffff;
   background-color: #414042;
+  padding: 4px;
+  position: static;
+  margin-top: 75px;
 }
 
 .goCenter a {
