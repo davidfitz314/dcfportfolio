@@ -134,6 +134,7 @@ hr {
 .AboutMeWrapperGoLeft {
   width: 70%;
   float: left;
+  text-align: left;
 
 }
 
