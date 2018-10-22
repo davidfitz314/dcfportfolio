@@ -120,15 +120,15 @@ body {
 /*about section banner*/
 .aboutBanner {
   /*background-color: #ffffe0;*/
-  margin: 20px;
   padding: 0;
   overflow: auto;
+  width: 960px;
 }
 
 .AboutMeWrapperGoLeft {
   width: 70%;
   float: left;
-  margin-right: 2%;
+
 }
 
 .AboutMeWrapperGoRight {
