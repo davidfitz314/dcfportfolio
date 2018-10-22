@@ -93,6 +93,10 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+hr {
+  width: 0.02in;
+}
+
 /*added margins to allow more whitespace and cleaner look overall*/
 .centeredWrapper {
   padding: 0;
