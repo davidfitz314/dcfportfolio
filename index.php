@@ -90,7 +90,7 @@
     <button><a href="/content/projectFolder/JSMaxPriorityQueue">JavaScript Max Priority Queue</a></button>
     <button><a href="/content/projectFolder/Auto_Chess_Story">Automated Chess Story</a></button>
     <button><a href="/content/projectFolder/3d_rat_maze">3D Rat Maze</a></button>
-    <a href="content/projects">view all...</a>
+    <a href="content/projects">Click to view all...</a>
   </div>
 
 
