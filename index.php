@@ -5,7 +5,9 @@
     <div class="bannerLinks">
     <a href="content/aboutMe">
       <div class="AboutMeWrapperGoLeft">
-        <h2>Welcome to my Portfolio,</h2>
+        <a id="about">
+          <h2>Welcome to my Portfolio,</h2>
+        </a>
         <!-- <h3>My name is David ChenFitzgerald and I am a Software Developer and IT technician.</h3>
         --><p>My name is David ChenFitzgerald. I am a Computer Programmer and It Technician.
         I live in St. George UT, and I love travelling to new places. I got married in 2017 to a beautiful Chinese graphic web designer and from then on have improved my own apps greatly due to her influence.
@@ -28,7 +30,9 @@
 -->
 
   <div class="educationBanner">
-    <h3>My Work</h3>
+    <a id="work">
+      <h3>My Work</h3>
+    </a>
     <div class="educationLeft">
       <a href="/content/education">
         <h4>Education</h4>
@@ -81,7 +85,9 @@
   <hr />
 
   <div class="projectsBanner">
-    <p>here are my projects</p>
+    <a id="project">
+      <p>here are my projects</p>
+    </a>
     <button><a href="/content/projectFolder/test1">test1</a></button>
     <button><a href="/content/projectFolder/OWL-FlashCards">OWL-FlashCards</a></button>
     <button><a href="/content/projectFolder/birdandb">BirdandB.com</a></button>
