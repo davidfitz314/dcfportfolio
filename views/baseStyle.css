@@ -121,7 +121,7 @@ body {
 .aboutBanner {
   /*background-color: #ffffe0;*/
   padding: 0;
-  overflow: auto;
+  overflow: 0 auto;
   width: 960px;
 }
 
