@@ -36,6 +36,15 @@
   color: #ffffff;
 }
 
+.goCenter a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.goCenter a:hover {
+  background-color: #1c75bc;
+}
+
 /*nav bar drop down menu*/
 .dropbtn {
   padding: 16px;
