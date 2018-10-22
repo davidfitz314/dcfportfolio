@@ -29,7 +29,6 @@
 .goCenter {
   float: right;
   color: #ffffff;
-  background-color: #414042;
   padding: 4px;
   position: static;
   margin-top: 75px;
@@ -38,8 +37,9 @@
 .goCenter a {
   text-decoration: none;
   color: #ffffff;
-  padding: 10px;
+  padding: 15px 43px 15px 43px;
   background-color: #414042;
+  margin-left: -10px;
 }
 
 .goCenter a:hover {
