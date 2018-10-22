@@ -272,6 +272,10 @@ footer ul{
   height: 25px;
 }
 
+footer a{
+  text-decoration: none;
+  color: color: #ffffff;
+}
 
 footer a:hover {
   text-decoration: underline;
