@@ -149,12 +149,16 @@ body {
 
 /*education section banner*/
 .educationBanner {
-  /*background-color: #B0E0E6;*/
+  background-color: #1c75bc;
+  opacity: 70%
   margin: 0;
   padding: 0;
   color: black;
   display: block;
-  clear: both;
+  border-top: double;
+  border-bottom: double;
+  border-width: 0.2em;
+  text-align: center;
 }
 
 .educationBanner a {
@@ -163,14 +167,17 @@ body {
 }
 
 .educationLeft {
+  width: 960px;
   text-align: left;
 }
 
 .educationMiddle {
+  width: 960px;
   text-align: left;
 }
 
 .educationRight {
+  width: 960px;
   text-align: left;
 }
 
