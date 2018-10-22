@@ -150,8 +150,8 @@ body {
 /*education section banner*/
 .educationBanner {
   background-color: #1c75bc;
-  opacity: 70%
-  margin: 0;
+  opacity: 70%;
+  margin: 0, auto;
   padding: 0;
   color: black;
   display: block;
