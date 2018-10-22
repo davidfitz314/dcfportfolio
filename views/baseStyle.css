@@ -39,11 +39,14 @@
 .goCenter a {
   text-decoration: none;
   color: #ffffff;
+  padding: 0;
+  margin: 0 auto;
 }
 
 .goCenter a:hover {
   background-color: #1c75bc;
 }
+
 
 /*nav bar drop down menu*/
 .dropbtn {
