@@ -17,10 +17,10 @@
 
 
 
-        <a href="/content/index#about">About</a>
-        <a href="/content/index#work">Education</a>
-        <a href="/content/index#work">Experience</a>
-        <a href="/content/index#project">Projects</a>
+        <a href="/index#about">About</a>
+        <a href="/index#work">Education</a>
+        <a href="/index#work">Experience</a>
+        <a href="/index#project">Projects</a>
 
       </div>
       <div class="goRight">
