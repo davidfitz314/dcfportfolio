@@ -96,6 +96,9 @@ body {
 
 hr {
   height: 0.02in;
+  border: 0 none;
+  color: #414042;
+  background-color: #414042;
 }
 
 /*added margins to allow more whitespace and cleaner look overall*/
@@ -218,6 +221,8 @@ footer {
   padding: 5px 0px 0px 0px;
   overflow: auto;
   font-size: smaller;
+  color: #ffffff;
+  background-color: #414042;
 }
 
 footer h4 {
