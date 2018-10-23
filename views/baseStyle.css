@@ -216,6 +216,11 @@ hr {
   display: inline-block;
 }
 
+.projectsBanner a {
+  text-decoration: none;
+  color: black;
+}
+
 .projectsBanner img{
   max-width: 225px;
   padding: 10px;

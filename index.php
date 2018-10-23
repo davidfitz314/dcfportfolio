@@ -85,42 +85,47 @@
     <div class="proRow">
       <div class="proLeft">
         <a href="/content/projectFolder/birdandb"><img src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG" alt="BirdandB.com">
-        <div class="hiddenTitle">
-          <div class="imgTitle">BirdAndB.com</div>
-        </div>
+          <div class="hiddenTitle">
+            <div class="imgTitle">BirdAndB.com</div>
+          </div>
         </a>
       </div>
       <div class="proCent">
-        <a href="/content/projectFolder/music_encrypt_keyboard"><img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" alt="Music Encryption Keyboard"></a>
-        <div class="hiddenTitle">
-          <div class="imgTitle">Music Encrypt Keyboard</div>
-        </div>
+        <a href="/content/projectFolder/music_encrypt_keyboard"><img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" alt="Music Encryption Keyboard">
+          <div class="hiddenTitle">
+            <div class="imgTitle">Music Encrypt Keyboard</div>
+          </div>
+        </a>
       </div>
       <div class="proRight">
-        <a href="/content/projectFolder/powerball_statistics"><img src="/content/images/PowerballStatisticsImg/PBStatsMainFunct.JPG" alt="Powerball Statistics"></a>
-        <div class="hiddenTitle">
-          <div class="imgTitle">Powerball Statistics</div>
-        </div>
+        <a href="/content/projectFolder/powerball_statistics"><img src="/content/images/PowerballStatisticsImg/PBStatsMainFunct.JPG" alt="Powerball Statistics">
+          <div class="hiddenTitle">
+            <div class="imgTitle">Powerball Statistics</div>
+          </div>
+        </a>
       </div>
     </div>
     <div class="proRow">
       <div class="proLeft">
-        <a href="/content/projectFolder/JSMaxPriorityQueue"><img src="/content/images/JSMQueueImg/JSMQueueReadME_short.jpg" alt="JavaScript Max Priority Queue"></a>
-        <div class="hiddenTitle">
-          <div class="imgTitle">JavaScript Max Priority Queue</div>
-        </div>
+        <a href="/content/projectFolder/JSMaxPriorityQueue"><img src="/content/images/JSMQueueImg/JSMQueueReadME_short.jpg" alt="JavaScript Max Priority Queue">
+          <div class="hiddenTitle">
+            <div class="imgTitle">JavaScript Max Priority Queue</div>
+          </div>
+        </a>
       </div>
       <div class="proCent">
-        <a href="/content/projectFolder/Auto_Chess_Story"><img src="/content/images/AutoChessImg/AutoChessStory3.JPG" alt="Automated Chess Story"></a>
-        <div class="hiddenTitle">
-          <div class="imgTitle">Automated Chess Story</div>
-        </div>
+        <a href="/content/projectFolder/Auto_Chess_Story"><img src="/content/images/AutoChessImg/AutoChessStory3.JPG" alt="Automated Chess Story">
+          <div class="hiddenTitle">
+            <div class="imgTitle">Automated Chess Story</div>
+          </div>
+        </a>
       </div>
       <div class="proRight">
-        <a href="/content/projectFolder/3d_rat_maze"><img src="/content/images/3dRatMazeImg/3dRatMazeViewTopPerspective.JPG" alt="3D Rat Maze"></a>
-        <div class="hiddenTitle">
-          <div class="imgTitle">3D Rat Maze</div>
-        </div>
+        <a href="/content/projectFolder/3d_rat_maze"><img src="/content/images/3dRatMazeImg/3dRatMazeViewTopPerspective.JPG" alt="3D Rat Maze">
+          <div class="hiddenTitle">
+            <div class="imgTitle">3D Rat Maze</div>
+          </div>
+        </a>
       </div>
     </div>
     <a href="content/projects">Click to view all...</a>
