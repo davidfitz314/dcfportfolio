@@ -213,20 +213,11 @@ hr {
   overflow: auto;
   color: black;
   clear: both;
-}
-
-.projectsBanner td{
-  width: 3%;
-  height: 250px;
-  background-color: #414042;
-  border: solid;
-  border-radius: 25px;
-  text-align: center;
+  display: inline;
 }
 
 .projectsBanner img{
-    width: 225px;
-    
+    max-width: 225px;
     padding: 10px;
 }
 

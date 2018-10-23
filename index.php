@@ -81,19 +81,16 @@
   <hr />
 
   <div class="projectsBanner">
-    <table>
-      <p>Here are my projects</p>
-      <tr>
-        <td><a href="/content/projectFolder/birdandb"><img src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG" alt="BirdandB.com"></a></td>
-        <td><a href="/content/projectFolder/music_encrypt_keyboard"><img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" alt="Music Encryption Keyboards"></a></td>
-        <td><a href="/content/projectFolder/powerball_statistics"><img src="/content/images/PowerballStatisticsImg/PBStatsMainFunct.JPG" alt="Powerball Statistics"></a></td>
-      </tr>
-      <tr>
-        <td><a href="/content/projectFolder/JSMaxPriorityQueue"><img src="/content/images/JSMQueueImg/JSMQueueReadME.JPG" alt="JavaScript Max Priority Queue"></a></td>
-        <td><a href="/content/projectFolder/Auto_Chess_Story"><img src="/content/images/AutoChessImg/AutoChessStory3.JPG" alt="Automated Chess Story"></a></td>
-        <td><a href="/content/projectFolder/3d_rat_maze"><img src="/content/images/3dRatMazeImg/3dRatMazeViewTopPerspective.JPG" alt="3D Rat Maze"></a></td>
-      </tr>
-    </table>
+    <p>Here are my projects</p>
+
+        <a href="/content/projectFolder/birdandb"><img src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG" alt="BirdandB.com"></a>
+        <a href="/content/projectFolder/music_encrypt_keyboard"><img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" alt="Music Encryption Keyboards"></a>
+        <a href="/content/projectFolder/powerball_statistics"><img src="/content/images/PowerballStatisticsImg/PBStatsMainFunct.JPG" alt="Powerball Statistics"></a>
+
+        <a href="/content/projectFolder/JSMaxPriorityQueue"><img src="/content/images/JSMQueueImg/JSMQueueReadME.JPG" alt="JavaScript Max Priority Queue"></a>
+        <a href="/content/projectFolder/Auto_Chess_Story"><img src="/content/images/AutoChessImg/AutoChessStory3.JPG" alt="Automated Chess Story"></a>
+        <a href="/content/projectFolder/3d_rat_maze"><img src="/content/images/3dRatMazeImg/3dRatMazeViewTopPerspective.JPG" alt="3D Rat Maze"></a>
+      
     <a href="content/projects">Click to view all...</a>
   </div>
 
