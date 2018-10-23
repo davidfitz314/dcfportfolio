@@ -95,7 +95,7 @@
     </div>
     <div class="proRow">
       <div class="proLeft">
-        <a href="/content/projectFolder/JSMaxPriorityQueue"><img src="/content/images/JSMQueueImg/JSMQueueReadME.JPG" alt="JavaScript Max Priority Queue"></a>
+        <a href="/content/projectFolder/JSMaxPriorityQueue"><img src="/content/images/JSMQueueImg/JSMQueueReadME_short.jpg" alt="JavaScript Max Priority Queue"></a>
       </div>
       <div class="proCent">
         <a href="/content/projectFolder/Auto_Chess_Story"><img src="/content/images/AutoChessImg/AutoChessStory3.JPG" alt="Automated Chess Story"></a>
