@@ -84,7 +84,7 @@
     <table>
       <p>Here are my projects</p>
       <tr>
-        <a href="/content/projectFolder/birdandb"><td><img src="/content/images/BirdandB_Images/birdandbindexpagescreenshot.JPG" alt="BirdandB.com"></td></a>
+        <a href="/content/projectFolder/birdandb"><td><img src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG" alt="BirdandB.com"></td></a>
         <a href="/content/projectFolder/music_encrypt_keyboard"><td<img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" alt="Music Encryption Keyboards"></td></a>
         <a href="/content/projectFolder/powerball_statistics"><td><img src="/content/images/PowerballStatisticsImg/PBStatsMainFunct.JPG" alt="Powerball Statistics"></td></a>
       </tr>
