@@ -227,15 +227,21 @@ hr {
 }
 
 .proLeft {
-  width: 33%;
+  width: 28%;
+  margin: 20px;
+  border: solid;
 }
 
 .proCent {
-  width: 33%;
+  width: 28%;
+  margin: 20px;
+  border: solid;
 }
 
 .proRight {
-  width: 33%;
+  width: 28%;
+  margin: 20px;
+  border: solid;
 }
 
 /*Links to professional resources facebook, github, linkedin. Can include copyright for website.*/
