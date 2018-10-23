@@ -19,8 +19,8 @@
     <h4>recent projects</h4>
     <ul>
       <li><a href="/content/projectFolder/OWL-FlashCards">OWL-Flash Cards. Practice learning Chinese/English using flashcards.</a></li>
-      <li><a href="/content/projectFolder/birdandb">BirdanB.com. A sex education website that also teaches other cultures views.</a></li>
-      <li><a href="/content/projectFolder/Auto_Chess_Story">Automated Chess Video Story. short story using some extreme chess moves.</a></li>
+      <li><a href="/content/projectFolder/birdandb">BirdanB.com. A sex education website that also teaches about cultural views.</a></li>
+      <li><a href="/content/projectFolder/Auto_Chess_Story">Automated Chess Video Story. A Short story using some extreme chess moves.</a></li>
     </ul>
   </div>
 
