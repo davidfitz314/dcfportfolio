@@ -18,9 +18,9 @@
   <div class="middleFooter">
     <h4>recent projects</h4>
     <ul>
-      <li><a href="/index">The current website that you are on. ;)</a></li>
-      <li><a href="/content/projectFolder/OWL-FlashCards">Practice learning Chinese/English by using flashcards of English's most common words.</a></li>
-      <li><a href="/content/projectFolder/birdandb">A website designed to help aid learning for biological and psyiological functions in a reporoductive context.</a></li>
+      <li><a href="/content/projectFolder/OWL-FlashCards">OWL-Flash Cards. Practice learning Chinese/English using flashcards.</a></li>
+      <li><a href="/content/projectFolder/birdandb">BirdanB.com. A sex education website that also teaches other cultures views.</a></li>
+      <li><a href="/content/projectFolder/Auto_Chess_Story">Automated Chess Video Story, short story using some extreme chess moves.</a></li>
     </ul>
   </div>
 
