@@ -224,6 +224,7 @@ hr {
 .projectsBanner img{
   max-width: 225px;
   padding: 10px;
+  transform: translate(0%,5%);
 }
 
 .proRow {
@@ -232,8 +233,8 @@ hr {
 }
 
 .proLeft {
-  width: 28%;
-  margin: 22px;
+  width: 25%;
+  margin: 30px;
   border: solid;
   position: relative;
   border-width: 0.02in;
@@ -241,8 +242,8 @@ hr {
 }
 
 .proCent {
-  width: 28%;
-  margin: 22px;
+  width: 25%;
+  margin: 30px;
   border: solid;
   position: relative;
   border-width: 0.02in;
@@ -250,8 +251,8 @@ hr {
 }
 
 .proRight {
-  width: 28%;
-  margin: 22px;
+  width: 25%;
+  margin: 30px;
   border: solid;
   position: relative;
   border-width: 0.02in;
