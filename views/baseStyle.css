@@ -167,7 +167,7 @@ hr {
 /*education section banner*/
 .educationBanner {
   opacity: 0.7;
-  clear: float;
+  clear: both;
   margin: 0 auto;
   padding: 0;
   color: black;
@@ -213,6 +213,12 @@ hr {
   overflow: auto;
   color: black;
   clear: both;
+}
+
+.projectsBanner td{
+  width: 32%;
+  height: 15%;
+  background-color: #414042;
 }
 
 /*Links to professional resources facebook, github, linkedin. Can include copyright for website.*/
