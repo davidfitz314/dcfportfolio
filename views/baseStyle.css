@@ -259,6 +259,10 @@ hr {
   transition: .5s ease;
 }
 
+.proLeft:hover .hiddenTitle {
+  opacity: 1;
+}
+
 .imgTitle {
   position: absolute;
   top: 50%;
