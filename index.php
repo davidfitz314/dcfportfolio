@@ -81,15 +81,19 @@
   <hr />
 
   <div class="projectsBanner">
-    <p>here are my projects</p>
-    <button><a href="/content/projectFolder/test1">test1</a></button>
-    <button><a href="/content/projectFolder/OWL-FlashCards">OWL-FlashCards</a></button>
-    <button><a href="/content/projectFolder/birdandb">BirdandB.com</a></button>
-    <button><a href="/content/projectFolder/music_encrypt_keyboard">Music Encryption Keyboard</a></button>
-    <button><a href="/content/projectFolder/powerball_statistics">Powerball Statistics</a></button>
-    <button><a href="/content/projectFolder/JSMaxPriorityQueue">JavaScript Max Priority Queue</a></button>
-    <button><a href="/content/projectFolder/Auto_Chess_Story">Automated Chess Story</a></button>
-    <button><a href="/content/projectFolder/3d_rat_maze">3D Rat Maze</a></button>
+    <table>
+      <p>Here are my projects</p>
+      <tr>
+        <td><a href="/content/projectFolder/birdandb">BirdandB.com</a></td>
+        <td><a href="/content/projectFolder/music_encrypt_keyboard">Music Encryption Keyboard</a></td>
+        <td><a href="/content/projectFolder/powerball_statistics">Powerball Statistics</a></td>
+      </tr>
+      <tr>
+        <td><a href="/content/projectFolder/JSMaxPriorityQueue">JavaScript Max Priority Queue</a></td>
+        <td><a href="/content/projectFolder/Auto_Chess_Story">Automated Chess Story</a></td>
+        <td><a href="/content/projectFolder/3d_rat_maze">3D Rat Maze</a></td>
+      </tr>
+    </table>
     <a href="content/projects">Click to view all...</a>
   </div>
 
