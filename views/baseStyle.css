@@ -265,12 +265,13 @@ hr {
 
 .imgTitle {
   position: absolute;
-  top: 10%;
+  top: 25%;
   left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-25%, -50%);
+  -ms-transform: translate(-25%, -50%);
+  transform: translate(-25%, -50%);
   text-align: center;
+  background-color: #ffffff;
 }
 
 /*Links to professional resources facebook, github, linkedin. Can include copyright for website.*/
