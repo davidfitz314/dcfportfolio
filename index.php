@@ -84,14 +84,14 @@
     <table>
       <p>Here are my projects</p>
       <tr>
-        <td><a href="/content/projectFolder/birdandb">BirdandB.com</a></td>
-        <td><a href="/content/projectFolder/music_encrypt_keyboard">Music Encryption Keyboard</a></td>
-        <td><a href="/content/projectFolder/powerball_statistics">Powerball Statistics</a></td>
+        <a href="/content/projectFolder/birdandb"><td><img src="/content/images/BirdandB_Images/birdandbindexpagescreenshot.JPG" alt="BirdandB.com"></td></a>
+        <a href="/content/projectFolder/music_encrypt_keyboard"><td<img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" alt="Music Encryption Keyboards"></td></a>
+        <a href="/content/projectFolder/powerball_statistics"><td><img src="/content/images/PowerballStatisticsImg/PBStatsMainFunct.JPG" alt="Powerball Statistics"></td></a>
       </tr>
       <tr>
-        <td><a href="/content/projectFolder/JSMaxPriorityQueue">JavaScript Max Priority Queue</a></td>
-        <td><a href="/content/projectFolder/Auto_Chess_Story">Automated Chess Story</a></td>
-        <td><a href="/content/projectFolder/3d_rat_maze">3D Rat Maze</a></td>
+        <a href="/content/projectFolder/JSMaxPriorityQueue"><td><img src="/content/images/JSMQueueImg/JSMQueueReadME.JPG" alt="JavaScript Max Priority Queue"></td></a>
+        <a href="/content/projectFolder/Auto_Chess_Story"><td><img src="/content/images/AutoChessImg/AutoChessStory3.JPG" alt="Automated Chess Story"></td></a>
+        <a href="/content/projectFolder/3d_rat_maze"><td><img src="/content/images/3dRatMazeImg/3dRatMazeViewTopPerspective.JPG" alt="3D Rat Maze"></td></a>
       </tr>
     </table>
     <a href="content/projects">Click to view all...</a>

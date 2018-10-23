@@ -216,9 +216,11 @@ hr {
 }
 
 .projectsBanner td{
-  width: 32%;
-  height: 15%;
+  width: 3%;
+  height: 250px;
   background-color: #414042;
+  border: solid;
+  border-radius: 25px;
 }
 
 /*Links to professional resources facebook, github, linkedin. Can include copyright for website.*/
