@@ -218,7 +218,7 @@ hr {
 
 .projectsBanner a {
   text-decoration: none;
-  color: black;
+  color: #414042;
 }
 
 .projectsBanner img{
@@ -236,6 +236,8 @@ hr {
   margin: 22px;
   border: solid;
   position: relative;
+  border-width: 0.02in;
+  border-color: #414042;
 }
 
 .proCent {
@@ -243,6 +245,8 @@ hr {
   margin: 22px;
   border: solid;
   position: relative;
+  border-width: 0.02in;
+  border-color: #414042;
 }
 
 .proRight {
@@ -250,6 +254,8 @@ hr {
   margin: 22px;
   border: solid;
   position: relative;
+  border-width: 0.02in;
+  border-color: #414042;
 }
 
 .hiddenTitle {
