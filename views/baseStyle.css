@@ -223,6 +223,10 @@ hr {
   border-radius: 25px;
 }
 
+.projectsBanner img{
+  display: contain;
+}
+
 /*Links to professional resources facebook, github, linkedin. Can include copyright for website.*/
 footer {
   margin: 0;
