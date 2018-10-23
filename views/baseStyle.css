@@ -221,6 +221,10 @@ hr {
   padding: 10px;
 }
 
+.proRow {
+  clear:both;
+}
+
 .proLeft {
   width: 33%;
 }
@@ -241,6 +245,7 @@ footer {
   font-size: smaller;
   color: #ffffff;
   background-color: #414042;
+  clear: both;
 }
 
 footer h4 {
