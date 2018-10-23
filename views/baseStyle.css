@@ -207,8 +207,8 @@ hr {
 /*projects section banner*/
 .projectsBanner {
 /*  background-color: #E6E6FA;*/
-  height: 300px;
-  margin: 0;
+  width: 960px;
+  margin: 0 auto;
   padding: 0;
   overflow: auto;
   color: black;
