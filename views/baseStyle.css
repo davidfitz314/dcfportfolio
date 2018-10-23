@@ -223,6 +223,7 @@ hr {
 
 .proRow {
   clear:both;
+  display: -webkit-box;
 }
 
 .proLeft {
