@@ -259,7 +259,7 @@ hr {
   transition: .5s ease;
 }
 
-.proLeft:hover .hiddenTitle {
+.proLeft:hover .hiddenTitle, .proCent:hover .hiddenTitle, .proRight:hover .hiddenTitle {
   opacity: 1;
 }
 
