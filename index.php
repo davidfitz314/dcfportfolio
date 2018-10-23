@@ -82,15 +82,24 @@
 
   <div class="projectsBanner">
     <p>Here are my projects</p>
-
+      <div class="proLeft">
         <a href="/content/projectFolder/birdandb"><img src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG" alt="BirdandB.com"></a>
+      </div>
+      <div class="proCent">
         <a href="/content/projectFolder/music_encrypt_keyboard"><img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" alt="Music Encryption Keyboards"></a>
+      </div>
+      <div class="proRight">
         <a href="/content/projectFolder/powerball_statistics"><img src="/content/images/PowerballStatisticsImg/PBStatsMainFunct.JPG" alt="Powerball Statistics"></a>
-
+      </div>
+      <div class="proLeft">
         <a href="/content/projectFolder/JSMaxPriorityQueue"><img src="/content/images/JSMQueueImg/JSMQueueReadME.JPG" alt="JavaScript Max Priority Queue"></a>
+      </div>
+      <div class="proCent">
         <a href="/content/projectFolder/Auto_Chess_Story"><img src="/content/images/AutoChessImg/AutoChessStory3.JPG" alt="Automated Chess Story"></a>
+      </div>
+      <div class="proRight">
         <a href="/content/projectFolder/3d_rat_maze"><img src="/content/images/3dRatMazeImg/3dRatMazeViewTopPerspective.JPG" alt="3D Rat Maze"></a>
-      
+      </div>
     <a href="content/projects">Click to view all...</a>
   </div>
 
