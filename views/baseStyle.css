@@ -262,6 +262,7 @@ hr {
   width: 100%;
   opacity: 0;
   transition: .5s ease;
+  background-color: #ffffff;
 }
 
 .proLeft:hover .hiddenTitle, .proCent:hover .hiddenTitle, .proRight:hover .hiddenTitle {
