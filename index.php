@@ -81,10 +81,13 @@
   <hr />
 
   <div class="projectsBanner">
-    <p>Here are my projects</p>
+    <h3>My Projects</h3>
     <div class="proRow">
       <div class="proLeft">
         <a href="/content/projectFolder/birdandb"><img src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG" alt="BirdandB.com"></a>
+        <div class="hiddenTitle">
+          <div class="imgTitle">BirdAndB.com</div>
+        </div>
       </div>
       <div class="proCent">
         <a href="/content/projectFolder/music_encrypt_keyboard"><img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" alt="Music Encryption Keyboards"></a>
