@@ -128,7 +128,7 @@
         </a>
       </div>
     </div>
-    <a href="content/projects">Click to view all...</a>
+    <a href="content/projects"><strong>View More<strong></a>
   </div>
 
 
