@@ -224,7 +224,7 @@ hr {
 .projectsBanner img{
   max-width: 225px;
   padding: 10px;
-  transform: translate(0%,5%);
+  transform: translate(0%,18%);
 }
 
 .proRow {
@@ -239,6 +239,7 @@ hr {
   position: relative;
   border-width: 0.02in;
   border-color: #414042;
+  min-height: 200px;
 }
 
 .proCent {
@@ -248,6 +249,7 @@ hr {
   position: relative;
   border-width: 0.02in;
   border-color: #414042;
+  min-height: 200px;
 }
 
 .proRight {
@@ -257,6 +259,7 @@ hr {
   position: relative;
   border-width: 0.02in;
   border-color: #414042;
+  min-height: 200px;
 }
 
 .hiddenTitle {
