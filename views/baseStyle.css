@@ -233,21 +233,21 @@ hr {
 
 .proLeft {
   width: 28%;
-  margin: 20px;
+  margin: 22px;
   border: solid;
   position: relative;
 }
 
 .proCent {
   width: 28%;
-  margin: 20px;
+  margin: 22px;
   border: solid;
   position: relative;
 }
 
 .proRight {
   width: 28%;
-  margin: 20px;
+  margin: 22px;
   border: solid;
   position: relative;
 }
@@ -260,7 +260,7 @@ hr {
   right: 0;
   height: 100%;
   width: 100%;
-  opacity: .2;
+  opacity: 0;
   transition: .5s ease;
   background-color: #ffffff;
 }
