@@ -537,9 +537,10 @@ hr {
   .educationBanner {
     width: 100%;
     display: block;
+    text-align: center;
   }
-  .educationLeft img, .educationMiddle img, .educationRight img {
-    margin-top: 25px;
+  .educationLeft, .educationMiddle, .educationRight {
+    margin-top: 35px;
   }
   .projectsBanner {
     width: 100%;
