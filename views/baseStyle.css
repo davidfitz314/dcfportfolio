@@ -343,11 +343,12 @@ footer a:hover {
   clear: both;
 }
 
-/* Float the columns, change width if more then four comlumns */
+/* align the columns, change width if more then four comlumns */
 .tcolumn {
-  float: left;
+  display: inline-block;
   width: 12%;
   min-width: 100px;
+  background-color: #414042;
 }
 
 /* The Slideshow Background */
