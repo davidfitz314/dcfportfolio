@@ -525,6 +525,9 @@ hr {
   .centeredWrapper {
     width: 100%;
   }
+  .AboutMeWrapperGoLeft {
+    display: inline;
+  }
   .goCenter a {
     padding: 15px 20px 15px 20px;
   }
