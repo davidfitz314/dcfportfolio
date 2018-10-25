@@ -60,14 +60,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-hr {
-  height: 0.02in;
-  border: 0 none;
-  color: #414042;
-  background-color: #414042;
-  width: 960px;
-}
-
 /*added margins to allow more whitespace and cleaner look overall*/
 .centeredWrapper {
   padding: 0;
@@ -483,4 +475,12 @@ img.hover-shadow {
 .goBlue a:hover {
   color: #1c75bc;
   font-weight: bold;
+}
+
+hr {
+  height: 0.02in;
+  border: 0 none;
+  color: #414042;
+  background-color: #414042;
+  width: 960px;
 }
