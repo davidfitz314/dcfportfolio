@@ -1,6 +1,6 @@
 <?php include 'defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
-<img src="content/images/experience-icon.png" alt="Experience">
+<img src="/content/images/experience-icon.png" alt="Experience">
 <h3>Experience</h3>
 <p><strong>DSU Disability Resource Center</strong>
   <br />
@@ -26,7 +26,7 @@
 </p>
 
 <br />
-<img src="content/images/volunteer-icon.png" alt="Volunteer">
+<img src="/content/images/volunteer-icon.png" alt="Volunteer">
 <a id ="volunteering">
 <h3>Volunteering</h3>
 </a>
