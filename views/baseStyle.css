@@ -174,7 +174,7 @@ body {
 }
 
 .projectsBanner img{
-  max-width: 225px;
+  max-width: 95%;
   padding: 10px;
   transform: translate(0%,18%);
 }
@@ -520,9 +520,6 @@ hr {
   }
   .projectsBanner {
     width: 100%;
-  }
-  .projectsBanner img {
-    max-width: 95%;
   }
   .threeSections {
     width: 100%;
