@@ -1,5 +1,6 @@
 <?php include 'defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
+<img src="content/images/education-icon.png" alt="Education">
 <h3>Education</h3>
 <img src="images/dsu-logo.jpg" alt="Dixie State University">
 <h4>Dixie State University</h4>
