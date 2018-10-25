@@ -169,7 +169,7 @@ hr {
   opacity: 0.7;
   clear: both;
   margin: 0 auto;
-  padding: 0;
+  padding: 20px 0px 20px 0px;
   color: black;
   display: inline-flex;
   text-align: center;
