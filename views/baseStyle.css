@@ -88,7 +88,7 @@ body {
 .aboutBanner {
   /*background-color: #ffffe0;*/
   padding: 0;
-  margin: 0 auto;
+  margin: 45px auto 45px auto;
   overflow: auto;
   width: 960px;
   clear: both;
@@ -162,7 +162,7 @@ body {
 .projectsBanner {
 /*  background-color: #E6E6FA;*/
   width: 960px;
-  margin: 0px 0px 45px 0px;
+  margin: 45px 0px 45px 0px;
   padding: 0;
   overflow: auto;
   color: #414042;
