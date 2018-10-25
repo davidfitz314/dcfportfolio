@@ -537,7 +537,7 @@ hr {
   }
   .educationBanner {
     width: 100%;
-    display: block;
+    display: flex;
     text-align: center;
   }
   .educationLeft, .educationMiddle, .educationRight {
