@@ -271,7 +271,8 @@ footer ul{
   display: inline-block;
   text-align: center;
   overflow: auto;
-  width: 960px;;
+  width: 960px;
+  margin: 45px 0px 45px 0px;
 }
 
 .leftFooter {
