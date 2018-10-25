@@ -483,3 +483,24 @@ hr {
   background-color: #414042;
   width: 960px;
 }
+
+@media only screen and (max-width: 960px) {
+  .headerMenu {
+    width: 100%;
+  }
+  .centeredWrapper {
+    width: 100%;
+  }
+  .aboutBanner {
+    width: 100%;
+  }
+  .educationBanner {
+    width: 100%;
+  }
+  .projectsBanner {
+    width: 100%;
+  }
+  .threeSections {
+    width: 100%;
+  }
+}
