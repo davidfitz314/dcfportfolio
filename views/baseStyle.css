@@ -484,3 +484,9 @@ img.hover-shadow {
   color: #1c75bc;
   font-weight: bold;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    max-width: 600px;
+  }
+}
