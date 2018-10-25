@@ -176,10 +176,7 @@ hr {
   width: 960px;
 }
 
-.educationBanner img {
-  width: 150px;
-  height: auto;
-}
+
 
 .educationBanner a {
   text-decoration: none;
@@ -190,7 +187,7 @@ hr {
   opacity: 1;
   width: 30%;
   text-align: center;
-  margin: 0px 10px 0px 10px;
+  margin-right: 20px;
 }
 
 .educationMiddle {
@@ -203,6 +200,11 @@ hr {
   opacity: 1;
   width: 30%;
   text-align: center;
+  margin-left: 20px;
+}
+
+.educationLeft img, .educationMiddle img, .educationMiddle img {
+  width: 150px;
 }
 
 /*projects section banner*/
