@@ -221,6 +221,15 @@ hr {
   color: #414042;
 }
 
+.goBlue {
+  text-decoration: none;
+  color: $414042;
+}
+
+.goBlue a:hover {
+  color: #1c75bc;
+}
+
 .projectsBanner img{
   max-width: 225px;
   padding: 10px;

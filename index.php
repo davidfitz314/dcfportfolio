@@ -131,7 +131,7 @@
         </a>
       </div>
     </div>
-    <a href="content/projects"><strong>View More<strong></a>
+    <a href="content/projects" class="goBlue"><strong>View More<strong></a>
   </div>
 
 
