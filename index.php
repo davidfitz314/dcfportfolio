@@ -51,13 +51,6 @@
           <br />
           St. George, UT.
           <br />
-          Visual Software Translator.
-          <br />
-          Translated visual software, written words, images, and code into a format that a vision impaired student could access for his Artificial Intelligence class.
-          </p>
-          <p><strong>Freelance</strong>
-          <br />St. George, UT.
-          <br />
           2 Years networking, router and wiring installation, testing/debugging networks through the residential side of demarcation.
         </p>
         <p>read more...</p>
