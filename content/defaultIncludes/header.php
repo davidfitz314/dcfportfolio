@@ -19,25 +19,11 @@
       </div>
       <div class="goCenter">
 
-
-
         <a href="/content/aboutMe">About</a>
         <a href="/content/education">Education</a>
         <a href="/content/experience">Experience</a>
         <a href="/content/projects">Projects</a>
 
-      </div>
-      <div class="goRight">
-        <!--creating a dropdown menu-->
-        <div class="dropdown">
-          <button class="dropbtn"><img src="/content/images/menuButton.png" alt="menu-button" width="43px" height="auto"></button>
-          <div class="dropdown-content">
-            <a href="/content/aboutMe">About</a>
-            <a href="/content/education">Education</a>
-            <a href="/content/experience">Experience</a>
-            <a href="/content/projects">Projects</a>
-          </div>
-        </div>
       </div>
     </header>
   </div>
