@@ -31,6 +31,7 @@
     <h3>My Work</h3>
     <div class="educationLeft">
       <a href="/content/education">
+        <img src="/contents/images/education-icon.png" alt="Education">
         <h4>Education</h4>
         <p>2017
           <br />
@@ -45,6 +46,7 @@
     </div>
     <div class="educationMiddle">
       <a href="/content/experience">
+        <img src="/contents/images/experience-icon.png" alt="Experience">
         <h4>Experience</h4>
         <p><strong>DSU Disability Resource Center,</strong>
           <br />
@@ -64,6 +66,7 @@
     </div>
     <div class="educationRight">
       <a href="/content/experience#volunteering">
+        <img src="/contents/images/volunteer-icon.png" alt="Volunteer">
         <h4>Volunteering</h4>
           <p>2016 <br />
           <strong>DSU 4H Club</strong>
