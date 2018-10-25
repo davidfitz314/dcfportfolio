@@ -549,7 +549,7 @@ hr {
     text-align: center;
   }
   .proRow {
-    display: grid;
+    display: flex;
     text-align: center;
   }
   .proLeft, .proRight, .proCent {
