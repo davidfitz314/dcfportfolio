@@ -175,6 +175,11 @@ hr {
   text-align: center;
 }
 
+.educationBanner img {
+  width: 150px;
+  height: auto;
+}
+
 .educationBanner a {
   text-decoration: none;
   color: black;
