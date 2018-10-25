@@ -272,7 +272,7 @@ footer ul{
   text-align: center;
   overflow: auto;
   width: 960px;
-  margin: 45px 0px 45px 0px;
+  margin: 45px 0px 0px 0px;
 }
 
 .leftFooter {
@@ -307,6 +307,7 @@ footer ul{
 
 .footerBottom {
   display: inline-block;
+  margin-bottom: 45px;
 }
 
 .connectIcons img{
