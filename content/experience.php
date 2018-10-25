@@ -38,11 +38,5 @@
   <br />
   Taught introductory programming courses to children aged 10 - 15 years
 </p>
-<h3>Skills Section?</h3>
-<p>skill 1</p>
-<p>skill 2</p>
-<p>skill 3</p>
-<p>skill 4</p>
-<p>skill 5</p>
 </div>
 <?php include 'defaultIncludes/footer.php'; ?>
