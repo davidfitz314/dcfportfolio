@@ -214,6 +214,10 @@ body {
   min-height: 200px;
 }
 
+.projectsBanner a:hover {
+  border-color: #1c75bc;
+}
+
 .hiddenTitle {
   position: absolute;
   top: 0;
