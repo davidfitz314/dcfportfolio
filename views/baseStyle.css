@@ -484,7 +484,7 @@ hr {
   width: 960px;
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 960px) and (min-width: 720px){
   .headerMenu {
     width: 100%;
   }
@@ -499,6 +499,30 @@ hr {
   }
   .projectsBanner {
     width: 100%;
+  }
+  .threeSections {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 720px) and (min-width: 600px) {
+  .headerMenu {
+    width: 100%;
+  }
+  .centeredWrapper {
+    width: 100%;
+  }
+  .aboutBanner {
+    width: 100%;
+  }
+  .educationBanner {
+    width: 100%;
+  }
+  .projectsBanner {
+    width: 100%;
+  }
+  .projectsBanner img {
+    max-width: 95%;
   }
   .threeSections {
     width: 100%;
