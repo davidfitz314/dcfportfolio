@@ -47,7 +47,6 @@
       <a href="/content/experience">
         <img src="/content/images/experience-icon.png" alt="Experience">
         <h4>Experience</h4>
-        <p><strong>DSU Disability Resource Center,</strong>
           <br />
           St. George, UT.
           <br />
