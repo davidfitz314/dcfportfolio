@@ -78,10 +78,8 @@ body {
   opacity: 1;
 }
 
-.bannerLinks a:hover, img {
-  color: rgba(0,0,0,0.5);
-  opacity: 0.9;
-  filter: alpha(opacity=90);
+.bannerLinks a:hover {
+  color: #1c75bc;
 }
 
 /*about section banner*/
@@ -130,6 +128,10 @@ body {
 .educationBanner a {
   text-decoration: none;
   color: #414042;
+}
+
+.educationBanner a:hover {
+  color: #1c75bc;
 }
 
 .educationLeft {
