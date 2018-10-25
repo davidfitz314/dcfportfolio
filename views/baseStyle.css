@@ -564,5 +564,6 @@ hr {
   }
   .threeSections {
     width: 100%;
+    font-size: x-small;
   }
 }
