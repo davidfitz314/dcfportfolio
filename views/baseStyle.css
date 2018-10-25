@@ -558,6 +558,7 @@ hr {
   .proRow {
     display: flex;
     text-align: center;
+    font-size: x-small;
   }
   .proLeft, .proRight, .proCent {
     min-height: 40px;
