@@ -551,6 +551,9 @@ hr {
     display: block;
     text-align: center;
   }
+  .proLeft, .proRow, .proCent {
+    min-height: 40px;
+  }
   .threeSections {
     width: 100%;
   }
