@@ -28,7 +28,6 @@
 -->
 
   <div class="educationBanner">
-    <h3>My Work</h3>
     <div class="educationLeft">
       <a href="/content/education">
         <img src="/content/images/education-icon.png" alt="Education">
