@@ -176,8 +176,6 @@ hr {
   width: 960px;
 }
 
-
-
 .educationBanner a {
   text-decoration: none;
   color: black;
@@ -203,7 +201,7 @@ hr {
   margin-left: 20px;
 }
 
-.educationLeft img, .educationMiddle img, .educationMiddle img {
+.educationLeft img, .educationMiddle img, .educationRight img {
   width: 150px;
 }
 
