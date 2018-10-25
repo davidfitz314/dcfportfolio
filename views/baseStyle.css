@@ -118,7 +118,6 @@ body {
 
 /*education section banner*/
 .educationBanner {
-  opacity: 0.7;
   clear: both;
   margin: 45px 0px 45px 0px;
   padding: 20px 0px 20px 0px;
@@ -134,20 +133,17 @@ body {
 }
 
 .educationLeft {
-  opacity: 1;
   width: 30%;
   text-align: center;
   margin-right: 7%;
 }
 
 .educationMiddle {
-  opacity: 1;
   width: 30%;
   text-align: center;
 }
 
 .educationRight {
-  opacity: 1;
   width: 30%;
   text-align: center;
   margin-left: 7%;
