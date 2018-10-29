@@ -22,7 +22,7 @@
   </div>
 
   <!-- line seperating next section, use until designed segment-->
-  <hr />
+<!--  <hr /> -->
 
 <!-- page and section navigation example
 <a href="/content/aboutMe#extrasTest">Test1GoTo</a>
@@ -75,7 +75,7 @@
   </div>
 
   <!-- line seperating next section, use until designed segment-->
-  <hr />
+<!--  <hr /> -->
 
   <div class="projectsBanner">
     <h3>My Projects</h3>
