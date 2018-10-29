@@ -4,6 +4,7 @@
   padding: 0px;
   width: 960px;
   overflow: auto;
+  clear: both;
 }
 
 /*nav menu button special alignments*/
