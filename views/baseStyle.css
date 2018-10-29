@@ -558,6 +558,9 @@ hr {
   .navMenu {
     width: 100%;
   }
+  .menuMaxWidth {
+    width: 100%;
+  }
 
   hr {
     width: 100%;
