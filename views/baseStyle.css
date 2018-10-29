@@ -169,7 +169,7 @@ body {
   background-image: linear-gradient(to bottom, #414042, #414042), linear-gradient(to top, #1c75bc, #1c75bc);
   background-repeat: no-repeat;
   background-position: 0 0, 0 0;
-  background-size: 100% 37.5%, 100% 100%;
+  background-size: 100% 20%, 100% 100%;
 }
 
 .educationMiddle {
