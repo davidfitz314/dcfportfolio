@@ -32,14 +32,15 @@
     <div class="educationBanner">
       <div class="educationLeft">
         <img src="/content/images/education-icon.png" alt="Education">
-        <h4>Education</h4>
-        <p>2017
+        <h3>Education</h3>
+        <p><strong>Dixie State University
           <br />
-          Dixie State University
+          2017
           <br />
           225 S. 700 E. St. George, UT. 84790
           <br />
           BS Computer Information Technology -Emphasis Computer Science
+        </strong>
         </p>
       <strong>
         <a href="/content/education">View More</a>
@@ -47,11 +48,13 @@
       </div>
       <div class="educationMiddle">
         <img src="/content/images/experience-icon.png" alt="Experience">
-        <h4>Experience</h4>
+        <h3>Experience</h3>
+        <p><strong>
           <br />
           St. George, UT.
           <br />
           2 Years networking, router and wiring installation, testing/debugging networks through the residential side of demarcation.
+        </strong>
         </p>
         <strong>
           <a href="/content/experience">View More</a>
@@ -59,13 +62,16 @@
       </div>
       <div class="educationRight">
         <img src="/content/images/volunteer-icon.png" alt="Volunteer">
-        <h4>Volunteering</h4>
-          <p>2016 <br />
-          <strong>DSU 4H Club</strong>
+        <h3>Volunteering</h3>
+          <p><strong>
+          DSU 4H Club
+          <br />
+          2016
           <br />
           St. George, UT.
           <br />
           Taught introductory programming courses to children aged 10 - 15 years old.
+        </strong>
         </p>
         <strong>
           <a href="/content/experience#volunteering">View More</a>
