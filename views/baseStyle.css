@@ -551,6 +551,10 @@ hr {
     width: 100%;
     padding: 0px 20px 0px 20px;
   }
+  .navMenu {
+    width: 100%;
+  }
+
   hr {
     width: 100%;
   }
@@ -580,6 +584,9 @@ hr {
     width: 100%;
     padding: 0px 20px 0px 20px;
     font-size: smaller;
+  }
+  .navMenu {
+    width: 100%;
   }
   hr {
     width: 100%;
