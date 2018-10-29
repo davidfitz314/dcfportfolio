@@ -50,7 +50,6 @@
         <img src="/content/images/experience-icon.png" alt="Experience">
         <h3>Experience</h3>
         <p><strong>
-          <br />
           St. George, UT.
           <br />
           2 Years networking, router and wiring installation, testing/debugging networks through the residential side of demarcation.
