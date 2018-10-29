@@ -168,6 +168,10 @@ body {
   color: #1c75bc;
 }
 
+.educationBanner h2 {
+  padding-bottom: -10px;
+}
+
 .educationLeft {
   width: 30%;
   text-align: center;
