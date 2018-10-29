@@ -28,48 +28,49 @@
 <a href="/content/aboutMe#extrasTest">Test1GoTo</a>
 <a id="extrasTest">Test1ArriveAt</a>
 -->
-
-  <div class="educationBanner">
-    <div class="educationLeft">
-      <img src="/content/images/education-icon.png" alt="Education">
-      <h4>Education</h4>
-      <p>2017
-        <br />
-        Dixie State University
-        <br />
-        225 S. 700 E. St. George, UT. 84790
-        <br />
-        BS Computer Information Technology -Emphasis Computer Science
-      </p>
-    <strong>
-      <a href="/content/education">View More</a>
-    </strong>
-    </div>
-    <div class="educationMiddle">
-      <img src="/content/images/experience-icon.png" alt="Experience">
-      <h4>Experience</h4>
-        <br />
-        St. George, UT.
-        <br />
-        2 Years networking, router and wiring installation, testing/debugging networks through the residential side of demarcation.
-      </p>
+  <div class="educationBannerBG">
+    <div class="educationBanner">
+      <div class="educationLeft">
+        <img src="/content/images/education-icon.png" alt="Education">
+        <h4>Education</h4>
+        <p>2017
+          <br />
+          Dixie State University
+          <br />
+          225 S. 700 E. St. George, UT. 84790
+          <br />
+          BS Computer Information Technology -Emphasis Computer Science
+        </p>
       <strong>
-        <a href="/content/experience">View More</a>
+        <a href="/content/education">View More</a>
       </strong>
-    </div>
-    <div class="educationRight">
-      <img src="/content/images/volunteer-icon.png" alt="Volunteer">
-      <h4>Volunteering</h4>
-        <p>2016 <br />
-        <strong>DSU 4H Club</strong>
-        <br />
-        St. George, UT.
-        <br />
-        Taught introductory programming courses to children aged 10 - 15 years old.
-      </p>
-      <strong>
-        <a href="/content/experience#volunteering">View More</a>
-      </strong>
+      </div>
+      <div class="educationMiddle">
+        <img src="/content/images/experience-icon.png" alt="Experience">
+        <h4>Experience</h4>
+          <br />
+          St. George, UT.
+          <br />
+          2 Years networking, router and wiring installation, testing/debugging networks through the residential side of demarcation.
+        </p>
+        <strong>
+          <a href="/content/experience">View More</a>
+        </strong>
+      </div>
+      <div class="educationRight">
+        <img src="/content/images/volunteer-icon.png" alt="Volunteer">
+        <h4>Volunteering</h4>
+          <p>2016 <br />
+          <strong>DSU 4H Club</strong>
+          <br />
+          St. George, UT.
+          <br />
+          Taught introductory programming courses to children aged 10 - 15 years old.
+        </p>
+        <strong>
+          <a href="/content/experience#volunteering">View More</a>
+        </strong>
+      </div>
     </div>
   </div>
 

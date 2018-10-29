@@ -115,6 +115,13 @@ body {
 }
 
 /*education section banner*/
+.educationBannerBG {
+  background-color: #414042;
+  margin: 0 auto;
+  overflow: auto;
+  padding: 0;
+}
+
 .educationBanner {
   clear: both;
   margin: 45px 0px 45px 0px;
