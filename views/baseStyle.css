@@ -169,7 +169,8 @@ body {
   width: 30%;
   text-align: center;
   margin-right: 7%;
-  background-color: #1c75bc;
+  background-color: #414042, #1c75bc;
+  background-position: top 0px left 0px, top 25% right 100%, bottom 75% left 0px, bottom 100% right 100%;
 }
 
 .educationMiddle {
