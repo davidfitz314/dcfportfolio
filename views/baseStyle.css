@@ -38,7 +38,6 @@
   text-decoration: none;
   color: #ffffff;
   padding: 15px 43px 15px 43px;
-  background-color: #414042;
   margin-left: -10px;
 }
 
@@ -47,7 +46,7 @@
 }
 
 .goCenter img {
-  max-width: 150px;
+  max-width: 100px;
 }
 
 .navMenu {
