@@ -42,11 +42,11 @@
 }
 
 .goCenter a:hover {
-  background-color: #1c75bc;
+
 }
 
 .goCenter img {
-  max-width: 100px;
+  max-width: 75px;
 }
 
 .navMenu {
@@ -54,6 +54,7 @@
   padding: 4px;
   position: static;
   text-align: right;
+  clear:both;
 }
 
 .navMenu a{
