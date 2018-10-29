@@ -38,10 +38,6 @@
   color: #ffffff;
 }
 
-.goCenter a:hover {
-
-}
-
 .goCenter img {
   max-width: 75px;
 }
@@ -166,7 +162,7 @@ body {
   width: 30%;
   text-align: center;
   margin-right: 7%;
-  background-image: linear-gradient(to bottom, #414042, #414042), linear-gradient(to top, #1c75bc, #1c75bc);
+  background-image: linear-gradient(to bottom, #63A3D3, #63A3D3), linear-gradient(to top, #1c75bc, #1c75bc);
   background-repeat: no-repeat;
   background-position: 0 0, 0 0;
   background-size: 100% 20%, 100% 100%;
@@ -175,14 +171,20 @@ body {
 .educationMiddle {
   width: 30%;
   text-align: center;
-  background-color: #1c75bc;
+  background-image: linear-gradient(to bottom, #63A3D3, #63A3D3), linear-gradient(to top, #1c75bc, #1c75bc);
+  background-repeat: no-repeat;
+  background-position: 0 0, 0 0;
+  background-size: 100% 20%, 100% 100%;
 }
 
 .educationRight {
   width: 30%;
   text-align: center;
   margin-left: 7%;
-  background-color: #1c75bc;
+  background-image: linear-gradient(to bottom, #63A3D3, #63A3D3), linear-gradient(to top, #1c75bc, #1c75bc);
+  background-repeat: no-repeat;
+  background-position: 0 0, 0 0;
+  background-size: 100% 20%, 100% 100%;
 }
 
 .educationLeft img, .educationMiddle img, .educationRight img {
