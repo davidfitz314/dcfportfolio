@@ -553,7 +553,7 @@ hr {
   }
   .goCenter img {
     max-width: 50px;
-    margin: 5px;
+    margin: -5px;
   }
   .navMenu {
     width: 100%;
