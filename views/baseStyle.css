@@ -46,6 +46,28 @@
   background-color: #1c75bc;
 }
 
+.goCenter img {
+  max-width: 150px;
+}
+
+.navMenu {
+  color: #ffffff;
+  padding: 4px;
+  position: static;
+}
+
+.navMenu a{
+  text-decoration: none;
+  color: #ffffff;
+  padding: 15px 43px 15px 43px;
+  background-color: #414042;
+  margin-left: -10px;
+}
+
+.navMenu a:hover {
+  background-color: #1c75bc;
+}
+
 
 /*h2 {
   color: Navy;

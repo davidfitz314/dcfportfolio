@@ -18,12 +18,15 @@
         <a href="/index"><img src="/content/images/david_logo.png" alt="David CF Logo"></a>
       </div>
       <div class="goCenter">
-
+        <a href="https://www.facebook.com/david.fitzgerald.528" target="_blank"><img src="/content/images/facebook_edit.png" alt="Facebook link"></a>
+        <a href="https://www.linkedin.com/in/david-chenfitzgerald/" target="_blank"><img src="/content/images/linkedin_edit.png" alt="Linkedin link"></a>
+        <a href="https://github.com/davidfitz314" target="_blank"><img src="/content/images/github-logo_edit.png" alt="Github link"></a>
+      </div>
+      <div class="navMenu">
         <a href="/content/aboutMe">About</a>
         <a href="/content/education">Education</a>
         <a href="/content/experience">Experience</a>
         <a href="/content/projects">Projects</a>
-
       </div>
     </header>
   </div>
