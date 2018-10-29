@@ -179,6 +179,7 @@ body {
   margin-right: 7%;
   padding-left: 15px;
   padding-right: 15px;
+  padding-bottom: 20px;
   background-image: linear-gradient(to bottom, #414042, #414042), linear-gradient(to top, #63A3D3, #63A3D3);
   background-repeat: no-repeat;
   background-position: 0 0, 0 0;
@@ -190,6 +191,7 @@ body {
   text-align: center;
   padding-left: 15px;
   padding-right: 15px;
+  padding-bottom: 20px;
   background-image: linear-gradient(to bottom, #414042, #414042), linear-gradient(to top, #63A3D3, #63A3D3);
   background-repeat: no-repeat;
   background-position: 0 0, 0 0;
@@ -202,6 +204,7 @@ body {
   margin-left: 7%;
   padding-left: 15px;
   padding-right: 15px;
+  padding-bottom: 20px;
   background-image: linear-gradient(to bottom, #414042, #414042), linear-gradient(to top, #63A3D3, #63A3D3);
   background-repeat: no-repeat;
   background-position: 0 0, 0 0;
