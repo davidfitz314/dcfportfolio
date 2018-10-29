@@ -40,7 +40,8 @@
 }
 
 .goCenter img {
-  max-width: 75px;
+  max-width: 50px;
+  margin: 15px;
 }
 
 .navMenu {
