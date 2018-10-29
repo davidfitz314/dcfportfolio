@@ -54,6 +54,7 @@
   color: #ffffff;
   padding: 4px;
   position: static;
+  text-align: right;
 }
 
 .navMenu a{
