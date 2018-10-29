@@ -23,9 +23,11 @@
       </div>
     </div>
     <div class="navMenu">
-      <a href="/content/aboutMe">About</a>
-      <a href="/content/education">Education</a>
-      <a href="/content/experience">Experience</a>
-      <a href="/content/projects">Projects</a>
+      <div class="menuMaxWidth">
+        <a href="/content/aboutMe">About</a>
+        <a href="/content/education">Education</a>
+        <a href="/content/experience">Experience</a>
+        <a href="/content/projects">Projects</a>
+      </div>
     </div>
   </header>

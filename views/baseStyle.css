@@ -32,6 +32,7 @@
   color: #ffffff;
   padding: 4px;
   position: static;
+  margin-top: 55px;
 }
 
 .goCenter a {
@@ -46,7 +47,7 @@
 
 .navMenu {
   color: #ffffff;
-  padding: 4px;
+  padding: 10px;
   position: static;
   text-align: right;
   clear:both;
@@ -64,6 +65,12 @@
 
 .navMenu a:hover {
   background-color: #1c75bc;
+}
+
+.menuMaxWidth {
+  width: 960px;
+  margin: 0 auto;
+  overflow: auto;
 }
 
 
