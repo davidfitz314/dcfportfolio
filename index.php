@@ -32,7 +32,7 @@
     <div class="educationBanner">
       <div class="educationLeft">
         <img src="/content/images/education-icon.png" alt="Education">
-        <h3>Education</h3>
+        <h2>Education</h2>
         <p><strong>Dixie State University
           <br />
           2017
@@ -48,7 +48,7 @@
       </div>
       <div class="educationMiddle">
         <img src="/content/images/experience-icon.png" alt="Experience">
-        <h3>Experience</h3>
+        <h2>Experience</h2>
         <p><strong>
           St. George, UT.
           <br />
@@ -61,7 +61,7 @@
       </div>
       <div class="educationRight">
         <img src="/content/images/volunteer-icon.png" alt="Volunteer">
-        <h3>Volunteering</h3>
+        <h2>Volunteering</h2>
           <p><strong>
           DSU 4H Club
           <br />
