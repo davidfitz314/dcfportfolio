@@ -31,14 +31,11 @@
   color: #ffffff;
   padding: 4px;
   position: static;
-  margin-top: 75px;
 }
 
 .goCenter a {
   text-decoration: none;
   color: #ffffff;
-  padding: 15px 43px 15px 43px;
-  margin-left: -10px;
 }
 
 .goCenter a:hover {
