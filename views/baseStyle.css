@@ -551,6 +551,10 @@ hr {
     width: 100%;
     padding: 0px 20px 0px 20px;
   }
+  .goCenter img {
+    max-width: 50px;
+    margin: 5px;
+  }
   .navMenu {
     width: 100%;
   }
@@ -576,63 +580,5 @@ hr {
   }
   .threeSections {
     width: 100%;
-  }
-}
-
-@media only screen and (max-width: 600px){
-  .headerMenu {
-    width: 100%;
-    padding: 0px 20px 0px 20px;
-    font-size: smaller;
-  }
-  .navMenu {
-    width: 100%;
-  }
-  hr {
-    width: 100%;
-  }
-  .centeredWrapper {
-    width: 100%;
-    font-size: smaller;
-  }
-  .AboutMeWrapperGoLeft {
-    display: inline;
-  }
-  .goCenter a {
-    padding: 15px 20px 15px 20px;
-  }
-  .aboutBanner {
-    width: 100%;
-    padding: 0px 20px 0px 20px;
-    font-size: smaller;
-  }
-  .AboutMeWrapperGoRight img {
-    border-radius: 50px;
-  }
-  .educationBanner {
-    width: 100%;
-    display: flex;
-    text-align: center;
-    font-size: smaller;
-  }
-  .educationLeft, .educationMiddle, .educationRight {
-    margin-top: 35px;
-  }
-  .projectsBanner {
-    width: 100%;
-    display: block;
-    text-align: center;
-  }
-  .proRow {
-    display: flex;
-    text-align: center;
-    font-size: x-small;
-  }
-  .proLeft, .proRight, .proCent {
-    min-height: 40px;
-  }
-  .threeSections {
-    width: 100%;
-    font-size: x-small;
   }
 }
