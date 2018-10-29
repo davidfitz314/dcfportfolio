@@ -33,6 +33,7 @@
   padding: 4px;
   position: static;
   margin-top: 55px;
+  margin-right: 25px;
 }
 
 .goCenter a {
@@ -42,7 +43,7 @@
 
 .goCenter img {
   max-width: 50px;
-  margin: 15px;
+  margin: 11px;
 }
 
 .navMenu {
