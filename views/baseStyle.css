@@ -123,6 +123,7 @@ body {
   display: inline-flex;
   text-align: center;
   width: 960px;
+  background-color: #414042;
 }
 
 .educationBanner a {
@@ -138,17 +139,20 @@ body {
   width: 30%;
   text-align: center;
   margin-right: 7%;
+  background-color: #1c75bc;
 }
 
 .educationMiddle {
   width: 30%;
   text-align: center;
+  background-color: #1c75bc;
 }
 
 .educationRight {
   width: 30%;
   text-align: center;
   margin-left: 7%;
+  background-color: #1c75bc;
 }
 
 .educationLeft img, .educationMiddle img, .educationRight img {
