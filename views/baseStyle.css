@@ -637,6 +637,7 @@ hr {
   margin: 0 auto;
   display: flex;
   text-align: left;
+  margin-bottom: 10px;
 }
 
 .expLeft {
