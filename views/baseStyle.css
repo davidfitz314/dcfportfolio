@@ -575,6 +575,7 @@ hr {
 }
 
 .aboutMainpt2 a{
+  font-style: italic;
   text-decoration: none;
   color: #414042;
 }
