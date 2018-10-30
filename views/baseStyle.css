@@ -548,7 +548,7 @@ hr {
 
 /*About Page section*/
 .aboutHeader {
-  margin-top: 100px;
+  margin-top: 75px;
   text-align: left;
   text-transform: uppercase;
 }
@@ -571,6 +571,7 @@ hr {
   margin: 0 auto;
   text-align: left;
   margin-top: 45px;
+  margin-bottom: 45px;
 }
 
 .aboutLeft {
@@ -584,9 +585,9 @@ hr {
 
 .aboutRight {
   padding: 15px;
-  width: 55%;
+  width: 50%;
   text-align: left;
-  margin-left: 20px;
+  margin-left: 30px;
 }
 
 /*760px next smallest media query*/
