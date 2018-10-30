@@ -603,6 +603,21 @@ hr {
   margin-left: 6%;
 }
 
+/*Education Page section*/
+.projHead {
+  margin-top: 45px;
+  text-align: left;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.proMain {
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+  text-align: left;
+}
+
 /*760px next smallest media query*/
 @media only screen and (max-width: 960px) and (min-width: 600px){
   .headerMenu {

@@ -1,5 +1,11 @@
 <?php include 'defaultIncludes/header.php'; ?>
-<div class="centeredWrapper">
+<div class="projMain">
+  <div class="projHead">
+    <h1>
+      EXPERIENCE
+    </h1>
+  </div>
+</div>
 <img src="/content/images/experience-icon.png" alt="Experience">
 <h3>Experience</h3>
 <p><strong>DSU Disability Resource Center</strong>
@@ -38,5 +44,4 @@
   <br />
   Taught introductory programming courses to children aged 10 - 15 years
 </p>
-</div>
 <?php include 'defaultIncludes/footer.php'; ?>
