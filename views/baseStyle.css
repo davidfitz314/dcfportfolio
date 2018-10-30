@@ -647,7 +647,7 @@ hr {
   width: 90%;
   min-width: 200px;
   margin-top: 122%;
-  margin-bottom: 35px
+  margin-bottom: 35px;
 }
 
 .expRight {
@@ -657,6 +657,23 @@ hr {
   margin-left: 8%;
 }
 
+.expRight2 {
+  width: 20%;
+}
+
+.expRight2 img {
+  width: 90%;
+  min-width: 200px;
+  margin-top: 122%;
+  margin-bottom: 35px;
+}
+
+.expLeft2 {
+  padding: 15px;
+  width: 70%;
+  text-align: left;
+  margin-left: 8%;
+}
 /*Project Folder section*/
 .projHead {
   margin-top: 45px;

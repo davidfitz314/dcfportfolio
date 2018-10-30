@@ -39,18 +39,21 @@
     </div>
   </div>
 </div>
+<div class="expMain">
+  <div class="expLeft2">
+    <h2>VOLUNTEER EXPERIENCE</h2>
+    <p><strong>DSU 4H Club</strong>
+      <br />
+      2016
+      <br />
+      225 South 700 East St. George UT, 84790 - Smith Bldg.
+      <br />
+      Taught introductory programming courses to children aged 10 - 15 years old.
+    </p>
+  </div>
+  <div class="expRight2">
+    <img src="/content/images/volunteer-icon.png" alt="Volunteer">
+  </div>
+</div>
 
-<br />
-<img src="/content/images/volunteer-icon.png" alt="Volunteer">
-<a id ="volunteering">
-<h3>Volunteering</h3>
-</a>
-<p>2016
-  <br />
-  <strong>DSU 4H Club</strong>
-  <br />
-  225 south 700 east st george utah 84790 Smith Bldg.
-  <br />
-  Taught introductory programming courses to children aged 10 - 15 years
-</p>
 <?php include 'defaultIncludes/footer.php'; ?>
