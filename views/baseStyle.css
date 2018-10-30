@@ -669,10 +669,10 @@ hr {
 }
 
 .expLeft2 {
-  padding: 15px;
+  padding: 15px 15px 15px 0px;
   width: 70%;
   text-align: left;
-  margin-left: 8%;
+  margin-right: 8%;
 }
 /*Project Folder section*/
 .projHead {
