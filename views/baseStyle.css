@@ -574,6 +574,15 @@ hr {
   margin-bottom: 65px;
 }
 
+.aboutMainpt2 a{
+  text-decoration: none;
+  color: #414042;
+}
+
+.aboutMainpt2 a:hover {
+  color: #1c75bc;
+}
+
 .aboutLeft {
   width: 40%;
 }
