@@ -546,6 +546,27 @@ hr {
   width: 960px;
 }
 
+/*About Page section*/
+.aboutBackground {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #63A3D3;
+}
+
+.aboutMain {
+  width: 960px;
+}
+
+.aboutLeft {
+  max-width: 45%;
+  padding: 20px;
+}
+
+.aboutRight {
+  padding: 20px;
+}
+
+/*760px next smallest media query*/
 @media only screen and (max-width: 960px) and (min-width: 600px){
   .headerMenu {
     width: 100%;
