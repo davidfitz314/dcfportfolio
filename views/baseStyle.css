@@ -556,6 +556,12 @@ hr {
 .aboutMain {
   width: 960px;
   margin: 0 auto;
+  display: flex;
+}
+
+.aboutMainpt2 {
+  width: 960px;
+  margin: 0 auto;
 }
 
 .aboutLeft {
