@@ -640,7 +640,7 @@ hr {
 }
 
 .expLeft {
-  width: 40%;
+  width: 20%;
 }
 
 .expLeft img {
@@ -652,7 +652,7 @@ hr {
 
 .expRight {
   padding: 15px;
-  width: 50%;
+  width: 70%;
   text-align: left;
   margin-left: 6%;
 }
