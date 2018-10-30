@@ -626,11 +626,35 @@ hr {
   margin-bottom: 10px;
 }
 
+.expBackground {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #63A3D3;
+}
+
 .expMain {
   width: 960px;
   margin: 0 auto;
   display: flex;
   text-align: left;
+}
+
+.expLeft {
+  width: 40%;
+}
+
+.expLeft img {
+  width: 90%;
+  min-width: 200px;
+  margin-top: 35px;
+  margin-bottom: 35px
+}
+
+.expRight {
+  padding: 15px;
+  width: 50%;
+  text-align: left;
+  margin-left: 6%;
 }
 
 /*Project Folder section*/
