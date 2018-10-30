@@ -1,4 +1,7 @@
 <?php include 'defaultIncludes/header.php'; ?>
+<div class="aboutHeader">
+  <h1>about</h1>
+</div>
 <div class="aboutBackground">
   <div class="aboutMain">
     <div class="aboutLeft">

@@ -547,6 +547,10 @@ hr {
 }
 
 /*About Page section*/
+.aboutHeader {
+  margin-top: 100px;
+}
+
 .aboutBackground {
   padding-top: 45px;
   padding-bottom: 45px;
