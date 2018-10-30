@@ -550,6 +550,7 @@ hr {
 .aboutHeader {
   margin-top: 100px;
   text-align: left;
+  text-transform: uppercase;
 }
 
 .aboutBackground {

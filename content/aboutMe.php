@@ -1,7 +1,7 @@
 <?php include 'defaultIncludes/header.php'; ?>
 <div class="aboutMain">
   <div class="aboutHeader">
-    <h1>about</h1>
+    <h1>About</h1>
   </div>
 </div>
 <div class="aboutBackground">
