@@ -579,8 +579,10 @@ hr {
 }
 
 .aboutLeft img {
-  width: 95%;
+  width: 90%;
   min-width: 200px;
+  margin-top: 35px;
+  margin-bottom: 35px
 }
 
 .aboutRight {
