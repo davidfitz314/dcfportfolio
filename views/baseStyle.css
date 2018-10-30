@@ -494,7 +494,7 @@ footer a:hover {
 /* am i using this at all? if so why?*/
 /* Number text (1/3 etc) */
 .numbertext {
-  color: #f2f2f2;
+  color: #ffffff;
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
@@ -555,6 +555,7 @@ hr {
 
 .aboutMain {
   width: 960px;
+  margin: 0 auto;
 }
 
 .aboutLeft {
