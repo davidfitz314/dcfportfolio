@@ -581,6 +581,7 @@ hr {
 .aboutRight {
   padding: 20px;
   width: 55%;
+  text-align: left;
 }
 
 /*760px next smallest media query*/
