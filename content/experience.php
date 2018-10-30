@@ -1,6 +1,6 @@
 <?php include 'defaultIncludes/header.php'; ?>
-<div class="projMain">
-  <div class="projHead">
+<div class="expMain">
+  <div class="expHead">
     <h1>
       EXPERIENCE
     </h1>

@@ -604,14 +604,29 @@ hr {
 }
 
 /*Education Page section*/
-.projHead {
+.eduHead {
   margin-top: 45px;
   text-align: left;
   text-transform: uppercase;
   margin-bottom: 10px;
 }
 
-.projMain {
+.eduMain {
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+  text-align: left;
+}
+
+/*Experience Page section*/
+.expHead {
+  margin-top: 45px;
+  text-align: left;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.expMain {
   width: 960px;
   margin: 0 auto;
   display: flex;

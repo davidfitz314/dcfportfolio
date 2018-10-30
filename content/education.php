@@ -1,5 +1,11 @@
 <?php include 'defaultIncludes/header.php'; ?>
-<div class="centeredWrapper">
+<div class="eduMain">
+  <div class="eduHead">
+    <h1>
+      EDUCATION
+    </h1>
+  </div>
+</div>
 <img src="/content/images/education-icon.png" alt="Education">
 <h3>Education</h3>
 <img src="images/dsu-logo.jpg" alt="Dixie State University">
@@ -12,5 +18,5 @@
 <h3>Certificates</h3>
 <p><i>insert certificate image here?</i></p>
 <p>Google App Developer Associate Certificate...<i> in progress</i>.</p>
-</div>
+
 <?php include 'defaultIncludes/footer.php'; ?>
