@@ -1,5 +1,11 @@
 <?php include 'defaultIncludes/header.php'; ?>
-<div class="centeredWrapper">
+<div class="eduMain">
+  <div class="eduHead">
+    <h1>
+      PROJECTS
+    </h1>
+  </div>
+</div>
 <p>check out test1 project</p>
 <button><a href="projectFolder/OWL-FlashCards">OWL-FlashCards</a></button>
 <button><a href="projectFolder/birdandb">BirdandB.com</a></button>
@@ -21,5 +27,4 @@
 <br />
 <p><i>insert pagination at base of each project page</i></p>
 
-</div>
 <?php include 'defaultIncludes/footer.php'; ?>
