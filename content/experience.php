@@ -39,7 +39,7 @@
     </div>
   </div>
 </div>
-<div class="expMain">
+<div class="expMain2">
   <div class="expLeft2">
     <h2>VOLUNTEER EXPERIENCE</h2>
     <p><strong>DSU 4H Club</strong>
