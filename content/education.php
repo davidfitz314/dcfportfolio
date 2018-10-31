@@ -30,7 +30,7 @@
   </div>
 </div>
 
-<div class="edumain2">
+<div class="eduMain2">
   <img src="/content/images/1030_1.jpg" alt="Dixie State University">
   <h2>BACHELORS DEGREE</h2>
   <p><strong>Dixie State University</strong>
