@@ -739,6 +739,8 @@ hr {
 
 .projRows {
   display: flex;
+  margin-top: 45px;
+  margin-bottom: 45px;
 }
 
 .projR1 {
@@ -760,7 +762,7 @@ hr {
 }
 
 .projSpacer {
-  margin: 10px;
+  margin: 5%;
 }
 
 /*760px next smallest media query*/
