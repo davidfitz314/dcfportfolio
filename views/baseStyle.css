@@ -742,12 +742,13 @@ hr {
 }
 
 .projR1 {
-  margin: 20px;
-  width: 45%;
+  margin: 30px;
+  width: 40%;
+  background-color: #DAD9DA;
 }
 
 .projR1 img {
-  width: 100%;
+  width: 90%;
 }
 
 /*760px next smallest media query*/
