@@ -750,8 +750,9 @@ hr {
 }
 
 .projR1 p{
-  padding-left: 1px;
-  padding-right: 1px;
+  padding-left: 15%;
+  padding-right: 15%;
+  line-height: 115%;
 }
 
 .projR1 img {
