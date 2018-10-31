@@ -42,12 +42,14 @@
   </div>
 
   <div class="projRows">
-    <a href="projectFolder/Auto_Chess_Story">
-      <div class="projR1">
+
+    <div class="projR1">
+      <a href="projectFolder/Auto_Chess_Story">
         <img src="/content/images/AutoChessImg/AutoChessStoryCover.jpg" alt="Automated Chess Story">
         <p><strong>Auto Chess Story</strong>. Glut 3d drawings for an automated chess storyline.</p>
-      </div>
-    </a>
+      </a>
+    </div>
+
     <div class="projSpacer">
     </div>
     <a href="projectFolder/3d_rat_maze">

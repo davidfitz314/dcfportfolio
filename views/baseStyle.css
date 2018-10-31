@@ -756,9 +756,11 @@ hr {
   background-color: #1c75bc;
 }
 
-.projMain a {
+.projR1 a {
   text-decoration: none;
   color: #414042;
+  width: inherit;
+  height: inherit;
 }
 
 .projR1 p{
