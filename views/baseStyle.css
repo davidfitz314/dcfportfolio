@@ -627,10 +627,11 @@ hr {
 }
 
 .eduMain2 img {
-  max-width: 65%;
+  max-width: 100%;
   padding: 45px;
   height: 350px;
-  width: 65%;
+  width: 90%;
+  min-width: 200px;
 }
 
 .eduBackground {
