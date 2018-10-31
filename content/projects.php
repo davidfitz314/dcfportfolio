@@ -19,6 +19,30 @@
       <p><strong>Music Encryption Keyboard</strong>. Encrypt text using musical frequencies and keyboard notes.</p>
     </div>
   </div>
+  <div class="projRows">
+    <div class="projR1">
+      <img src="/content/images/PowerballStatisticsImg/PBStatsCover.jpg" alt="Powerball Statitics">
+      <p><strong>Powerball Statistics</strong>. Powerball statistics and number popularity generator.</p>
+    </div>
+    <div class="projSpacer">
+    </div>
+    <div class="projR1">
+      <img src="/content/images/JSMQueueImg/JSMCover.jpg" alt="JavaScript Max Priority Queue">
+      <p><strong>JavaScript Max Priority Queue</strong>. Max out Priority queue using JavaScript.</p>
+    </div>
+  </div>
+  <div class="projRows">
+    <div class="projR1">
+      <img src="/content/images/AutoChessImg/AutoChessStoryCover.jpg" alt="Automated Chess Story">
+      <p><strong>Auto Chess Story</strong>. Glut 3d drawings for an automated chess storyline.</p>
+    </div>
+    <div class="projSpacer">
+    </div>
+    <div class="projR1">
+      <img src="/content/images/3dRatMazeImg/3dRatMazeCover.jpg" alt="3D Rat Maze">
+      <p><strong>3D Rat Maze</strong>. User controlled rat and auto generated maze layout.</p>
+    </div>
+  </div>
 </div>
 
 <button><a href="projectFolder/OWL-FlashCards">OWL-FlashCards</a></button>
