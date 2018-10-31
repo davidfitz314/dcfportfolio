@@ -745,7 +745,12 @@ hr {
   margin: 30px;
   width: 40%;
   background-color: #DAD9DA;
-  padding: 40px;
+  padding-top: 6%;
+}
+
+.projR1 p{
+  padding-left: 1px;
+  padding-right: 1px;
 }
 
 .projR1 img {
