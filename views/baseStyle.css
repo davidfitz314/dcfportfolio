@@ -751,6 +751,10 @@ hr {
   min-width: 50px;
 }
 
+.projR1:hover {
+  background-color: #1c75bc;
+}
+
 .projR1 a{
   text-decoration: none;
   color: #414042;
