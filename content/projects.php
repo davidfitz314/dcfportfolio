@@ -1,12 +1,22 @@
 <?php include 'defaultIncludes/header.php'; ?>
-<div class="eduMain">
-  <div class="eduHead">
+<div class="projMain">
+  <div class="projHead">
     <h1>
       PROJECTS
     </h1>
   </div>
 </div>
-<p>check out test1 project</p>
+<div class="projMain">
+  <div class="projRows">
+    <div class="projR1">
+      <img src="/content/images/Birdandb_Images/birdandbCover.jpg" alt="BirdAndB.com">
+    </div>
+    <div class="projR1">
+      <img src="/content/images/Music_Encryption_Images/EncryptKeyboardCover.jpg" alt="Music Encrypt Key board">
+    </div>
+  </div>
+</div>
+
 <button><a href="projectFolder/OWL-FlashCards">OWL-FlashCards</a></button>
 <button><a href="projectFolder/birdandb">BirdandB.com</a></button>
 <button><a href="projectFolder/music_encrypt_keyboard">Music Encryption Keyboard</a></button>

@@ -734,11 +734,19 @@ hr {
 .projMain {
   width: 960px;
   margin: 0 auto;
-  display: flex;
-  text-align: left;
+  text-align: center;
 }
 
-.aboutMain, .aboutMainpt2, .eduMain, .eduMain2, .expMain, .expMain2, .projMain {
+.projRows {
+  display: flex;
+}
+
+.projR1 {
+  margin: 20px;
+  width: 45%;
+}
+
+.projR1 img {
   width: 100%;
 }
 
@@ -779,6 +787,9 @@ hr {
     width: 100%;
   }
   .threeSections {
+    width: 100%;
+  }
+  .aboutMain, .aboutMainpt2, .eduMain, .eduMain2, .expMain, .expMain2, .projMain {
     width: 100%;
   }
 }
