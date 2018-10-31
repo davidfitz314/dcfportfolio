@@ -44,10 +44,10 @@
   <div class="projRows">
 
     <div class="projR1">
-      <a href="projectFolder/Auto_Chess_Story">
+      <!--<a href="projectFolder/Auto_Chess_Story">-->
         <img src="/content/images/AutoChessImg/AutoChessStoryCover.jpg" alt="Automated Chess Story">
         <p><strong>Auto Chess Story</strong>. Glut 3d drawings for an automated chess storyline.</p>
-      </a>
+      <!--</a>-->
     </div>
 
     <div class="projSpacer">
