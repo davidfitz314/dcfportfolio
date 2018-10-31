@@ -15,16 +15,6 @@
 <button><a href="projectFolder/JSMaxPriorityQueue">JavaScript Max Priority Queue</a></button>
 <button><a href="projectFolder/Auto_Chess_Story">Automated Chess Story</a></button>
 <button><a href="projectFolder/3d_rat_maze">3D Rat Maze</a></button>
-<br />
-<button>filler</button>
-<button>filler</button>
-<button>filler</button>
-<button>filler</button>
-<br />
-<button>filler</button>
-<button>filler</button>
-<button>filler</button>
-<br />
-<p><i>insert pagination at base of each project page</i></p>
+
 
 <?php include 'defaultIncludes/footer.php'; ?>
