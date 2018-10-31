@@ -10,9 +10,11 @@
   <div class="projRows">
     <div class="projR1">
       <img src="/content/images/Birdandb_Images/birdandbCover.jpg" alt="BirdAndB.com">
+      <p><strong>BirdanB.com</strong>. A educational website for sex, culture, and behavior.</p>
     </div>
     <div class="projR1">
       <img src="/content/images/Music_Encryption_Images/EncryptKeyboardCover.jpg" alt="Music Encrypt Key board">
+      <p><strong>Music Encryption Keyboard</strong>. Encrypt text using musical frequencies and keyboard notes.</p>
     </div>
   </div>
 </div>
