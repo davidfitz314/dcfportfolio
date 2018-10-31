@@ -759,6 +759,10 @@ hr {
   width: 70%;
 }
 
+.projSpacer {
+  margin: 10px;
+}
+
 /*760px next smallest media query*/
 @media only screen and (max-width: 960px) and (min-width: 600px){
   .headerMenu {
