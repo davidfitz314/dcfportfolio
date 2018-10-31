@@ -618,6 +618,41 @@ hr {
   text-align: left;
 }
 
+.eduMain2 {
+  width: 960px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.edumain2 img {
+  max-width: 80%;
+  padding: 45px;
+}
+
+.eduBackground {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #63A3D3;
+}
+
+.eduLeft {
+  width: 20%;
+}
+
+.eduLeft img {
+  width: 90%;
+  min-width: 200px;
+  margin-top: 122%;
+  margin-bottom: 35px;
+}
+
+.eduRight {
+  padding: 15px;
+  width: 70%;
+  text-align: left;
+  margin-left: 8%;
+}
+
 /*Experience Page section*/
 .expHead {
   margin-top: 45px;
