@@ -21,7 +21,7 @@
     <div class="eduLeft">
       <img src="/content/images/appcertification.png" alt="Android App Certfication">
     </div>
-    <div class="eduright">
+    <div class="eduRight">
       <h2>Certifications</h2>
       <p>Google Andoid App Developer Assosciates Certification
         <br />
