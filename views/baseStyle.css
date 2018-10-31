@@ -754,6 +754,7 @@ hr {
 
 .projR1:hover {
   background-color: #1c75bc;
+  opacity: .7;
 }
 
 .projR1 a {
