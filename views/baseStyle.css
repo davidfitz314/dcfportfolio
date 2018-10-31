@@ -746,6 +746,7 @@ hr {
   width: 40%;
   background-color: #DAD9DA;
   padding-top: 6%;
+  min-width: 50px;
 }
 
 .projR1 p{
