@@ -624,8 +624,10 @@ hr {
   text-align: center;
   margin-top: 65px;
   margin-bottom: 85px;
+  display: flex;
 }
 
+/*
 .eduMain2 img {
   max-width: 100%;
   padding: 45px;
@@ -633,7 +635,7 @@ hr {
   width: 90%;
   min-width: 200px;
 }
-
+*/
 .eduBackground {
   padding-bottom: 10px;
   background-color: #63A3D3;
@@ -659,6 +661,7 @@ hr {
 
 .eduLeft2 {
   width: 50%;
+  text-align: left;
 }
 
 .eduRight2 {
