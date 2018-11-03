@@ -37,7 +37,7 @@
       <br />
       225 S. 700 E. St. George, UT. 84790
       <br />
-      <strong><i>Bachelors of Science in <br />Computer Information Technology <br />emphasis Computer Science</i></strong>
+      <strong><i>Bachelors of Science in Computer Information Technology <br />emphasis Computer Science</i></strong>
       <br />
       Abrreviated <strong>BS.CIT-CS</strong>
     </p>
