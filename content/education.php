@@ -31,9 +31,6 @@
 </div>
 
 <div class="eduMain2">
-  <div class="eduRight2">
-    <img src="/content/images/1030_1.jpg" alt="Dixie State University">
-  </div>
   <div class="eduLeft2">
     <h2>BACHELORS DEGREE</h2>
     <p><strong>Dixie State University</strong>
@@ -44,6 +41,9 @@
       <br />
       Abrreviated <strong>BS.CIT-CS</strong>
     </p>
+  </div>
+  <div class="eduRight2">
+    <img src="/content/images/1030_1.jpg" alt="Dixie State University">
   </div>
 </div>
 
