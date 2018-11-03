@@ -635,7 +635,7 @@ hr {
 }
 
 .eduBackground {
-  padding-bottom: 75px;
+  padding-bottom: 10px;
   background-color: #63A3D3;
 }
 
@@ -655,6 +655,19 @@ hr {
   width: 50%;
   text-align: left;
   margin-left: 8%;
+}
+
+.eduLeft2 {
+  width: 50%;
+}
+
+.eduRight2 {
+  width: 50%;
+}
+
+.eduRight2 img {
+  width: 100%;
+  min-width: 200px;
 }
 
 /*Experience Page section*/
