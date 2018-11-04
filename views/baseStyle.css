@@ -404,6 +404,7 @@ footer a:hover {
 .imgButtons {
   text-align: center;
   max-width: 13%;
+  display: flex;
 }
 
 /*Global Classes*/

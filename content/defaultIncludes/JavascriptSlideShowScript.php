@@ -1,12 +1,12 @@
 <script>
 var slideIndex = 1;
-showDivs(slideIndex);
+showSlides(slideIndex);
 
-function currentDiv(n) {
-  showDivs(slideIndex = n);
+function currentSlide(n) {
+  showSlides(slideIndex = n);
 }
 
-function showDivs(n) {
+function showSlides(n) {
   var i;
   var x = document.getElementsByClassName("eachSlide");
   if (n > x.length) {slideIndex = 1}

@@ -24,12 +24,12 @@
     </div>
 
     <div class="imgButtons">
-      <img onclick="currentDiv(1)" src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG">
-      <img onclick="currentDiv(2)" src="/content/images/Birdandb_Images/birdandbchap11screenshot.JPG">
-      <img onclick="currentDiv(3)" src="/content/images/Birdandb_Images/birdandbchap4screenshot.JPG">
-      <img onclick="currentDiv(4)" src="/content/images/Birdandb_Images/birdandbchap4tooltipscreenshot.JPG">
-      <img onclick="currentDiv(5)" src="/content/images/Birdandb_Images/birdandbchap11chinasegmentscreenshot.JPG">
-      <img onclick="currentDiv(6)" src="/content/images/Birdandb_Images/birdandbchap14workscitedscreenshot.JPG">
+      <img onclick="currentSlide(1)" src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG">
+      <img onclick="currentSlide(2)" src="/content/images/Birdandb_Images/birdandbchap11screenshot.JPG">
+      <img onclick="currentSlide(3)" src="/content/images/Birdandb_Images/birdandbchap4screenshot.JPG">
+      <img onclick="currentSlide(4)" src="/content/images/Birdandb_Images/birdandbchap4tooltipscreenshot.JPG">
+      <img onclick="currentSlide(5)" src="/content/images/Birdandb_Images/birdandbchap11chinasegmentscreenshot.JPG">
+      <img onclick="currentSlide(6)" src="/content/images/Birdandb_Images/birdandbchap14workscitedscreenshot.JPG">
     </div>
     <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
 
