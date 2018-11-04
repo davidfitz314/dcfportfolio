@@ -391,6 +391,7 @@ footer a:hover {
 
 .basicProjectLayout img {
   width: 90%;
+  margin: 10px;
 }
 
 .slideshowImgs {
@@ -405,6 +406,7 @@ footer a:hover {
   text-align: center;
   max-width: 13%;
   display: flex;
+  max-height: 100px;
 }
 
 /*Global Classes*/
