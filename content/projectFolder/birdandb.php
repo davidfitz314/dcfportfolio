@@ -14,98 +14,23 @@
 
     <h4>Images</h4>
 
-    <div class="trow">
-      <div class="tcolumn">
-        <img src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG" onclick="openSlideShow();currentSlide(1)" class="hover-shadow">
-      </div>
-      <div class="tcolumn">
-        <img src="/content/images/Birdandb_Images/birdandbchap11screenshot.JPG" onclick="openSlideShow();currentSlide(2)" class="hover-shadow">
-      </div>
-      <div class="tcolumn">
-        <img src="/content/images/Birdandb_Images/birdandbchap11chinasegmentscreenshot.JPG" onclick="openSlideShow();currentSlide(3)" class="hover-shadow">
-      </div>
-      <div class="tcolumn">
-        <img src="/content/images/Birdandb_Images/birdandbchap4screenshot.JPG" onclick="openSlideShow();currentSlide(4)" class="hover-shadow">
-      </div>
-      <div class="tcolumn">
-        <img src="/content/images/Birdandb_Images/birdandbchap4tooltipscreenshot.JPG" onclick="openSlideShow();currentSlide(5)" class="hover-shadow">
-      </div>
-      <div class="tcolumn">
-        <img src="/content/images/Birdandb_Images/birdandbchap14workscitedscreenshot.JPG" onclick="openSlideShow();currentSlide(6)" class="hover-shadow">
-      </div>
+    <div class="slideshowImgs">
+      <img src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG" class="eachSlide">
+      <img src="/content/images/Birdandb_Images/birdandbchap11screenshot.JPG" class="eachSlide">
+      <img src="/content/images/Birdandb_Images/birdandbchap11chinasegmentscreenshot.JPG" class="eachSlide">
+      <img src="/content/images/Birdandb_Images/birdandbchap4screenshot.JPG" class="eachSlide">
+      <img src="/content/images/Birdandb_Images/birdandbchap4tooltipscreenshot.JPG" class="eachSlide">
+      <img src="/content/images/Birdandb_Images/birdandbchap14workscitedscreenshot.JPG" class="eachSlide">
     </div>
 
-    <!-- The slideshow iteself -->
-    <div id="pSlideShow" class="slideBG">
-      <span class="close cursor" onclick="closeSlideShow()">&times;</span>
-      <div class="slideshow-content">
-
-        <div class="eachSlides">
-          <div class="numbertext">1 / 6</div>
-          <img src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG" style="width:100%">
-        </div>
-
-        <div class="eachSlides">
-          <div class="numbertext">2 / 6</div>
-          <img src="/content/images/Birdandb_Images/birdandbchap11screenshot.JPG" style="width:100%">
-        </div>
-
-        <div class="eachSlides">
-          <div class="numbertext">3 / 6</div>
-          <img src="/content/images/Birdandb_Images/birdandbchap11chinasegmentscreenshot.JPG" style="width:100%">
-        </div>
-
-        <div class="eachSlides">
-          <div class="numbertext">4 / 6</div>
-          <img src="/content/images/Birdandb_Images/birdandbchap4screenshot.JPG" style="width:100%">
-        </div>
-
-        <div class="eachSlides">
-          <div class="numbertext">5 / 6</div>
-          <img src="/content/images/Birdandb_Images/birdandbchap4tooltipscreenshot.JPG" style="width:100%">
-        </div>
-
-        <div class="eachSlides">
-          <div class="numbertext">4 / 6</div>
-          <img src="/content/images/Birdandb_Images/birdandbchap14workscitedscreenshot.JPG" style="width:100%">
-        </div>
-
-        <!-- back/forward controls -->
-        <a class="back" onclick="changeSlides(-1)">&#10094;</a>
-        <a class="forward" onclick="changeSlides(1)">&#10095;</a>
-
-        <!-- Caption/alt text -->
-        <div class="alt-container">
-          <p id="caption_alt"></p>
-        </div>
-
-        <!-- Thumbnail image controls -->
-        <div class="tcolumn">
-          <img class="preview" src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG" onclick="currentSlide(1)" alt="B&B Index Page">
-        </div>
-
-        <div class="tcolumn">
-          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap11screenshot.JPG" onclick="currentSlide(2)" alt="B&B chapter 11">
-        </div>
-
-        <div class="tcolumn">
-          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap11chinasegmentscreenshot.JPG" onclick="currentSlide(3)" alt="B&B chapter 11 china segment">
-        </div>
-
-        <div class="tcolumn">
-          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap4screenshot.JPG" onclick="currentSlide(4)" alt="B&B chapter 4">
-        </div>
-
-        <div class="tcolumn">
-          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap4tooltipscreenshot.JPG" onclick="currentSlide(5)" alt="B&B chapter 4 tooltip active">
-        </div>
-
-        <div class="tcolumn">
-          <img class="preview" src="/content/images/Birdandb_Images/birdandbchap14workscitedscreenshot.JPG" onclick="currentSlide(6)" alt="B&B chapter 14 works cited">
-        </div>
-      </div>
+    <div class="imgButtons">
+      <img onclick="currentDiv(1)" src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG">
+      <img onclick="currentDiv(2)" src="/content/images/Birdandb_Images/birdandbchap11screenshot.JPG">
+      <img onclick="currentDiv(3)" src="/content/images/Birdandb_Images/birdandbchap4screenshot.JPG">
+      <img onclick="currentDiv(4)" src="/content/images/Birdandb_Images/birdandbchap4tooltipscreenshot.JPG">
+      <img onclick="currentDiv(5)" src="/content/images/Birdandb_Images/birdandbchap11chinasegmentscreenshot.JPG">
+      <img onclick="currentDiv(6)" src="/content/images/Birdandb_Images/birdandbchap14workscitedscreenshot.JPG">
     </div>
-
     <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
 
 
