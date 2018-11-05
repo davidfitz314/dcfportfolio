@@ -26,7 +26,7 @@
 
   <div class="projRows">
     <div class="projR1">
-      <a href="projectFolder/music_encrypt_keyboard">
+      <a href="projectFolder/powerball_statistics">
         <img src="/content/images/PowerballStatisticsImg/PBStatsCover.jpg" alt="Powerball Statitics">
         <p><strong>Powerball Statistics</strong>. Powerball statistics and number popularity generator.</p>
       </a>
@@ -34,7 +34,7 @@
     <div class="projSpacer">
     </div>
     <div class="projR1">
-      <a href="projectFolder/powerball_statistics">
+      <a href="projectFolder/JSMaxPriorityQueue">
         <img src="/content/images/JSMQueueImg/JSMCover.jpg" alt="JavaScript Max Priority Queue">
         <p><strong>JavaScript Max Priority Queue</strong>. Max out Priority queue using JavaScript.</p>
       </a>
