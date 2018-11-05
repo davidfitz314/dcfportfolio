@@ -18,75 +18,20 @@ Built using a heap data structure with a hash look up table to maintain an overa
     <h4>Images</h4>
 
     <!-- The slide show  -->
-    <!-- Images used to open the slideshow -->
-    <div class="trow">
-      <div class="tcolumn">
-        <img src="/content/images/JSMQueueImg/JSMQueueReadME.JPG" onclick="openSlideShow();currentSlide(1)" class="hover-shadow">
-      </div>
-      <div class="tcolumn">
-        <img src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt1.JPG" onclick="openSlideShow();currentSlide(2)" class="hover-shadow">
-      </div>
-      <div class="tcolumn">
-        <img src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt2.JPG" onclick="openSlideShow();currentSlide(3)" class="hover-shadow">
-      </div>
-      <div class="tcolumn">
-        <img src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt3.JPG" onclick="openSlideShow();currentSlide(4)" class="hover-shadow">
-      </div>
+    <div class="slideshowImgs">
+      <img src="/content/images/JSMQueueImg/JSMQueueReadME.JPG" class="eachSlide">
+      <img src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt1.JPG" class="eachSlide">
+      <img src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt2.JPG" class="eachSlide">
+      <img src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt3.JPG" class="eachSlide">
     </div>
 
-    <!-- The slideshow iteself -->
-    <div id="pSlideShow" class="slideBG">
-      <span class="close cursor" onclick="closeSlideShow()">&times;</span>
-      <div class="slideshow-content">
-
-        <div class="eachSlides">
-          <div class="numbertext">1 / 4</div>
-          <img src="/content/images/JSMQueueImg/JSMQueueReadME.JPG" style="width:100%">
-        </div>
-
-        <div class="eachSlides">
-          <div class="numbertext">2 / 4</div>
-          <img src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt1.JPG" style="width:100%">
-        </div>
-
-        <div class="eachSlides">
-          <div class="numbertext">3 / 4</div>
-          <img src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt2.JPG" style="width:100%">
-        </div>
-
-        <div class="eachSlides">
-          <div class="numbertext">4 / 4</div>
-          <img src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt3.JPG" style="width:100%">
-        </div>
-
-        <!-- back/forward controls -->
-        <a class="back" onclick="changeSlides(-1)">&#10094;</a>
-        <a class="forward" onclick="changeSlides(1)">&#10095;</a>
-
-        <!-- Caption/alt text -->
-        <div class="alt-container">
-          <p id="caption_alt"></p>
-        </div>
-
-        <!-- Thumbnail image controls -->
-        <div class="tcolumn">
-          <img class="preview" src="/content/images/JSMQueueImg/JSMQueueReadME.JPG" onclick="currentSlide(1)" alt="JS Max Queue Read Me Functions">
-        </div>
-
-        <div class="tcolumn">
-          <img class="preview" src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt1.JPG" onclick="currentSlide(2)" alt="JS Max Queue Functions prt 1">
-        </div>
-
-        <div class="tcolumn">
-          <img class="preview" src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt2.JPG" onclick="currentSlide(3)" alt="JS Max Queue Functions prt 2">
-        </div>
-
-        <div class="tcolumn">
-          <img class="preview" src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt3.JPG" onclick="currentSlide(4)" alt="JS Max Queue Functions prt 3">
-        </div>
-      </div>
+    <div class="imgButtons">
+      <img onclick="currentSlide(1)" src="/content/images/JSMQueueImg/JSMQueueReadME.JPG">
+      <img onclick="currentSlide(2)" src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt1.JPG">
+      <img onclick="currentSlide(3)" src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt2.JPG">
+      <img onclick="currentSlide(4)" src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt3.JPG">
     </div>
-
+    
 <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
 
     <p><i>insert pagination at base of each project page</i></p>
