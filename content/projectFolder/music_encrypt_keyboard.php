@@ -58,7 +58,7 @@
     </span>
     <a href="/content/projects">Return To Projects Directory</a>
     <span class="ppRight">
-      <a href="/content/projectFolder/music_encrypt_keyboard">Go To Next Project <img src="/content/images/arrowright.png" alt="Right Arrow"></a>
+      <a href="/content/projectFolder/powerball_statistics">Go To Next Project <img src="/content/images/arrowright.png" alt="Right Arrow"></a>
     </span>
   </div>
 </div>
