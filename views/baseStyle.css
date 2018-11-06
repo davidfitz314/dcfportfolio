@@ -401,7 +401,8 @@ footer a:hover {
 }
 
 .pagePagination img{
-  width: 5%;
+  width: 2%;
+  min-width: 5px;
 }
 
 .pagePagination a {
