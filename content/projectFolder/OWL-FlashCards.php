@@ -16,17 +16,18 @@
         <img src="" class="eachSlide">
         <img src="" class="eachSlide">
       </div>
-
-      <div class="singleProjRight">
-        //requires a unique header for publishing
-        <p>OWL-FlashCards</p>
-        <p>Our World Languages Flash Cards</p>
-        <p>by DCFApps</p>
-        <h4>...page currently under construction...</h4>
-      </div>
     </div>
 
-    <div class="basicProjectLayout">
+    <div class="singleProjRight">
+      //requires a unique header for publishing
+      <p>OWL-FlashCards</p>
+      <p>Our World Languages Flash Cards</p>
+      <p>by DCFApps</p>
+      <h4>...page currently under construction...</h4>
+    </div>
+  </div>
+
+  <div class="basicProjectLayout">
 
     <div class="imgButtons">
       <img onclick="currentSlide(1)" src="">
@@ -38,7 +39,7 @@
     </div>
     <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
   </div>
-  
+
   <div class="pagePagination">
     <span class="ppLeft">
       <a href=""><img src="/content/images/arrowleft.png" alt="Left Arrow"> Go To Previous Project</a>
