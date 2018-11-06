@@ -40,6 +40,8 @@
       </p>
       <button><a href="https://github.com/davidfitz314/RatMaze-3d-Assignment" target="_blank">Source Code</a></button>
     </div>
+  </div>
+  <div class="basicProjectLayout">
 
     <div class="imgButtons">
       <img onclick="currentSlide(1)" src="/content/images/3dRatMazeImg/3dRatMazeViewTopPerspective.JPG">
