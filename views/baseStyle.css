@@ -422,6 +422,7 @@ footer a:hover {
   max-width: 13%;
   display: flex;
   max-height: 100px;
+  box-shadow: 5px 5px 20px #858485;
 }
 
 /*Global Classes*/
