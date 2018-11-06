@@ -23,7 +23,7 @@
     </div>
 
     <div class="singleProjRight">
-      <h4>OverView</h4>
+      <h2>OverView</h2>
       <p>
         C++, 3D Glut, and Wondows Visual Studio project.
         <br />
