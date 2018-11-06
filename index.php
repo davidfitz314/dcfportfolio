@@ -109,7 +109,7 @@
     </div>
     <div class="proRow">
       <div class="proLeft">
-        <a href="/content/projectFolder/JSMaxPriorityQueue"><img src="/content/images/JSMQueueImg/JSMQueueReadME_short.jpg" alt="JavaScript Max Priority Queue">
+        <a href="/content/projectFolder/JSMaxPriorityQueue"><img src="/content/images/JSMQueueImg/JSMCover.jpg" alt="JavaScript Max Priority Queue">
           <div class="hiddenTitle">
             <div class="imgTitle">JavaScript Max Priority Queue</div>
           </div>
