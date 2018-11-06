@@ -386,12 +386,25 @@ footer a:hover {
 
 /*Styling for Projects for unity amoung pages*/
 .basicProjectLayout {
-  display: inline;
+  display: flex;
 }
 
 .basicProjectLayout img {
   width: 90%;
   margin: 10px;
+}
+
+.singleProjLeft {
+  width: 70%;
+}
+
+.singleProjLeft img {
+  width: 95%;
+}
+
+.singleProjRight {
+  text-align: left;
+  width: 30%;
 }
 
 .slideshowImgs {

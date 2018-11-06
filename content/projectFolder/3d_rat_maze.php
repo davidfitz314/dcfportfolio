@@ -9,21 +9,7 @@
 
 
   <div class="basicProjectLayout">
-    <div class="singleProjRight">
-      <h4>OverView</h4>
-      <p>
-        C++, 3D Glut, and Wondows Visual Studio project.
-        <br />
-        Generates a radmonizecd maze within set area, with overlapping pictures for walls, flooring, and ceiling.
-        <br />
-        A user controlled mouse is placed on the starting point (blue floor tile), and attempts to reach the end (green floor tile).
-        <br />
-        Mouse moves with user mouse clicks left and right for turning and center button for forward.
-        <br />
-        In event there is no center mouse button keyboard buttons 'z' and 'x' act as a replacement, for starting movement and stopping.
-      </p>
-      <button> <a href="https://github.com/davidfitz314/RatMaze-3d-Assignment" target="_blank">Source Code</a></button>
-    </div>
+
 
     <h4>Images</h4>
     <div class="singleProjLeft">
@@ -37,6 +23,22 @@
         <img src="/content/images/3dRatMazeImg/3dRatMazeHeaderCode.JPG" class="eachSlide">
         <img src="/content/images/3dRatMazeImg/3dRatMazeRatHeaderCode.JPG" class="eachSlide">
       </div>
+    </div>
+
+    <div class="singleProjRight">
+      <h4>OverView</h4>
+      <p>
+        C++, 3D Glut, and Wondows Visual Studio project.
+        <br />
+        Generates a radmonizecd maze within set area, with overlapping pictures for walls, flooring, and ceiling.
+        <br />
+        A user controlled mouse is placed on the starting point (blue floor tile), and attempts to reach the end (green floor tile).
+        <br />
+        Mouse moves with user mouse clicks left and right for turning and center button for forward.
+        <br />
+        In event there is no center mouse button keyboard buttons 'z' and 'x' act as a replacement, for starting movement and stopping.
+      </p>
+      <button><a href="https://github.com/davidfitz314/RatMaze-3d-Assignment" target="_blank">Source Code</a></button>
     </div>
 
     <div class="imgButtons">
