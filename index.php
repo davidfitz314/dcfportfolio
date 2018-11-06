@@ -86,21 +86,21 @@
     <h3>My Projects</h3>
     <div class="proRow">
       <div class="proLeft">
-        <a href="/content/projectFolder/birdandb"><img src="/content/images/Birdandb_Images/birdandbindexpagescreenshot.JPG" alt="BirdandB.com">
+        <a href="/content/projectFolder/birdandb"><img src="/content/images/Birdandb_Images/birdandbCover.jpg" alt="BirdandB.com">
           <div class="hiddenTitle">
             <div class="imgTitle">BirdAndB.com</div>
           </div>
         </a>
       </div>
       <div class="proCent">
-        <a href="/content/projectFolder/music_encrypt_keyboard"><img src="/content/images/Music_Encryption_Images/EncryptKeyboardKeyPressed.JPG" alt="Music Encryption Keyboard">
+        <a href="/content/projectFolder/music_encrypt_keyboard"><img src="/content/images/Music_Encryption_Images/EncryptKeyboardCover.jpg" alt="Music Encryption Keyboard">
           <div class="hiddenTitle">
             <div class="imgTitle">Music Encrypt Keyboard</div>
           </div>
         </a>
       </div>
       <div class="proRight">
-        <a href="/content/projectFolder/powerball_statistics"><img src="/content/images/PowerballStatisticsImg/PBStatsMainFunct.JPG" alt="Powerball Statistics">
+        <a href="/content/projectFolder/powerball_statistics"><img src="/content/images/PowerballStatisticsImg/PBStatsCover.jpg" alt="Powerball Statistics">
           <div class="hiddenTitle">
             <div class="imgTitle">Powerball Statistics</div>
           </div>
@@ -116,14 +116,14 @@
         </a>
       </div>
       <div class="proCent">
-        <a href="/content/projectFolder/Auto_Chess_Story"><img src="/content/images/AutoChessImg/AutoChessStory3.JPG" alt="Automated Chess Story">
+        <a href="/content/projectFolder/Auto_Chess_Story"><img src="/content/images/AutoChessImg/AutoChessStoryCover.jpg" alt="Automated Chess Story">
           <div class="hiddenTitle">
             <div class="imgTitle">Automated Chess Story</div>
           </div>
         </a>
       </div>
       <div class="proRight">
-        <a href="/content/projectFolder/3d_rat_maze"><img src="/content/images/3dRatMazeImg/3dRatMazeViewTopPerspective.JPG" alt="3D Rat Maze">
+        <a href="/content/projectFolder/3d_rat_maze"><img src="/content/images/3dRatMazeImg/3dRatMazeCover.jpg" alt="3D Rat Maze">
           <div class="hiddenTitle">
             <div class="imgTitle">3D Rat Maze</div>
           </div>
