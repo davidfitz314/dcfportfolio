@@ -1,9 +1,12 @@
 <?php include '../defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
-  <a href="../projects">Return to projects directory</a>
+  <div class="projHead">
+    <h1>
+      MUSIC ENCRYPTION KEYBOARD
+    </h1>
+  </div>
   <div class="basicProjectLayout">
-    <hr />
-    <h3>Music Encrypting/Decrypting KeyBoard</h3>
+
     <h4>OverView</h4>
 
     </p>
@@ -22,9 +25,8 @@ example: presing the keys '1', '2', and then '3' would create the string "DEF". 
 #The output from the encryption will be a long string of text in a file as even spaces, return symbols, and some special characters have been ciphered.#
 <br />
 ###the decrypt method follows a similar pattern as encrypt in order to be consistent.###</p>
-    <h4>External Links</h4>
-    <p>For Source Code of this project please <a href="https://github.com/davidfitz314/Music-Encryption" target="_blank">click here</a></p>
-    <h4>Images</h4>
+
+    <a href="https://github.com/davidfitz314/Music-Encryption" target="_blank">View Source Code Repository</a>
 
     <!-- The slide show  -->
     <div class="slideshowImgs">

@@ -1,9 +1,12 @@
 <?php include '../defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
-  <a href="../projects">Return to projects directory</a>
+  <div class="projHead">
+    <h1>
+      JAVASCRIPT MAX PRIORITY QUEUE
+    </h1>
+  </div>
+
   <div class="basicProjectLayout">
-    <hr />
-    <h3>JavaScript Max Priority Queue</h3>
     <h4>OverView</h4>
     <p>
       A priority queue for integers.
@@ -13,9 +16,7 @@
 Built using a heap data structure with a hash look up table to maintain an overall runtime of O(log n).
     </p>
 
-    <h4>External Links</h4>
-    <p>For Source Code of this project please <a href="https://github.com/davidfitz314/PriorityQueue" target="_blank">click here</a></p>
-    <h4>Images</h4>
+    <a href="https://github.com/davidfitz314/PriorityQueue" target="_blank">View Source Code Repository</a>
 
     <!-- The slide show  -->
     <div class="slideshowImgs">

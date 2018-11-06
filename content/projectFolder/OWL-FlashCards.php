@@ -1,7 +1,11 @@
 <?php include '../defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
-<a href="../projects">Return to projects directory</a>
-<hr />
+  <div class="projHead">
+    <h1>
+      OUR WORLD LANGUAGES FLASH CARDS - OWL FlashCards
+    </h1>
+  </div>
+
 <div class="basicProjectLayout">
 
 //requires a unique header for publishing

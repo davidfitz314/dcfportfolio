@@ -30,7 +30,7 @@
         <br />
         A user controlled mouse is placed on the starting point (blue floor tile), and attempts to reach the end (green floor tile).
       </p>
-      <a href="https://github.com/davidfitz314/RatMaze-3d-Assignment" target="_blank">Source Code</a>
+      <a href="https://github.com/davidfitz314/RatMaze-3d-Assignment" target="_blank">View Source Code Repository</a>
     </div>
   </div>
 
@@ -45,7 +45,7 @@
       <img onclick="currentSlide(7)" src="/content/images/3dRatMazeImg/3dRatMazeRatHeaderCode.JPG">
     </div>
 
-  <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
+    <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
   </div>
   <div class="pagePagination">
     <span class="ppLeft">

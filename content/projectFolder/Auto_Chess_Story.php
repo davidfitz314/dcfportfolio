@@ -1,9 +1,12 @@
 <?php include '../defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
-  <a href="../projects">Return to projects directory</a>
+  <div class="projHead">
+    <h1>
+      AUTOMATED CHESS STORY
+    </h1>
+  </div>
+
   <div class="basicProjectLayout">
-    <hr />
-    <h3>Automated Chess Story</h3>
     <h4>OverView</h4>
     <p>
       C++, Glut 3d, and Windows Visual Studio combined to make a visual representation of the first few moves of chess.
@@ -11,9 +14,7 @@
       Chess game has been modified to have a more interesting move set and story instead of the standard chess game moves.
     </p>
 
-    <h4>External Links</h4>
-    <p>For Source Code of this project please <a href="https://github.com/davidfitz314/CS3600-Chess/blob/master/README.md" target="_blank">click here</a></p>
-    <h4>Images</h4>
+    <a href="https://github.com/davidfitz314/CS3600-Chess/blob/master/README.md" target="_blank">View Source Code Repository</a>
 
     <!-- The slide show  -->
     <div class="slideshowImgs">
@@ -36,7 +37,7 @@
 <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
 
   </div>
-  
+
   <div class="pagePagination">
     <span class="ppLeft">
       <a href=""><img src="/content/images/arrowleft.png" alt="Left Arrow"> Go To Previous Project</a>

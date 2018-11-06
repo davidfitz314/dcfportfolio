@@ -1,16 +1,19 @@
 <?php include '../defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
+  <div class="projHead">
+    <h1>
+      BIRDANDB.COM
+    </h1>
+  </div>
+
   <div class="basicProjectLayout">
-    <a href="../projects">Return to projects directory</a>
-    <hr />
-    <h3>BirdAndB.com</h3>
 
     <h4>OverView</h4>
     <p>BirdAndB.com is a website I built alongside the Graphic Designer Jamie Chapman, made to help aid young adults in learning about psyiology and psychology of life in relation to sex and sexuality.</p>
     <h4>External Links</h4>
     <a href="http://www.birdandb.com/" target="_blank"><b>Click Here to Visit birdandb.com</b></a>
     <br />
-    <a href="https://github.com/davidfitz314/BirdandB" target="_blank">Click Here to View Site Code Repository</a>
+    <a href="https://github.com/davidfitz314/BirdandB" target="_blank">View Source Code Repository</a>
 
     <h4>Images</h4>
 
