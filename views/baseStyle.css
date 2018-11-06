@@ -436,6 +436,7 @@ footer a:hover {
   width: 30%;
 }
 
+/*
 .singleProjRight a {
   text-decoration: none;
   padding: 10px;
@@ -445,6 +446,20 @@ footer a:hover {
   padding-left: 12%;
   padding-right: 12%;
   margin-top: 10px;
+}
+*/
+
+.bluePLink {
+  width: 100%;
+  color: #ffffff;
+  background-color: #1c75bc;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.bluePLink a {
+  text-decoration: none;
+  color: #ffffff;
 }
 
 .slideshowImgs {

@@ -22,9 +22,12 @@
       <h4>OverView</h4>
       <p>BirdAndB.com is a website I built alongside the Graphic Designer Jamie Chapman, made to help aid young adults in learning about psyiology and psychology of life in relation to sex and sexuality.</p>
 
-      <a href="http://www.birdandb.com/" target="_blank">Visit birdandb.com</a>
-      <br />
-      <a href="https://github.com/davidfitz314/BirdandB" target="_blank">View Source Code Repository</a>
+      <span class="bluePLink">
+        <a href="http://www.birdandb.com/" target="_blank">Visit birdandb.com</a>
+      </span>
+      <span class="bluePLink">
+        <a href="https://github.com/davidfitz314/BirdandB" target="_blank">View Source Code Repository</a>
+      </span>
     </div>
   </div>
 
