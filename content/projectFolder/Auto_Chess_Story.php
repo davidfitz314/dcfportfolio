@@ -7,24 +7,31 @@
   </div>
 
   <div class="basicProjectLayout">
-    <h4>OverView</h4>
-    <p>
-      C++, Glut 3d, and Windows Visual Studio combined to make a visual representation of the first few moves of chess.
-      <br />
-      Chess game has been modified to have a more interesting move set and story instead of the standard chess game moves.
-    </p>
-    <span class="bluePLink">
-      <a href="https://github.com/davidfitz314/CS3600-Chess/blob/master/README.md" target="_blank">View Source Code Repository</a>
-    </span>
-    <!-- The slide show  -->
-    <div class="slideshowImgs">
-      <img src="/content/images/AutoChessImg/AutoChessStory3.JPG" class="eachSlide">
-      <img src="/content/images/AutoChessImg/AutoChessStory1.JPG" class="eachSlide">
-      <img src="/content/images/AutoChessImg/AutoChessStory2.JPG" class="eachSlide">
-      <img src="/content/images/AutoChessImg/AutoChessStoryMainFunct.JPG" class="eachSlide">
-      <img src="/content/images/AutoChessImg/AutoChessStoryRookCode.JPG" class="eachSlide">
+    <div class="singleProjLeft">
+      <!-- The slide show  -->
+      <div class="slideshowImgs">
+        <img src="/content/images/AutoChessImg/AutoChessStory3.JPG" class="eachSlide">
+        <img src="/content/images/AutoChessImg/AutoChessStory1.JPG" class="eachSlide">
+        <img src="/content/images/AutoChessImg/AutoChessStory2.JPG" class="eachSlide">
+        <img src="/content/images/AutoChessImg/AutoChessStoryMainFunct.JPG" class="eachSlide">
+        <img src="/content/images/AutoChessImg/AutoChessStoryRookCode.JPG" class="eachSlide">
+      </div>
     </div>
 
+    <div class="singleProjRight">
+      <h2>OverView</h2>
+      <p>
+        C++, Glut 3d, and Windows Visual Studio combined to make a visual representation of the first few moves of chess.
+        <br />
+        Chess game has been modified to have a more interesting move set and story instead of the standard chess game moves.
+      </p>
+      <span class="bluePLink">
+        <a href="https://github.com/davidfitz314/CS3600-Chess/blob/master/README.md" target="_blank">View Source Code Repository</a>
+      </span>
+    </div>
+  </div>
+
+  <div class="basicProjectLayout">
     <div class="imgButtons">
       <img onclick="currentSlide(1)" src="/content/images/AutoChessImg/AutoChessStory3.JPG">
       <img onclick="currentSlide(2)" src="/content/images/AutoChessImg/AutoChessStory1.JPG">
@@ -32,10 +39,7 @@
       <img onclick="currentSlide(4)" src="/content/images/AutoChessImg/AutoChessStoryMainFunct.JPG">
       <img onclick="currentSlide(5)" src="/content/images/AutoChessImg/AutoChessStoryRookCode.JPG">
     </div>
-
-
-<?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
-
+    <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
   </div>
 
   <div class="pagePagination">

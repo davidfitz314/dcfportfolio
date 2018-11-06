@@ -19,7 +19,7 @@
     </div>
 
     <div class="singleProjRight">
-      <h4>OverView</h4>
+      <h2>OverView</h2>
       <p>BirdAndB.com is a website I built alongside the Graphic Designer Jamie Chapman, made to help aid young adults in learning about psyiology and psychology of life in relation to sex and sexuality.</p>
 
       <span class="bluePLink">
