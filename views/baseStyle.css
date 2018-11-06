@@ -398,11 +398,13 @@ footer a:hover {
 .pagePagination {
   display: flex;
   text-align: center;
+  width: 100%;
 }
 
 .pagePagination img{
-  width: 2%;
-  min-width: 5px;
+  width: 7%;
+  min-width: 20px;
+  transform: translate(0px, 5px);
 }
 
 .pagePagination a {
