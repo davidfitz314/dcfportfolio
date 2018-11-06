@@ -48,9 +48,9 @@
   <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
   </div>
   <div class="pagePagination">
-    <a href=""><img src="/content/images/arrowleft.png" alt="Left Arrow"></a>
+    <a href=""><img src="/content/images/arrowleft.png" alt="Left Arrow">Go To Previous Project</a>
     <a href="/content/projects">Return To Projects Directory</a>
-    <a href=""><img src="/content/images/arrowright.png" alt="Right Arrow"></a>
+    <a href=""><img src="/content/images/arrowright.png" alt="Right Arrow">Go To Next Project</a>
   </div>
 </div>
 <?php include '../defaultIncludes/footer.php'; ?>
