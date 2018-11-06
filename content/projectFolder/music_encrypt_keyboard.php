@@ -25,8 +25,6 @@
         Keys 1-7 are used for the piano and pressing them will play music and display a note on the screen.
         <br />
         keys: 'e' and 'd' are the signals to begin encrypting or decrypting. After pressing 'e' or 'd' the string of text generated from the musical notes will be used to create the caesarean cipher.
-        <br />
-        The decrypt method follows a similar pattern as encrypt in order to be consistent.
       </p>
       <span class="bluePLink">
         <a href="https://github.com/davidfitz314/Music-Encryption" target="_blank">View Source Code Repository</a>
