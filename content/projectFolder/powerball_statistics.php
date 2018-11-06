@@ -42,11 +42,9 @@
       <img onclick="currentSlide(3)" src="/content/images/PowerballStatisticsImg/PBStatsNumPercentage.JPG">
       <img onclick="currentSlide(4)" src="/content/images/PowerballStatisticsImg/PBStatsNumPopularity.JPG">
     </div>
+    <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
   </div>
-<?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
-
-
-  </div>
+  
   <div class="pagePagination">
     <span class="ppLeft">
       <a href=""><img src="/content/images/arrowleft.png" alt="Left Arrow"> Go To Previous Project</a>

@@ -47,6 +47,7 @@
 
     <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
   </div>
+  
   <div class="pagePagination">
     <span class="ppLeft">
       <a href=""><img src="/content/images/arrowleft.png" alt="Left Arrow"> Go To Previous Project</a>
