@@ -43,7 +43,7 @@
       <img onclick="currentSlide(4)" src="/content/images/3dRatMazeImg/3dRatMazeViewGoalView.JPG">
       <img onclick="currentSlide(5)" src="/content/images/3dRatMazeImg/3dRatMazeFilesOverView.JPG">
       <img onclick="currentSlide(6)" src="/content/images/3dRatMazeImg/3dRatMazeHeaderCode.JPG">
-      <img onclick="currentSlide(6)" src="/content/images/3dRatMazeImg/3dRatMazeRatHeaderCode.JPG">
+      <img onclick="currentSlide(7)" src="/content/images/3dRatMazeImg/3dRatMazeRatHeaderCode.JPG">
     </div>
 
 <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
