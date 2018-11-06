@@ -219,7 +219,6 @@ body {
 
 /*projects section banner*/
 .projectsBanner {
-/*  background-color: #E6E6FA;*/
   width: 960px;
   margin: 45px 0px 45px 0px;
   padding: 0;
@@ -387,11 +386,13 @@ footer a:hover {
 /*Styling for Projects for unity amoung pages*/
 .basicProjectLayout {
   display: flex;
+  margin-bottom: 25px;
 }
 
 .basicProjectLayout img {
   width: 90%;
   margin: 10px;
+
 }
 
 .singleProjLeft {
@@ -413,6 +414,7 @@ footer a:hover {
 
 .eachSlide {
   display:none;
+  box-shadow: 5px 5px 20px #858485;
 }
 
 .imgButtons {
@@ -678,7 +680,7 @@ hr {
 }
 
 .projSpacer {
-  margin: 5%;
+  margin: 1%;
 }
 
 /*760px next smallest media query*/
