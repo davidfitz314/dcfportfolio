@@ -31,7 +31,7 @@
         <br />
         A user controlled mouse is placed on the starting point (blue floor tile), and attempts to reach the end (green floor tile).
       </p>
-      <button><a href="https://github.com/davidfitz314/RatMaze-3d-Assignment" target="_blank">Source Code</a></button>
+      <a href="https://github.com/davidfitz314/RatMaze-3d-Assignment" target="_blank">Source Code</a>
     </div>
   </div>
 

@@ -408,6 +408,13 @@ footer a:hover {
   width: 30%;
 }
 
+.singleProjRight a {
+  text-decoration: none;
+  padding: 10px;
+  background-color: #1c75bc;
+  color: #ffffff;
+}
+
 .slideshowImgs {
   max-width: 80%;
 }
