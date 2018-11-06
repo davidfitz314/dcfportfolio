@@ -48,10 +48,9 @@
       <img onclick="currentSlide(6)" src="/content/images/3dRatMazeImg/3dRatMazeHeaderCode.JPG">
       <img onclick="currentSlide(7)" src="/content/images/3dRatMazeImg/3dRatMazeRatHeaderCode.JPG">
     </div>
-  </div>
-  <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
 
-    <p><i>insert pagination at base of each project page</i></p>
+  <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
   </div>
+    <p><i>insert pagination at base of each project page</i></p>
 </div>
 <?php include '../defaultIncludes/footer.php'; ?>
