@@ -9,9 +9,6 @@
 
 
   <div class="basicProjectLayout">
-
-
-    <h4>Images</h4>
     <div class="singleProjLeft">
     <!-- The slide show  -->
       <div class="slideshowImgs">
