@@ -455,6 +455,7 @@ footer a:hover {
   background-color: #1c75bc;
   text-align: center;
   margin-top: 10px;
+  display: block;
 }
 
 .bluePLink a {
