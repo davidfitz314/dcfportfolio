@@ -31,10 +31,18 @@ Built using a heap data structure with a hash look up table to maintain an overa
       <img onclick="currentSlide(3)" src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt2.JPG">
       <img onclick="currentSlide(4)" src="/content/images/JSMQueueImg/JSMQueueFunctionsPrt3.JPG">
     </div>
-    
+
 <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
 
-    <p><i>insert pagination at base of each project page</i></p>
+  </div>
+  <div class="pagePagination">
+    <span class="ppLeft">
+      <a href=""><img src="/content/images/arrowleft.png" alt="Left Arrow"> Go To Previous Project</a>
+    </span>
+    <a href="/content/projects">Return To Projects Directory</a>
+    <span class="ppRight">
+      <a href="">Go To Next Project <img src="/content/images/arrowright.png" alt="Right Arrow"></a>
+    </span>
   </div>
 </div>
 <?php include '../defaultIncludes/footer.php'; ?>
