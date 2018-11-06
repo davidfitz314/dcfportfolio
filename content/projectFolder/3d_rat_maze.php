@@ -38,17 +38,17 @@
         <img src="/content/images/3dRatMazeImg/3dRatMazeRatHeaderCode.JPG" class="eachSlide">
       </div>
     </div>
-  </div>
-  <div class="imgButtons">
-    <img onclick="currentSlide(1)" src="/content/images/3dRatMazeImg/3dRatMazeViewTopPerspective.JPG">
-    <img onclick="currentSlide(2)" src="/content/images/3dRatMazeImg/3dRatMazeView1.JPG">
-    <img onclick="currentSlide(3)" src="/content/images/3dRatMazeImg/3dRatMazeView2.JPG">
-    <img onclick="currentSlide(4)" src="/content/images/3dRatMazeImg/3dRatMazeViewGoalView.JPG">
-    <img onclick="currentSlide(5)" src="/content/images/3dRatMazeImg/3dRatMazeFilesOverView.JPG">
-    <img onclick="currentSlide(6)" src="/content/images/3dRatMazeImg/3dRatMazeHeaderCode.JPG">
-    <img onclick="currentSlide(7)" src="/content/images/3dRatMazeImg/3dRatMazeRatHeaderCode.JPG">
-  </div>
 
+    <div class="imgButtons">
+      <img onclick="currentSlide(1)" src="/content/images/3dRatMazeImg/3dRatMazeViewTopPerspective.JPG">
+      <img onclick="currentSlide(2)" src="/content/images/3dRatMazeImg/3dRatMazeView1.JPG">
+      <img onclick="currentSlide(3)" src="/content/images/3dRatMazeImg/3dRatMazeView2.JPG">
+      <img onclick="currentSlide(4)" src="/content/images/3dRatMazeImg/3dRatMazeViewGoalView.JPG">
+      <img onclick="currentSlide(5)" src="/content/images/3dRatMazeImg/3dRatMazeFilesOverView.JPG">
+      <img onclick="currentSlide(6)" src="/content/images/3dRatMazeImg/3dRatMazeHeaderCode.JPG">
+      <img onclick="currentSlide(7)" src="/content/images/3dRatMazeImg/3dRatMazeRatHeaderCode.JPG">
+    </div>
+  </div>
   <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
 
     <p><i>insert pagination at base of each project page</i></p>
