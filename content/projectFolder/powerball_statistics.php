@@ -30,8 +30,9 @@
       <br />
       When running, a new build may be required before hand.
       </p>
-
-      <a href="https://github.com/davidfitz314/Powerball-Statistics" target="_blank">View Source Code Repository</a>
+      <span class="bluePLink">
+        <a href="https://github.com/davidfitz314/Powerball-Statistics" target="_blank">View Source Code Repository</a>
+      </span>
     </div>
   </div>
 
@@ -44,7 +45,7 @@
     </div>
     <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
   </div>
-  
+
   <div class="pagePagination">
     <span class="ppLeft">
       <a href=""><img src="/content/images/arrowleft.png" alt="Left Arrow"> Go To Previous Project</a>

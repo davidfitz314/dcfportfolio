@@ -24,6 +24,9 @@
       <p>Our World Languages Flash Cards</p>
       <p>by DCFApps</p>
       <h4>...page currently under construction...</h4>
+      <span class="bluePLink">
+        //insert links to external pages here
+      </span>
     </div>
   </div>
 

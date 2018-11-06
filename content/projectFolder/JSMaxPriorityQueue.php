@@ -15,9 +15,10 @@
     <br />
 Built using a heap data structure with a hash look up table to maintain an overall runtime of O(log n).
     </p>
-
-    <a href="https://github.com/davidfitz314/PriorityQueue" target="_blank">View Source Code Repository</a>
-
+    <span class="bluePLink">
+      <a href="https://github.com/davidfitz314/PriorityQueue" target="_blank">View Source Code Repository</a>
+    </span>
+    
     <!-- The slide show  -->
     <div class="slideshowImgs">
       <img src="/content/images/JSMQueueImg/JSMQueueReadME.JPG" class="eachSlide">

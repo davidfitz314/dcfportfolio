@@ -25,9 +25,9 @@ example: presing the keys '1', '2', and then '3' would create the string "DEF". 
 #The output from the encryption will be a long string of text in a file as even spaces, return symbols, and some special characters have been ciphered.#
 <br />
 ###the decrypt method follows a similar pattern as encrypt in order to be consistent.###</p>
-
-    <a href="https://github.com/davidfitz314/Music-Encryption" target="_blank">View Source Code Repository</a>
-
+    <span class="bluePLink">
+      <a href="https://github.com/davidfitz314/Music-Encryption" target="_blank">View Source Code Repository</a>
+    </span>
     <!-- The slide show  -->
     <div class="slideshowImgs">
       <img src="/content/images/Music_Encryption_Images/EncryptKeyBoard.JPG" class="eachSlide">

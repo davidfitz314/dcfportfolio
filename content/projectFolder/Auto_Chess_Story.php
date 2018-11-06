@@ -13,9 +13,9 @@
       <br />
       Chess game has been modified to have a more interesting move set and story instead of the standard chess game moves.
     </p>
-
-    <a href="https://github.com/davidfitz314/CS3600-Chess/blob/master/README.md" target="_blank">View Source Code Repository</a>
-
+    <span class="bluePLink">
+      <a href="https://github.com/davidfitz314/CS3600-Chess/blob/master/README.md" target="_blank">View Source Code Repository</a>
+    </span>
     <!-- The slide show  -->
     <div class="slideshowImgs">
       <img src="/content/images/AutoChessImg/AutoChessStory3.JPG" class="eachSlide">
