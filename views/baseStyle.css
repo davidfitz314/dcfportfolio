@@ -410,6 +410,15 @@ footer a:hover {
 .pagePagination a {
   text-decoration: none;
   width: 33%;
+  color: #1c75bc;
+}
+
+.ppLeft {
+  width: 33%;
+}
+
+.ppright {
+  width: 33%;
 }
 
 
