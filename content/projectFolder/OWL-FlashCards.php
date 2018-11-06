@@ -2,6 +2,7 @@
 <div class="centeredWrapper">
 <a href="../projects">Return to projects directory</a>
 <hr />
+<div class="basicProjectLayout">
 
 //requires a unique header for publishing
 <p>OWL-FlashCards</p>
