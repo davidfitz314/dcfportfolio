@@ -24,7 +24,7 @@
       <br />
       Written in C++ using microsoft visual studio.
       <br />
-      To update powerball inputs, go to the powerball.txt file and add each element in seperating each number with a space and then for different powerball draws seperate them with a new line.
+      To update powerball inputs, go to the powerball.txt file and add each element in, seperating each number with a space and then for different powerball draws seperate them with a new line.
       <br />
       After running the statistics will be places into the file 'stats.txt'
       <br />
