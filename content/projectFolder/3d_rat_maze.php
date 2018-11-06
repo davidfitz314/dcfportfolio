@@ -1,6 +1,5 @@
 <?php include '../defaultIncludes/header.php'; ?>
 <div class="centeredWrapper">
-  <a href="../projects">Return to projects directory</a>
   <div class="projHead">
     <h1>
       3D RAT MAZE
@@ -48,6 +47,10 @@
 
   <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
   </div>
-    <p><i>insert pagination at base of each project page</i></p>
+  <div class="pagePagination">
+    <a href=""><img src="/content/images/arrowleft.png" alt="Left Arrow"></a>
+    <a href="/content/projects">Return To Projects Directory</a>
+    <a href=""><img src="/content/images/arrowright.png" alt="Right Arrow"></a>
+  </div>
 </div>
 <?php include '../defaultIncludes/footer.php'; ?>
