@@ -30,19 +30,15 @@
       <p>
         C++, 3D Glut, and Wondows Visual Studio project.
         <br />
-        Generates a radmonizecd maze within set area, with overlapping pictures for walls, flooring, and ceiling.
+        Generates a radmonized maze within set area, with overlapping pictures for walls, flooring, and ceiling.
         <br />
         A user controlled mouse is placed on the starting point (blue floor tile), and attempts to reach the end (green floor tile).
-        <br />
-        Mouse moves with user mouse clicks left and right for turning and center button for forward.
-        <br />
-        In event there is no center mouse button keyboard buttons 'z' and 'x' act as a replacement, for starting movement and stopping.
       </p>
       <button><a href="https://github.com/davidfitz314/RatMaze-3d-Assignment" target="_blank">Source Code</a></button>
     </div>
   </div>
-  <div class="basicProjectLayout">
 
+  <div class="basicProjectLayout">
     <div class="imgButtons">
       <img onclick="currentSlide(1)" src="/content/images/3dRatMazeImg/3dRatMazeViewTopPerspective.JPG">
       <img onclick="currentSlide(2)" src="/content/images/3dRatMazeImg/3dRatMazeView1.JPG">
