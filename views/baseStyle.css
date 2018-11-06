@@ -236,7 +236,6 @@ body {
 .projectsBanner img{
   max-width: 95%;
   padding: 10px;
-  transform: translate(0%,18%);
 }
 
 .proRow {
@@ -435,19 +434,6 @@ footer a:hover {
   text-align: left;
   width: 30%;
 }
-
-/*
-.singleProjRight a {
-  text-decoration: none;
-  padding: 10px;
-  background-color: #1c75bc;
-  color: #ffffff;
-  text-align: center;
-  padding-left: 12%;
-  padding-right: 12%;
-  margin-top: 10px;
-}
-*/
 
 .bluePLink {
   width: 100%;
