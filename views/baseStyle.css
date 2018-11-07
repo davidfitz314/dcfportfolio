@@ -329,22 +329,19 @@ footer ul{
 }
 
 .threeSections {
-  display: inline-block;
-  text-align: center;
-  overflow: auto;
   width: 960px;
-  margin: 45px 0px 0px 0px;
+  margin: 45px auto 0px auto;
+  overflow: auto;
+  display: flex;
+  text-align: center;
 }
 
 .leftFooter {
-  float: left;
   width: 25%;
   margin-right: 5%;
-  margin-left: 12%;
 }
 
 .middleFooter {
-  float: left;
   width: 30%;
   text-align: left;
   margin-right: 5%;
@@ -355,7 +352,6 @@ footer ul{
 }
 
 .rightFooter {
-  float: left;
   width: 18%;
   text-align: left;
 }
