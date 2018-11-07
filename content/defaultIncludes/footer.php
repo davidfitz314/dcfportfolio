@@ -6,7 +6,7 @@
   <div class="leftFooter">
     <h4>connect</h4>
     <!--<img src="/content/images/david_logo_D.png" alt="David Logo 2">
-    --><p>What to type to help improve search optimization? I don't know yet, but i'll find something!</p>
+    --><p>"To search through a million ideas, just to find your own, is the daily task of every true programmer." -DCF</p>
     <div class="connectIcons">
       <a href="https://www.facebook.com/david.fitzgerald.528" target="_blank"><img src="/content/images/facebook-white.png" alt="Facebook link"></a>
       <a href="https://www.linkedin.com/in/david-chenfitzgerald/" target="_blank"><img src="/content/images/linkedin-white.png" alt="Linkedin link"></a>
