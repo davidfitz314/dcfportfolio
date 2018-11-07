@@ -338,13 +338,13 @@ footer ul{
 
 .leftFooter {
   width: 31%;
-  margin-right: 6%;
+  margin-right: 10%;
 }
 
 .middleFooter {
   width: 40%;
   text-align: left;
-  margin-right: 5%;
+  margin-right: 9%;
 }
 
 .middleFooter ul {
@@ -352,7 +352,7 @@ footer ul{
 }
 
 .rightFooter {
-  width: 18%;
+  width: 10%;
   text-align: left;
 }
 
