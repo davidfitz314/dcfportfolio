@@ -339,7 +339,11 @@ footer ul{
 .leftFooter {
   width: 31%;
   margin-right: 10%;
-  text-align: left;
+  text-align: center;
+}
+
+.leftFooter h4 {
+  text-align: center;
 }
 
 .middleFooter {
