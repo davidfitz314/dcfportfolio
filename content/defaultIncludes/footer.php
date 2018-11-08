@@ -42,7 +42,7 @@
 <!-- add in a sitemap after website completion -->
 <!-- copyright and year -->
 <a href="/sitemap.xml">sitemap </a>
-<p>&copy; 2018 David ChenFitzgerald</p>
+<p>Copyright &copy; 2018 David ChenFitzgerald, All rights reserved</p>
 
 </footer>
 </body>
