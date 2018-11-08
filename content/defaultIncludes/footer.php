@@ -7,11 +7,7 @@
     <h4>connect</h4>
     <!--<img src="/content/images/david_logo_D.png" alt="David Logo 2">
     --><p>"To search through a million ideas, just to find the right one, is the daily task of every programmer." <br />-DCF</p>
-    <div class="connectIcons">
-      <a href="https://www.facebook.com/david.fitzgerald.528" target="_blank"><img src="/content/images/facebook-white.png" alt="Facebook link"></a>
-      <a href="https://www.linkedin.com/in/david-chenfitzgerald/" target="_blank"><img src="/content/images/linkedin-white.png" alt="Linkedin link"></a>
-      <a href="https://github.com/davidfitz314" target="_blank"><img src="/content/images/github-logo-white.png" alt="Github link"></a>
-    </div>
+
   </div>
 
   <!-- create a small recent projects section here, with textual description and links -->
@@ -38,9 +34,14 @@
   </div>
 <!-- end threesections-->
 </div>
-<br />
+
 <!-- add in a sitemap after website completion -->
 <!-- copyright and year -->
+<div class="connectIcons">
+  <a href="https://www.facebook.com/david.fitzgerald.528" target="_blank"><img src="/content/images/facebook-white.png" alt="Facebook link"></a>
+  <a href="https://www.linkedin.com/in/david-chenfitzgerald/" target="_blank"><img src="/content/images/linkedin-white.png" alt="Linkedin link"></a>
+  <a href="https://github.com/davidfitz314" target="_blank"><img src="/content/images/github-logo-white.png" alt="Github link"></a>
+</div>
 <a href="/sitemap.xml">sitemap </a>
 <p>Copyright &copy; 2018 David ChenFitzgerald, All rights reserved</p>
 

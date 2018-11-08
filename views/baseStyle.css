@@ -367,6 +367,8 @@ footer ul{
   margin: 5px;
   width: 25px;
   height: 25px;
+  display: flex;
+  margin-top: 10px;
 }
 
 footer a {
