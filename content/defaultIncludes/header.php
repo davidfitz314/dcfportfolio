@@ -4,8 +4,8 @@
   <link rel="stylesheet" type="text/css" href="/views/baseStyle.css">
   <link rel="shortcut icon" type="image/x-icon" href="/content/images/favicon.ico">
   <meta charset="utf-8">
-  <meta name="description" content="David's Portfolio">
-  <meta name="keywords" content="portfolio, resume, education, projects, experience, david, information technology, computer science">
+  <meta name="description" content="David Chen Fitzgerald, CS programmer and IT technician Portfolio.">
+  <meta name="keywords" content="david chen fitzgerald, portfolio, resume, education, projects, experience, david, information technology, computer science">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <meta name="author" content="David ChenFitzgerald">
   <title>DCFPortfolio</title>
