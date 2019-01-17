@@ -384,14 +384,14 @@ footer a:hover {
   color: #1c75bc;
 }
 
-/*Styling for Projects for unity amoung pages*/
+/*Styling for Projects unity amoung pages*/
 .basicProjectLayout {
   display: flex;
   margin-bottom: 45px;
 }
 
 .basicProjectLayout img {
-  width: 75%;
+  width: 95%;
   margin: 10px;
   box-shadow: 5px 5px 20px #858485;
 }
