@@ -24,7 +24,7 @@
       </p>
       <p><strong>Multiple Locations</strong>
         <br />
-        10 years of software experience in regards to cash register systems, office docs, and online employee portals.
+        10 years of software usage experience in regards to cash register systems, office docs, and online employee portals.
         <br />
         10+ years customer service and sales experience.
       </p>
