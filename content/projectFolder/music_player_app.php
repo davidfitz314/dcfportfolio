@@ -23,7 +23,7 @@
 
     <div class="singleProjRight">
       <h2>OverView</h2>
-      <p>
+      <p>Grathers songs on phone into one location, allows user to click on song to select it for playing. Also allows user to sort songs into alphabetical order by pressing the sort button.
       </p>
       <span class="bluePLink">
         <a href="https://github.com/davidfitz314/" target="_blank">View Source Code Repository</a>
