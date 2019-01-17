@@ -26,7 +26,7 @@
       <p>Grathers songs on phone into one location, allows user to click on song to select it for playing. Also allows user to sort songs into alphabetical order by pressing the sort button.
       </p>
       <span class="bluePLink">
-        <a href="https://github.com/davidfitz314/" target="_blank">View Source Code Repository</a>
+        <a href="https://github.com/davidfitz314/Music-Player-App" target="_blank">View Source Code Repository</a>
       </span>
     </div>
   </div>
