@@ -47,11 +47,11 @@
 
   <div class="pagePagination">
     <span class="ppLeft">
-      <a href="/content/projectFolder/Auto_Chess_Story"><img src="/content/images/arrowleft.png" alt="Left Arrow"> Go To Previous Project</a>
+      <a href=""><img src="/content/images/arrowleft.png" alt="Left Arrow"> No More Previous Project</a>
     </span>
     <a href="/content/projects">Return To Projects Directory</a>
     <span class="ppRight">
-      <a href="">No More Projects <img src="/content/images/arrowright.png" alt="Right Arrow"></a>
+      <a href="/content/projectFolder/birdandb">Go To Next Project <img src="/content/images/arrowright.png" alt="Right Arrow"></a>
     </span>
   </div>
 </div>
