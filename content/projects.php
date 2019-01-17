@@ -6,6 +6,25 @@
     </h1>
   </div>
 </div>
+
+<div class="projMain">
+  <div class="projRows">
+    <div class="projR1">
+      <a href="projectFolder/music_player_app">
+        <img src="/content/images/MusicPlayerAppImg/.png" alt="Music Player App">
+        <p><strong>Music Player App</strong>. App gathers all music files on the phone and lets user play them.</p>
+      </a>
+    </div>
+    <div class="projSpacer">
+    </div>
+    <div class="projR1">
+      <a href="projectFolder/">
+        <img src="/content/images/IMGFolder/" alt="BLANK">
+        <p><strong>BLANK</strong>. Lorem Ipsum Dolar.</p>
+      </a>
+    </div>
+  </div>
+
 <div class="projMain">
   <div class="projRows">
     <div class="projR1">
