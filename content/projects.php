@@ -11,7 +11,7 @@
   <div class="projRows">
     <div class="projR1">
       <a href="projectFolder/music_player_app">
-        <img src="/content/images/MusicPlayerAppImg/small_screen_player_cover.png" alt="Music Player App">
+        <img src="/content/images/MusicPlayerAppImg/icon_cover.png" alt="Music Player App">
         <p><strong>Music Player App</strong>. App gathers all music files on the phone and lets user play them.</p>
       </a>
     </div>
