@@ -18,12 +18,14 @@
 
 <div class="eduBackground">
   <div class="eduMain">
-    <div class="eduLeft">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/12721471?key=a77ce754edcbfbb0647c2dda45f25469aa05ef14ee219d0f7c05ad8b99d21727" alt="Android App Certfication Badge" />
+<!--    <div class="eduLeft">
       <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/12721471?key=a77ce754edcbfbb0647c2dda45f25469aa05ef14ee219d0f7c05ad8b99d21727" alt="Google Certification" />
     </div>
     <div class="eduRight">
-      <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/12721471?key=a77ce754edcbfbb0647c2dda45f25469aa05ef14ee219d0f7c05ad8b99d21727" alt="Android App Certfication Badge" />
+
     </div>
+  -->
   </div>
 </div>
 
