@@ -8,3 +8,9 @@ RewriteRule ^(.*)$ https://www.dcfportfolio.com/$1 [R=301,L]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 REwriteRule ^(.*)$ $1.php
+
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteCond %{REQUEST_URI} !^public
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
