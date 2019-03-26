@@ -25,10 +25,12 @@
       <p>by DCFApps</p>
       <h4>...page currently under construction...</h4>
       <a href='https://play.google.com/store/apps/details?id=com.dcfportfolio.owlflashcardsen_cnlevel1&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png'/></a>
+
+      <p>Google Play and the Google Play logo are trademarks of Google LLC.</p>
+
       <span class="bluePLink">
         //insert links to external pages here
       </span>
-      <p>Google Play and the Google Play logo are trademarks of Google LLC.</p>
     </div>
   </div>
 
