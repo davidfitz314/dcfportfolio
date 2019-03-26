@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dcfportfolio.owlflashcardsen_cnlevel1",
+    "sha256_cert_fingerprints":
+    ["89:A5:4C:BF:E3:B2:38:F3:0F:29:90:88:0B:04:23:85:3A:20:BB:35:BD:EC:34:6A:6A:E1:00:70:67:04:26:36"]
+  }
+}]
