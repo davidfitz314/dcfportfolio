@@ -86,16 +86,16 @@
     <h3>My Projects</h3>
     <div class="proRow">
       <div class="proLeft">
-        <a href="/content/projectFolder/birdandb"><img src="/content/images/Birdandb_Images/birdandbCover.jpg" alt="BirdandB.com">
+        <a href="/content/projectFolder/OWL-FlashCards"><img src="/content/images/OWL_Images/APP-icon.png" alt="OWL Flashcards Level 1">
           <div class="hiddenTitle">
-            <div class="imgTitle">BirdAndB.com</div>
+            <div class="imgTitle">OWL Flashcards Level 1 en-cn</div>
           </div>
         </a>
       </div>
       <div class="proCent">
-        <a href="/content/projectFolder/music_encrypt_keyboard"><img src="/content/images/Music_Encryption_Images/EncryptKeyboardCover.jpg" alt="Music Encryption Keyboard">
+        <a href="/content/projectFolder/birdandb"><img src="/content/images/Birdandb_Images/birdandbCover.jpg" alt="BirdandB.com">
           <div class="hiddenTitle">
-            <div class="imgTitle">Music Encrypt Keyboard</div>
+            <div class="imgTitle">BirdAndB.com</div>
           </div>
         </a>
       </div>
@@ -109,9 +109,9 @@
     </div>
     <div class="proRow">
       <div class="proLeft">
-        <a href="/content/projectFolder/JSMaxPriorityQueue"><img src="/content/images/JSMQueueImg/JSMCover.jpg" alt="JavaScript Max Priority Queue">
+        <a href="/content/projectFolder/music_encrypt_keyboard"><img src="/content/images/Music_Encryption_Images/EncryptKeyboardCover.jpg" alt="Music Encryption Keyboard">
           <div class="hiddenTitle">
-            <div class="imgTitle">JavaScript Max Priority Queue</div>
+            <div class="imgTitle">Music Encrypt Keyboard</div>
           </div>
         </a>
       </div>
