@@ -9,16 +9,12 @@
   <div class="basicProjectLayout">
     <div class="singleProjLeft">
       <div class="slideshowImgs">
-        <img src="/content/images/OWL_Images/HomePage_cropped.png" class="eachSlide">
         <img src="/content/images/OWL_Images/HomePage_Greeting_cropped.png" class="eachSlide">
         <img src="/content/images/OWL_Images/CardMenu_cropped.png" class="eachSlide">
         <img src="/content/images/OWL_Images/Card_help_screen_cropped.png" class="eachSlide">
         <img src="/content/images/OWL_Images/Card_English_cropped.png" class="eachSlide">
-        <img src="/content/images/OWL_Images/Card_Flip_cropped.png" class="eachSlide">
         <img src="/content/images/OWL_Images/Card_Chinese_cropped.png" class="eachSlide">
-        <img src="/content/images/OWL_Images/CardSearchEnglish_cropped.png" class="eachSlide">
         <img src="/content/images/OWL_Images/Card_Search_Chinese_cropped.png" class="eachSlide">
-        <img src="/content/images/OWL_Images/Card_Learn_Pronunciation_cropped.png" class="eachSlide">
         <img src="/content/images/OWL_Images/Card_Language_Setting_cropped.png" class="eachSlide">
       </div>
     </div>
@@ -42,17 +38,13 @@
   <div class="basicProjectLayout">
 
     <div class="imgButtons">
-      <img onclick="currentSlide(1)" src="/content/images/OWL_Images/HomePage_cropped.png">
-      <img onclick="currentSlide(2)" src="/content/images/OWL_Images/HomePage_Greeting_cropped.png">
-      <img onclick="currentSlide(3)" src="/content/images/OWL_Images/CardMenu_cropped.png">
-      <img onclick="currentSlide(4)" src="/content/images/OWL_Images/Card_help_screen_cropped.png">
-      <img onclick="currentSlide(5)" src="/content/images/OWL_Images/Card_English_cropped.png">
-      <img onclick="currentSlide(6)" src="/content/images/OWL_Images/Card_Flip_cropped.png">
-      <img onclick="currentSlide(7)" src="/content/images/OWL_Images/Card_Chinese_cropped.png">
-      <img onclick="currentSlide(8)" src="/content/images/OWL_Images/CardSearchEnglish_cropped.png">
-      <img onclick="currentSlide(9)" src="/content/images/OWL_Images/Card_Search_Chinese_cropped.png">
-      <img onclick="currentSlide(10)" src="/content/images/OWL_Images/Card_Learn_Pronunciation_cropped.png">
-      <img onclick="currentSlide(11)" src="/content/images/OWL_Images/Card_Language_Setting_cropped.png">
+      <img onclick="currentSlide(1)" src="/content/images/OWL_Images/HomePage_Greeting_cropped.png">
+      <img onclick="currentSlide(2)" src="/content/images/OWL_Images/CardMenu_cropped.png">
+      <img onclick="currentSlide(3)" src="/content/images/OWL_Images/Card_help_screen_cropped.png">
+      <img onclick="currentSlide(4)" src="/content/images/OWL_Images/Card_English_cropped.png">
+      <img onclick="currentSlide(5)" src="/content/images/OWL_Images/Card_Chinese_cropped.png">
+      <img onclick="currentSlide(6)" src="/content/images/OWL_Images/Card_Language_Setting_cropped.png">
+      <img onclick="currentSlide(7)" src="/content/images/OWL_Images/Card_Search_Chinese_cropped.png">
     </div>
     <?php include '../defaultIncludes/JavascriptSlideShowScript.php'; ?>
   </div>
