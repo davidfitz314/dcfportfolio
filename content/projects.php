@@ -25,7 +25,6 @@
     </div>
   </div>
 
-<div class="projMain">
   <div class="projRows">
     <div class="projR1">
       <a href="projectFolder/birdandb">
