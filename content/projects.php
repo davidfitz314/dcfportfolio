@@ -12,7 +12,7 @@
     <div class="projR1">
       <a href="projectFolder/OWL-FlashCards">
         <img src="/content/images/OWL_Images/APP-icon.png" alt="BLANK">
-        <p><strong>OWL Flashcards Level 1</strong>. Learn Chinese with commonly used words.</p>
+        <p><strong>OWL Flashcards Level 1</strong>. Learn Chinese with over 200 commonly used words.</p>
       </a>
     </div>
     <div class="projSpacer">
