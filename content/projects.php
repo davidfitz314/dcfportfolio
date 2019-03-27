@@ -10,17 +10,17 @@
 <div class="projMain">
   <div class="projRows">
     <div class="projR1">
-      <a href="projectFolder/music_player_app">
-        <img src="/content/images/MusicPlayerAppImg/icon_cover.png" alt="Music Player App">
-        <p><strong>Music Player App</strong>. App gathers all music files on the phone and lets user play them.</p>
+      <a href="projectFolder/OWL-FlashCards">
+        <img src="/content/images/OWL_Images/APP-icon.png" alt="BLANK">
+        <p><strong>OWL Flashcards Level 1</strong>. Learn Chinese with commonly used words.</p>
       </a>
     </div>
     <div class="projSpacer">
     </div>
     <div class="projR1">
-      <a href="projectFolder/">
-        <img src="/content/images/IMGFolder/" alt="BLANK">
-        <p><strong>BLANK</strong>. Lorem Ipsum Dolar.</p>
+      <a href="projectFolder/music_player_app">
+        <img src="/content/images/MusicPlayerAppImg/icon_cover.png" alt="Music Player App">
+        <p><strong>Music Player App</strong>. App gathers all music files on the phone and lets user play them.</p>
       </a>
     </div>
   </div>
