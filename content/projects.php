@@ -27,7 +27,7 @@
 
   <div class="projRows">
     <div class="projR1">
-      <a href="projectFolder/OWL-FlashCards">
+      <a href="">
         <img src="/content/images/" alt="BLANK">
         <p><strong>title</strong>. description.</p>
       </a>
