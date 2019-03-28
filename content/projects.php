@@ -96,7 +96,7 @@
   </div>
 </div>
 <div class="projMain">
-  <a href="https://github.com/davidfitz314" target="_blank"><span class="bluePLink">For more projects, please visit my Github page</span></a>
+  <span class="bluePLink"><a href="https://github.com/davidfitz314" target="_blank">For more projects, please visit my Github page</a></span>
 </div>
 <br />
 
