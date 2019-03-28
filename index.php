@@ -109,9 +109,9 @@
     </div>
     <div class="proRow">
       <div class="proLeft">
-        <a href="/content/projectFolder/music_encrypt_keyboard"><img src="/content/images/Music_Encryption_Images/EncryptKeyboardCover.jpg" alt="Music Encryption Keyboard">
+        <a href="/content/projectFolder/3BrainGames"><img src="/content/images/BrainGamesImgs/title_square.png" alt="3 Brain Games Title Page">
           <div class="hiddenTitle">
-            <div class="imgTitle">Music Encrypt Keyboard</div>
+            <div class="imgTitle">Brain Games App</div>
           </div>
         </a>
       </div>
