@@ -28,7 +28,7 @@
   <div class="projRows">
     <div class="projR1">
       <a href="projectFolder/InterviewApp">
-        <img src="/content/images/int_icon.png" alt="Interview Icon">
+        <img src="/content/images/InterviewAppImgs/int_icon.png" alt="Interview Icon">
         <p><strong>Interview Writer App</strong>. Type interview notes quickly and easily with your phone or tablet.</p>
       </a>
     </div>
