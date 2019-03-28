@@ -11,8 +11,25 @@
   <div class="projRows">
     <div class="projR1">
       <a href="projectFolder/OWL-FlashCards">
-        <img src="/content/images/OWL_Images/APP-icon.png" alt="BLANK">
+        <img src="/content/images/OWL_Images/APP-icon.png" alt="OWL Flashcards">
         <p><strong>OWL Flashcards Level 1</strong>. Learn Chinese with over 200 commonly used words.</p>
+      </a>
+    </div>
+    <div class="projSpacer">
+    </div>
+    <div class="projR1">
+      <a href="projectFolder/music_player_app">
+        <img src="/content/images/BrainGamesImgs/title_square.png" alt="3 Brain Games">
+        <p><strong>Brain Games</strong>. 3 different games for developing brain skills.</p>
+      </a>
+    </div>
+  </div>
+
+  <div class="projRows">
+    <div class="projR1">
+      <a href="projectFolder/OWL-FlashCards">
+        <img src="/content/images/" alt="BLANK">
+        <p><strong>title</strong>. description.</p>
       </a>
     </div>
     <div class="projSpacer">
