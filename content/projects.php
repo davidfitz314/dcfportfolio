@@ -18,7 +18,7 @@
     <div class="projSpacer">
     </div>
     <div class="projR1">
-      <a href="projectFolder/music_player_app">
+      <a href="projectFolder/BrainGames">
         <img src="/content/images/BrainGamesImgs/title_square.png" alt="3 Brain Games">
         <p><strong>Brain Games</strong>. 3 different games for developing brain skills.</p>
       </a>
