@@ -95,6 +95,9 @@
     </div>
   </div>
 </div>
-<span class="bluePLink"><a href="https://github.com/davidfitz314" target="_blank">For more projects, please visit my Github page</a></span>
+<div class="projMain">
+  <span class="bluePLink"><a href="https://github.com/davidfitz314" target="_blank">For more projects, please visit my Github page</a></span>
+</div>
 <br />
+
 <?php include 'defaultIncludes/footer.php'; ?>
