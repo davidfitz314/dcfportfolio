@@ -38,7 +38,7 @@
 <!-- add in a sitemap after website completion -->
 <!-- copyright and year -->
 <div class="connectIcons">
-  <a href="https://twitter.com/DavidCF55386605" target="_blank"><img src="/content/images/twitter2.png" alt="Twitter link"/></a>
+  <a href="https://twitter.com/DavidCF55386605" target="_blank"><img src="/content/images/twitterwhite.png" alt="Twitter link"/></a>
   <a href="https://www.facebook.com/david.fitzgerald.528" target="_blank"><img src="/content/images/facebook-white.png" alt="Facebook link"></a>
   <a href="https://www.linkedin.com/in/david-chenfitzgerald/" target="_blank"><img src="/content/images/linkedin-white.png" alt="Linkedin link"></a>
   <a href="https://github.com/davidfitz314" target="_blank"><img src="/content/images/github-logo-white.png" alt="Github link"></a>
