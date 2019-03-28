@@ -45,7 +45,7 @@
 
   <div class="pagePagination">
     <span class="ppLeft">
-      <a href=""><img src="/content/images/arrowleft.png" alt="Left Arrow"> No More Previous Project</a>
+      <a href="/content/projectFolder/music_player_app"><img src="/content/images/arrowleft.png" alt="Left Arrow"> Go to Previous Project</a>
     </span>
     <a href="/content/projects">Return To Projects Directory</a>
     <span class="ppRight">
