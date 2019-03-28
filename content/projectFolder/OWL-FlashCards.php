@@ -32,6 +32,7 @@
 
       <span class="bluePLink">
         //insert links to external pages here
+        <a href="/content/images/Downloadables/app.aab" download>Download App Directly</a>
       </span>
     </div>
   </div>
