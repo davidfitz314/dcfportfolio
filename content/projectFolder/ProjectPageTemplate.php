@@ -24,7 +24,7 @@
       <h4>...page currently under construction...</h4>
 
       <span class="bluePLink">
-        //insert links to external pages here
+        <a href="" target="_blank">View Source Code Repository</a>
       </span>
     </div>
   </div>

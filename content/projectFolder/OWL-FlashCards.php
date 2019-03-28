@@ -26,12 +26,14 @@
       <p>Our World Languages Flash Cards</p>
       <p>by DCFApps</p>
       <h4>...page currently under construction...</h4>
-      <a href='https://play.google.com/store/apps/details?id=com.dcfportfolio.owlflashcardsen_cnlevel1&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png'/></a>
 
-
-
+      <span class="bluePLink"
+        <a href='https://play.google.com/store/apps/details?id=com.dcfportfolio.owlflashcardsen_cnlevel1&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png'/></a>
+      </span>
       <span class="bluePLink">
-        //insert links to external pages here
+        <a href="https://github.com/davidfitz314/OWLFlashCardsencnlevel1" target="_blank">View Source Code Repository</a>
+      </span>
+      <span class="bluePLink">
         <a href="/content/images/Downloadables/app.aab" download>Download App Directly</a>
       </span>
     </div>
