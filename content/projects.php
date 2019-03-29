@@ -95,8 +95,10 @@
     </div>
   </div>
 </div>
-<div class="projMain">
-  <span class="bluePLink"><a href="https://github.com/davidfitz314" target="_blank">For more projects, please visit my Github page</a></span>
+<div class="box_shadow_add">
+  <div class="projMain">
+    <span class="bluePLink"><a href="https://github.com/davidfitz314" target="_blank">For more projects, please visit my Github page</a></span>
+  </div>
 </div>
 <br />
 

@@ -279,6 +279,10 @@ body {
   min-height: 200px;
 }
 
+.box_shadow_add {
+  box-shadow: 5px 5px 20px #858485;
+}
+
 .proLeft:hover, .proRight:hover, .proCent:hover {
   border-color: #1c75bc;
 }
