@@ -25,7 +25,7 @@
       <h2>OverView</h2>
       <p>
         C++, 3D Glut, and Windows Visual Studio project. <br />
-        Generates a radmonized maze within set area, with overlapping pictures for walls, flooring, and ceiling.<br />
+        Generates a randomized maze within set area, with overlapping pictures for walls, flooring, and ceiling.<br />
         A user controlled mouse is placed on the starting point (blue floor tile), and attempts to reach the end (green floor tile).
       </p>
       <span class="bluePLink">
