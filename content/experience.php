@@ -50,7 +50,7 @@
       <br />
       225 South 700 East St. George UT, 84790 - Smith Bldg.
       <br />
-      Taught introductory programming courses to children aged 10 - 15 years old.
+      Taught Python and Scratch.mit courses to children aged 10 - 15 years old.
     </p>
   </div>
   <div class="expRight2">
