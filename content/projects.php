@@ -97,8 +97,10 @@
 </div>
 
 <div class="projMain">
-  <div class="box_shadow_add">
-    <span class="bluePLink"><a href="https://github.com/davidfitz314" target="_blank">For more projects, please visit my Github page</a></span>
+  <div class="projR1">
+    <a href="https://github.com/davidfitz314" target="_blank">
+      For more projects, please visit my Github page
+    </a>
   </div>
 </div>
 <br />
