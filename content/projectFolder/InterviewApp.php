@@ -23,7 +23,7 @@
       <p>Out with a customer or potential client and talking about many different things?
         <br />
         No worries, this app lets you write notes, record interviews and attach it to personal information including name, location, and titles.
-        This way that long conversation you just had, doesn't have to lose any important details by mixing up who, when, where, why and what.
+        This way long conversations don't have to lose any important details by mixing up who, when, where, why and what.
       </p>
 
       <span class="bluePLink">
