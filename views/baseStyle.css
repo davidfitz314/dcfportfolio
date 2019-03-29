@@ -814,4 +814,8 @@ hr {
   body {
     display: grid;
   }
+
+  html {
+    width: 100%;
+  }
 }
