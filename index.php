@@ -54,6 +54,7 @@
         <p><strong>
           St. George, UT.
           <br />
+          6 months Android Development.
           2 Years networking, router and wiring installation, testing/debugging networks through the residential side of demarcation.
         </strong>
         </p>
