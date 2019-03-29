@@ -745,7 +745,8 @@ hr {
 .projR2 {
   margin: 30px;
   background-color: #DAD9DA;
-  padding-top: 6%;
+  padding: 2%;
+  font-weight: bold;
   min-width: 50px;
   box-shadow: 5px 5px 20px #858485;
 }
