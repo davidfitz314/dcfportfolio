@@ -81,7 +81,6 @@
 body {
   background-color: #ffffff;
   text-align: center;
-  display: grid;
   margin: 0;
   padding: 0;
   line-height: 2.0;
@@ -808,5 +807,11 @@ hr {
   }
   .aboutMain, .aboutMainpt2, .eduMain, .eduMain2, .expMain, .expMain2, .projMain {
     width: 100%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    display: grid;
   }
 }
