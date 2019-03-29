@@ -22,7 +22,7 @@
   <div class="aboutMainpt2">
     <h2>EXTRA INTERESTS</h2>
     <p>I volunteer to help teach kids programming, because I believe the worlds technology will only grow greater with new minds coming to help.
-    <br />I am also a cellist, and truly enjoy incorporating music into my apps.
+    <br />I am a cellist, and truly enjoy incorporating music into my apps.
     <br />I love encryption, number theory, and statistics, to figure out a new solution to a problem or just to make something better is astounding to me.
     <br /><br />
     To see details regarding my experience and education, please visit my <a href="/content/education">Education Page</a> and <a href="/content/experience">Experience Page</a>.
