@@ -21,7 +21,7 @@
       <h2>OverView</h2>
       <p>
         A calculation program for the frequency rates of the popular gambling game PowerBall. <br />
-        Stats are grouped by single number popularity, and frequency rates of follow up numbers.
+        Stats are grouped by single number popularity and frequency rates of its follow up numbers.
       </p>
       <span class="bluePLink">
         <a href="https://github.com/davidfitz314/Powerball-Statistics" target="_blank">View Source Code Repository</a>
