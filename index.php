@@ -9,10 +9,13 @@
       <div class="AboutMeWrapperGoLeft">
         <h2>Welcome to my Portfolio,</h2>
         <!-- <h3>My name is David ChenFitzgerald and I am a Software Developer and IT technician.</h3>
-        --><p>My name is David ChenFitzgerald. I am a Computer Programmer and It Technician.
-        I live in St. George UT, and I love travelling to new places. I got married in 2017 to a beautiful Chinese graphic web designer and from then on have improved my own apps greatly due to her influence.
-        I currently take on Freelance programming projects the most, because I feel every person has new and interesting app ideas but they just don't know how to publish them, so i do my best to help.</p>
-      <strong>
+        --><p>
+          My name is David ChenFitzgerald. I am a Freelance Android Developer and IT technician.
+          I live in St. George UT, and I love travelling to new places, playing cello, and programming.
+          I enjoy building Android apps the most, the feeling you get when your work is published in the App store and people are actively downloading it, is amazing!
+          My goal is to become an expert Android Developer with a large knowledge base of programming, languages, and techniques.
+          </p>
+        <strong>
         <a href="/content/aboutMe">View More</a>
       </strong>
       </div>
