@@ -12,7 +12,7 @@
     <div class="projR1">
       <a href="projectFolder/OWL-FlashCards">
         <img src="/content/images/OWL_Images/APP-icon.png" alt="OWL Flashcards">
-        <p><strong>OWL Flashcards Level 1</strong>. Learn Chinese with over 200 commonly used words.</p>
+        <p><strong>OWL Flashcards Level 1</strong>. Learn Chinese with over 200 different flashcards.</p>
       </a>
     </div>
     <div class="projSpacer">
@@ -37,7 +37,7 @@
     <div class="projR1">
       <a href="projectFolder/music_player_app">
         <img src="/content/images/MusicPlayerAppImg/icon_cover.png" alt="Music Player App">
-        <p><strong>Music Player App</strong>. Gathers all music files on the phone and lets user play them.</p>
+        <p><strong>Music Player App</strong>. Organize and play your music.</p>
       </a>
     </div>
   </div>
