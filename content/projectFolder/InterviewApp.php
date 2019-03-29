@@ -21,8 +21,8 @@
     <div class="singleProjRight">
       <h2>OverView</h2>
       <p>Out with a customer or potential client and talking about many different things?
-        Tried to find a pen and paper to take notes but couldn't? <br />
-        No worries, this app lets you write notes, record interviews and attach it personal information including name, location, and titles.
+        <br />
+        No worries, this app lets you write notes, record interviews and attach it to personal information including name, location, and titles.
         This way that long conversation you just had, doesn't have to lose any important details by mixing up who, when, where, why and what.
       </p>
 
