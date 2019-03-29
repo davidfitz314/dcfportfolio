@@ -97,7 +97,7 @@
 </div>
 
 <div class="projMain">
-  <div class="projR1">
+  <div class="projR2">
     <a href="https://github.com/davidfitz314" target="_blank">
       For more projects, please visit my Github page
     </a>
