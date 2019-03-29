@@ -476,7 +476,11 @@ footer a:hover {
 
 .owl_google_decorations{
   box-shadow: 0 0 0 #FFFFFF;
-  max-height: 100px;
+  width: 50%;
+}
+
+.owl_google_decorations img {
+  box-shadow: 0 0 0 #FFFFFF;
 }
 
 /*Global Classes*/
