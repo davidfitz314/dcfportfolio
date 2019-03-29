@@ -20,11 +20,9 @@
     <div class="singleProjRight">
       <h2>OverView</h2>
       <p>
-        A priority queue for integers.
-        <br />
-        All duplicate integers increment the initial integer priority by 1.
-      <br />
-  Built using a heap data structure with a hash look up table to maintain an overall runtime of O(log n).
+        A priority queue for integers. <br />
+        All duplicate integers increment the initial integer priority by 1. <br />
+        Built using a heap data structure with a hash look up table to maintain an overall runtime of O(log n).
       </p>
       <span class="bluePLink">
         <a href="https://github.com/davidfitz314/PriorityQueue" target="_blank">View Source Code Repository</a>

@@ -20,15 +20,10 @@
     <div class="singleProjRight">
       <h2>OverView</h2>
       <p>
-      Just a calculation program of the frequency rates on the popular gambling game PowerBall
-      <br />
-      Written in C++ using microsoft visual studio.
-      <br />
-      To update powerball inputs, go to the powerball.txt file and add each element in, seperating each number with a space and then for different powerball draws seperate them with a new line.
-      <br />
-      After running the statistics will be places into the file 'stats.txt'
-      <br />
-      When running, a new build may be required before hand.
+        A calculation program for the frequency rates on the popular gambling game PowerBall. <br />
+        To update powerball inputs, go to the powerball.txt file and add each element in, seperating each number with a space, for different powerball draws seperate them with a new line. <br />
+        After running the statistics will be places into the file 'stats.txt' <br />
+        Stats are grouped by single number popularity, and frequency rates of follow up numbers.
       </p>
       <span class="bluePLink">
         <a href="https://github.com/davidfitz314/Powerball-Statistics" target="_blank">View Source Code Repository</a>

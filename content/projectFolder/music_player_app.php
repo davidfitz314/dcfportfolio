@@ -22,7 +22,11 @@
 
     <div class="singleProjRight">
       <h2>OverView</h2>
-      <p>Grathers songs on phone into one location, allows user to click on song to select it for playing. Also allows user to sort songs into alphabetical order by pressing the sort button.
+      <p>
+        Plenty of music, but songs are all over the place because they were downloaded by different apps?<br />
+        no Worries! <br />
+        Music Player Grathers all songs on the phone into one location, just click on your favorite song to select it for playing. 
+        If you can't find your fav song, try the convienent sort button to reaarange everything alphabetically.
       </p>
       <span class="bluePLink">
         <a href="https://github.com/davidfitz314/Music-Player-App" target="_blank">View Source Code Repository</a>

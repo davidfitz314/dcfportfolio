@@ -19,8 +19,11 @@
     </div>
 
     <div class="singleProjRight">
-      <p>about app section</p>
-      <h4>...page currently under construction...</h4>
+      <h2>OverView</h2>
+      <p>3 fun games used to increase brain stimulus. 
+        <br />Includes Simple Simon, Towers of Hanoi, and a Piano Player.
+        <br />After each game if a new Highscore was made a notification pops up to tell the user about their greatness. or To view all past highscores, users only need to navigate to the highscores page.
+      </p>
 
       <span class="bluePLink">
         <a href="https://github.com/davidfitz314/3BrainGames" target="_blank">View Source Code Repository</a>

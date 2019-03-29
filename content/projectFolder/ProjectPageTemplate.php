@@ -20,8 +20,8 @@
     </div>
 
     <div class="singleProjRight">
+      <h2>OverView</h2>
       <p>about app section</p>
-      <h4>...page currently under construction...</h4>
 
       <span class="bluePLink">
         <a href="" target="_blank">View Source Code Repository</a>

@@ -20,11 +20,9 @@
     <div class="singleProjRight">
       <h2>OverView</h2>
       <p>
-        C++ Application
-        <br />
-        Keys 1-7 are used for the piano and pressing them will play music and display a note on the screen.
-        <br />
-        keys: 'e' and 'd' are the signals to begin encrypting or decrypting. After pressing 'e' or 'd' the string of text generated from the musical notes will be used to create the caesarean cipher.
+        Play music to generate an encryption/decryption key, uses a caesarean cypher based off the notes value.<br />
+        Keys 1-7 are used for the piano and pressing them will play music and display a note on the screen. <br />
+        keys: 'e' and 'd' are the signals to begin encrypting or decrypting. After pressing 'e' or 'd' the string of text generated from the musical notes will be used to create the caesarean cipher in blocks corresponding to each note.
       </p>
       <span class="bluePLink">
         <a href="https://github.com/davidfitz314/Music-Encryption" target="_blank">View Source Code Repository</a>
