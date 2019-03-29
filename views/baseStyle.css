@@ -477,6 +477,7 @@ footer a:hover {
 .owl_google_decorations{
   margin: -20px;
   width: 90%;
+  display: flex;
 }
 
 .owl_google_decorations img {
