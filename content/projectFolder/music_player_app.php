@@ -26,7 +26,7 @@
         Plenty of music, but songs are all over the place because they were downloaded by different apps?<br />
         no Worries! <br />
         Music Player Grathers all songs on the phone into one location, just click on your favorite song to select it for playing. 
-        If you can't find your fav song, try the convienent sort button to reaarange everything alphabetically.
+        If you can't find your fav song, try the convienent sort button to rearrange everything alphabetically.
       </p>
       <span class="bluePLink">
         <a href="https://github.com/davidfitz314/Music-Player-App" target="_blank">View Source Code Repository</a>
