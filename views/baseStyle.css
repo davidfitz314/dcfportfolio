@@ -766,8 +766,11 @@ hr {
 
 
 /*760px next smallest media query*/
-/*
+
 @media only screen and (max-width: 960px) and (min-width: 600px){
+  body {
+    display: grid;
+  }
   .headerMenu {
     width: 100%;
     padding: 0px 20px 0px 20px;
@@ -809,4 +812,3 @@ hr {
     width: 100%;
   }
 }
-*/
