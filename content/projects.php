@@ -95,8 +95,9 @@
     </div>
   </div>
 </div>
-<div class="box_shadow_add">
-  <div class="projMain">
+
+<div class="projMain">
+  <div class="box_shadow_add">
     <span class="bluePLink"><a href="https://github.com/davidfitz314" target="_blank">For more projects, please visit my Github page</a></span>
   </div>
 </div>
