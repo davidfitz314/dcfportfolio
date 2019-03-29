@@ -26,7 +26,6 @@
       <p>
         Over 200 words and translations in a categorized and easy to use app.
         <br />Each card starts in either English or Chinese depening on your settings, and allows you to tap the card to switch to its translation.
-        <br />Also comes with a search method to let you speedily look up a word in the card Database, regardless of it being in Chinese or English.</p>
 
         <div class="owl_google_decorations">
           <a href='https://play.google.com/store/apps/details?id=com.dcfportfolio.owlflashcardsen_cnlevel1&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png'/></a>
