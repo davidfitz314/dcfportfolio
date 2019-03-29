@@ -812,10 +812,7 @@ hr {
 
 @media only screen and (max-width: 760px) {
   body {
-    display: grid;
-  }
-
-  html {
     width: 100%;
+    display: grid;
   }
 }
