@@ -14,7 +14,7 @@
     </div>
     <div class="expRight">
       <h2>WORK EXPERIENCE</h2>
-      <p><strong>FreeLance Experience</strong>
+      <p><strong>FreeLance Experience</strong> 
         <br />
         6 months Android Development, including online training, certification and publishing through Google Play Store.
         <br />
