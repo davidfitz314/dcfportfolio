@@ -20,9 +20,9 @@
 
     <div class="singleProjRight">
       <h2>OverView</h2>
-      <p>3 fun games used to increase brain stimulus. 
+      <p>3 fun games to stimulate cognitive thinking.
         <br />Includes Simple Simon, Towers of Hanoi, and a Piano Player.
-        <br />After each game if a new Highscore was made a notification pops up to tell the user about their greatness. or To view all past highscores, users only need to navigate to the highscores page.
+        <br />After each game notifications alert users to new Highscores, or to view all past highscores, users only need to navigate to the highscores page.
       </p>
 
       <span class="bluePLink">
