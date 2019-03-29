@@ -20,7 +20,7 @@
     <div class="singleProjRight">
       <h2>OverView</h2>
       <p>
-        A calculation program for the frequency rates on the popular gambling game PowerBall. <br />
+        A calculation program for the frequency rates of the popular gambling game PowerBall. <br />
         Stats are grouped by single number popularity, and frequency rates of follow up numbers.
       </p>
       <span class="bluePLink">
