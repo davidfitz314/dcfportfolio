@@ -13,7 +13,7 @@
       <h2>BIO</h2>
       <p>My name is David ChenFitzgerald. I am a Freelance Android Developer and IT technician.
         I live in St. George UT, and I love travelling to new places, playing cello, and programming.
-        I enjoy building Android apps the most, the feeling you get when your work is published in the App store and people are activiely downloading it, is amazing!
+        I enjoy building Android apps the most, the feeling you get when your work is published in the App store and people are actively downloading it, is amazing!
         My goal is to become an expert Android Developer with a large knowledge base of programming, languages, and techniques.
       </p>
     </div>
