@@ -474,6 +474,11 @@ footer a:hover {
   max-height: 100px;
 }
 
+.owl_google_decorations{
+  box-shadow: 0 0 0 #FFFFFF;
+  max-height: 100px;
+}
+
 /*Global Classes*/
 .goBlue {
   text-decoration: none;
