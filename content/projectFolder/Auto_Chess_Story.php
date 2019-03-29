@@ -22,7 +22,7 @@
       <h2>OverView</h2>
       <p>
         C++, Glut 3d, and Windows Visual Studio combined to make a visual representation of the first few moves of chess.<br />
-        Chess game has been modified to have a more interesting move set and story instead of the standard chess game moves.
+        But this chess game has been modified to have a more interesting move set and story instead of the standard chess game moves.
       </p>
       <span class="bluePLink">
         <a href="https://github.com/davidfitz314/CS3600-Chess/blob/master/README.md" target="_blank">View Source Code Repository</a>
