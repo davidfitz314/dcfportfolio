@@ -21,8 +21,6 @@
       <h2>OverView</h2>
       <p>
         A calculation program for the frequency rates on the popular gambling game PowerBall. <br />
-        To update powerball inputs, go to the powerball.txt file and add each element in, seperating each number with a space, for different powerball draws seperate them with a new line. <br />
-        After running the statistics will be places into the file 'stats.txt' <br />
         Stats are grouped by single number popularity, and frequency rates of follow up numbers.
       </p>
       <span class="bluePLink">
