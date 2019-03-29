@@ -30,7 +30,7 @@
       </p>
       <p><strong>FreeLance Experience</strong>
         <br />
-        6 months Android Development, including training and certification.
+        6 months Android Development, including online training, certification and publishing through Google Play Store.
         <br />
         2 years of networking, including setting up local routers, installing new wires, installing updates, and testing / debugging through the residentail demarcation.
         <br />
