@@ -45,6 +45,7 @@
 </div>
 <a href="/sitemap.xml">sitemap </a>
 <p>Copyright &copy; 2018 David ChenFitzgerald, All rights reserved</p>
+<a href="/content/privacypolicy.html">privacy policy</a>
 
 </footer>
 </body>
