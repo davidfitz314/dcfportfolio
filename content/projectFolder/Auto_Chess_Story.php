@@ -25,7 +25,7 @@
         After some of the standard Chess moves this chess game switches to a more interesting move set and text based story line on the screen.
       </p>
       <span class="bluePLink">
-        <a href="https://github.com/davidfitz314/CS3600-Chess/blob/master/README.md" target="_blank">View Source Code Repository</a>
+        <a href="https://github.com/davidfitz314/CS3600-Chess/" target="_blank">View Source Code Repository</a>
       </span>
     </div>
   </div>
