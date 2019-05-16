@@ -41,11 +41,12 @@
           <br />
           2019
           <br />
+          <br />
           Dixie State University
           <br />
           2017
           <br />
-          BS Computer Information Technology -Emphasis Computer Science
+          BS CIT - Emphasis Computer Science
         </strong>
         </p>
       <strong>
