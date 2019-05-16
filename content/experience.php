@@ -14,16 +14,14 @@
     </div>
     <div class="expRight">
       <h2>WORK EXPERIENCE</h2>
-      <p><strong>FreeLance Experience</strong> 
+      <p><strong>FreeLance Experience</strong>
         <br />
-        6 months Android Development, including online training, certification and publishing through Google Play Store.
+        7 months Android Development, including online training, certification and publishing through Google Play Store.
         <br />
         2 years of networking, including setting up local routers, installing new wires, installing updates, and testing / debugging through the residentail demarcation.
         <br />
         1 year of installing operating systems for linux, windows, and mac os.
-        <br />
-        3 years of system administration (non server based) ; including installing software, cleaning up viruses and caches, setting up new devices, and upkeeping system performance.
-      </p>
+        </p>
       <p><strong>DSU Disability Resource Center</strong>
         <br />
         St. George, UT
@@ -50,7 +48,7 @@
       <br />
       225 South 700 East St. George UT, 84790 - Smith Bldg.
       <br />
-      Taught Python and Scratch.mit courses to children aged 10 - 15 years old.
+      Taught Python and Scratch.mit courses to children aged 8 - 13 years old.
     </p>
   </div>
   <div class="expRight2">
