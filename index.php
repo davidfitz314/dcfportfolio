@@ -36,11 +36,14 @@
       <div class="educationLeft">
         <img src="/content/images/education-icon.png" alt="Education">
         <h2>Education</h2>
-        <p><strong>Dixie State University
+        <p><strong>
+          Google Android Associate Certification
+          <br />
+          2019
+          <br />
+          Dixie State University
           <br />
           2017
-          <br />
-          225 S. 700 E. St. George, UT. 84790
           <br />
           BS Computer Information Technology -Emphasis Computer Science
         </strong>
@@ -55,7 +58,7 @@
         <p><strong>
           St. George, UT.
         </strong></p><p><strong>
-          6 months Android Development</strong></p><p><strong>
+          7 months Android Development</strong></p><p><strong>
           2 Years networking, router and wiring installation, and testing/debugging networks.
         </strong>
         </p>
@@ -73,7 +76,7 @@
           <br />
           St. George, UT.
           <br />
-          Taught introductory programming courses to children aged 10 - 15 years old.
+          Taught introductory programming courses to children aged 8 - 13 years old.
         </strong>
         </p>
         <strong>
