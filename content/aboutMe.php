@@ -14,7 +14,7 @@
       <p>My name is David ChenFitzgerald. I am a Freelance Software Developer and IT technician.
         I live in St. George UT, and I love travelling to new places, playing cello, and programming.
         I enjoy building Android apps the most, but the feeling you get when you solve any kind of programming problem is amazing.
-        It pushes me forward to learn more and solve even harder problems, simply put it's the most fun/difficult puzzle I could ever play with!
+        My passion pushes me forward to learn more and solve even harder problems, simply put it's the most fun/difficult puzzle I could ever play with!
       </p><p>My goal is to become an expert software developer with a doctorate in computer science.
       </p>
     </div>
