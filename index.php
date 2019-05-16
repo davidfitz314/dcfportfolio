@@ -10,7 +10,7 @@
         <h2>Welcome to my Portfolio,</h2>
         <!-- <h3>My name is David ChenFitzgerald and I am a Software Developer and IT technician.</h3>
         --><p>
-          My name is David ChenFitzgerald. I am a Freelance Android Developer and IT technician.
+          My name is David ChenFitzgerald. I am a Freelance Software Developer and IT technician.
           I live in St. George UT, and I love travelling to new places, playing cello, and programming.
           I enjoy building Android apps the most, the feeling you get when your work is published in the App store and people are actively downloading it, is amazing!
           </p>
