@@ -36,7 +36,7 @@
     <h2>BACHELORS DEGREE</h2>
     <p><strong>Dixie State University</strong>
       <br />
-      225 S. 700 E. St. George, UT. 84790
+      St. George, UT. 84790
       <br />
       <strong><i>Bachelors of Science in Computer Information Technology <br />emphasis Computer Science</i></strong>
       <br />
