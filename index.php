@@ -4,7 +4,7 @@
   <div class="aboutBanner">
     <div class="bannerLinks">
       <div class="AboutMeWrapperGoRight">
-        <img src="/content/images/davidNormal1.jpg" alt="Everyday Dave" width="250px" height="250px">
+        <img src="/content/images/profile_photo.JPG" alt="Everyday Dave" width="250px" height="250px">
       </div>
       <div class="AboutMeWrapperGoLeft">
         <h2>Welcome to my Portfolio,</h2>

@@ -7,7 +7,7 @@
 <div class="aboutBackground">
   <div class="aboutMain">
     <div class="aboutLeft">
-      <img src="images/davidNormal1.jpg" alt="Everyday Dave">
+      <img src="images/profile_photo.JPG" alt="Everyday Dave">
     </div>
     <div class="aboutRight">
       <h2>BIO</h2>
