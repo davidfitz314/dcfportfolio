@@ -70,7 +70,7 @@ nav {
   background: #414042;
   top: 0;
   padding: 6px;
-  width: 98%;
+  width: 100%;
   transition:all 0.5s;
   position: relative;
   z-index: 1;
@@ -819,9 +819,9 @@ hr {
     max-width: 50px;
     margin: -5px;
   }
-  .navMenu {
+  /* .navMenu {
     width: 100%;
-  }
+  } */
   .menuMaxWidth {
     width: 100%;
   }
