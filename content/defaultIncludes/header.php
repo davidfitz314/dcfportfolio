@@ -24,12 +24,12 @@
         <a href="https://github.com/davidfitz314" target="_blank"><img src="/content/images/github2.png" alt="Github link"></a>
       </div>
     </div>
-    <div class="navMenu" id="navMenu">
+    <nav id="navMenu">
       <div class="menuMaxWidth">
         <a href="/content/aboutMe">About</a>
         <a href="/content/education">Education</a>
         <a href="/content/experience">Experience</a>
         <a href="/content/projects">Projects</a>
       </div>
-    </div>
+    </nav>
   </header>
