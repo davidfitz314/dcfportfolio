@@ -110,7 +110,7 @@ body.fixed-nav nav {
 }
 
 .menuMaxWidth {
-  text-align: center;
+  text-align: right;
   width: 960px;
   margin: 0 auto;
 }
