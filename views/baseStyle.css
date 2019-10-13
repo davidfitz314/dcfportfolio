@@ -111,8 +111,9 @@ body.fixed-nav nav {
 
 .menuMaxWidth {
   text-align: right;
-  width: 960px;
+  /* width: 960px; */
   margin: 0 auto;
+  margin-right: 16%;
 }
 
 
