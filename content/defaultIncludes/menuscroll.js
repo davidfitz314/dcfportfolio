@@ -14,4 +14,8 @@ function fixNav() {
     }
   }
 
+  $("div").scroll(function(){
+      console.log("hello");
+  });
+
   window.addEventListener('scroll', fixNav);
