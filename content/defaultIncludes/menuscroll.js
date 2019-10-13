@@ -1,5 +1,5 @@
 const nav = document.querySelector('.headerMenu');
-let topOfNav = nav.offsetBottom;
+let topOfNav = nav.offsetHeight;
 console.log("position is a "+topOfNav);
 
 function fixNav() {
