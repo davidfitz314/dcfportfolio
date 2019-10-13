@@ -1,4 +1,4 @@
-const nav = document.querySelector('#navMenu');
+let nav = document.querySelector('#navMenu');
 let topOfNav = nav.offsetTop;
 // console.log("position is a "+topOfNav);
 
@@ -14,8 +14,6 @@ function fixNav() {
     }
   }
 
-  $("div").scroll(function(){
-      console.log("hello");
-  });
+  window.onscroll = function() {fixNav};
 
-  window.addEventListener('scroll', fixNav);
+//   window.addEventListener('scroll', fixNav);
