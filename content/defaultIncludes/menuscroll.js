@@ -1,4 +1,4 @@
-const nav = document.querySelector('.navMenu');
+const nav = document.querySelector('#navMenu');
 let topOfNav = nav.offsetTop;
 
 function fixNav() {

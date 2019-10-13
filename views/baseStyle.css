@@ -46,10 +46,6 @@
   margin: 11px;
 }
 
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
 .navMenu {
   color: #ffffff;
   padding: 6px;

@@ -24,7 +24,7 @@
         <a href="https://github.com/davidfitz314" target="_blank"><img src="/content/images/github2.png" alt="Github link"></a>
       </div>
     </div>
-    <div class="navMenu">
+    <div class="navMenu" id="navMenu">
       <div class="menuMaxWidth">
         <a href="/content/aboutMe">About</a>
         <a href="/content/education">Education</a>
