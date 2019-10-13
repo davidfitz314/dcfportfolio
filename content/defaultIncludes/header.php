@@ -8,7 +8,7 @@
   <meta name="keywords" content="david chen fitzgerald, portfolio, resume, education, projects, experience, david, information technology, computer science">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <meta name="author" content="David ChenFitzgerald">
-  <script defer src="menuscroll.js"></script>
+  <script defer src="/content/defaultIncludes/menuscroll.js"></script>
   <title>DCFPortfolio</title>
 </head>
 <body>
