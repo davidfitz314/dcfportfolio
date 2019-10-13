@@ -14,6 +14,5 @@ function fixNav() {
     }
   }
 
-  window.onscroll = function() {fixNav};
 
-//   window.addEventListener('scroll', fixNav);
+  window.addEventListener('scroll', fixNav);
