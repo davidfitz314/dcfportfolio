@@ -46,7 +46,7 @@
   margin: 11px;
 }
 
-.navMenu {
+/* .navMenu {
   color: #ffffff;
   padding: 6px;
   position: relative;
@@ -58,6 +58,24 @@
 }
 
 .navMenu a{
+  text-decoration: none;
+  color: #ffffff;
+  padding: 15px 43px 15px 43px;
+  background-color: #414042;
+  margin-left: -10px;
+  font-size: 1.4em;
+} */
+
+nav {
+  background: #414042;
+  top: 0;
+  width: 100%;
+  transition:all 0.5s;
+  position: relative;
+  z-index: 1;
+}
+
+nav a {
   text-decoration: none;
   color: #ffffff;
   padding: 15px 43px 15px 43px;
