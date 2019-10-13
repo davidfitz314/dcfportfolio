@@ -49,9 +49,9 @@
 .navMenu {
   color: #ffffff;
   padding: 6px;
-  position: static;
+  position: absolute;
+  width: 100%;
   text-align: right;
-  clear:both;
   background-color: #414042;
 }
 
