@@ -67,6 +67,7 @@
 } */
 
 nav {
+  clear: both;
   background: #414042;
   top: 0;
   padding: 6px;
