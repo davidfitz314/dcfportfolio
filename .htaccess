@@ -1,4 +1,8 @@
 RewriteEngine on
+#rewriting http to https
+#RewriteCond %{HTTP_HOST} !^www.dcfportfolio\.com [NC]
+#RewriteCond %{SERVER_PORT} 80
+#RewriteRule ^(.*)$ http://www.dcfportfolio.com/$1 [R=301,L]
 
 #diplaying pages without php extension
 RewriteCond %{REQUEST_FILENAME} !-f
