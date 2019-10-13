@@ -46,10 +46,15 @@
   margin: 11px;
 }
 
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 .navMenu {
   color: #ffffff;
   padding: 6px;
   position: relative;
+  transition:all 0.5s;
   z-index: 1;
   width: 100%;
   text-align: right;
