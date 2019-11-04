@@ -59,8 +59,8 @@
         <p><strong>
           St. George, UT.
         </strong></p><p><strong>
-          7 months Android Development</strong></p><p><strong>
-          2 Years networking, router and wiring installation, and testing/debugging networks.
+          1+ years Android Development</strong></p><p><strong>
+          2+ Years networking, router and wiring installation, and testing/debugging networks.
         </strong>
         </p>
         <strong>
