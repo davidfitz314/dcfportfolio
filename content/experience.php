@@ -14,18 +14,19 @@
     </div>
     <div class="expRight">
       <h2>WORK EXPERIENCE</h2>
-      <p><strong>Experience</strong>
-        <br />
-        <strong>Parks Plus:</strong> July 2019 - Present <br />
+      <p>
+        <strong>Parks Plus</strong><br /> July 2019 - Present <br />
         Building a phone app for Zion National Park and surrounding region.
+        <br />
+        
       </p>
       <p><strong>FreeLance Experience</strong>
         <br />
-        7 months Android Development, including online training, certification and publishing through Google Play Store.
+        7+ months Android Development, including online training, certification and publishing through Google Play Store.
         <br />
-        2 years of networking, including setting up local routers, installing new wires, installing updates, and testing / debugging through the residentail demarcation.
+        2+ years of networking, including setting up local routers, installing new wires, installing updates, and testing / debugging through the residentail demarcation.
         <br />
-        1 year of installing operating systems for linux, windows, and mac os.
+        1+ year of installing operating systems for linux, windows, and mac os.
         </p>
       <p><strong>DSU Disability Resource Center</strong>
         <br />
