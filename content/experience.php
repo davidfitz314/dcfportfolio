@@ -15,8 +15,15 @@
     <div class="expRight">
       <h2>WORK EXPERIENCE</h2>
       <p>
-        <strong>Parks Plus</strong><br /> July 2019 - Present <br />
-        Building a phone app for Zion National Park and surrounding region.
+        <strong>Parks Plus</strong>
+        <br />
+        July 2019 - Present 
+        <br /> 
+        St. George, UT
+        <br />
+        Title: <i>Android Developer</i>
+        <br />
+        Building a phone app for Zion National Park and surrounding region, using: Kotlin, Jetpack Libraries, Mapbox, ViewModel, RecyclerView, and Location Services.
         <br />
         
       </p>
