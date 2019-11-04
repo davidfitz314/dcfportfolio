@@ -14,11 +14,12 @@
     </div>
     <div class="expRight">
       <h2>WORK EXPERIENCE</h2>
-      <p><strong>FreeLance Experience</strong>
+      <p><strong>Experience</strong>
         <br />
-        Parks Plus: July 2019 - Present <br />
+        <strong>Parks Plus:</strong> July 2019 - Present <br />
         Building a phone app for Zion National Park and surrounding region.
-
+      </p>
+      <p><strong>FreeLance Experience</strong>
         <br />
         7 months Android Development, including online training, certification and publishing through Google Play Store.
         <br />
